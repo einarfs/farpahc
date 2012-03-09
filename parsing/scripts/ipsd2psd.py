@@ -321,7 +321,7 @@ def final_replacements():
     currentText = re.sub("\(PRO-(N) ([Hh]inn)-hinn\)","(D-\\1 \\2-hinn)",currentText)
 
     # NEGATION
-    currentText = re.sub("\(ADVP \(ADV ([Ee]kki|[Ee]igi|[Ee]i)-(ekki|eigi|ei)\)\)","(NEG \\1-\\2)",currentText)
+#    currentText = re.sub("\(ADVP \(ADV ([Ee]kki|[Ee]igi|[Ee]i)-(ekki|eigi|ei)\)\)","(NEG \\1-\\2)",currentText)
     # CONJUNCTIONS
     currentText = re.sub("\(CP \(C ([Oo]g|[Ee]n|[Ee]ða|[Ee]ður|[Ee]llegar|[Hh]eldur|[Ee]nda)-([Oo]g|[Ee]n|[Ee]ða|[Ee]ður|[Ee]llegar|[Hh]eldur|[Ee]nda)\)\)","(CONJ \\1-\\2)",currentText)
     rep("\(SCP \(C bæði\-bæði\)\)","(CONJ bæði-bæði)")
@@ -514,12 +514,18 @@ def final_replacements():
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ss]anniliga)-(['"+allchars+"']+)\)","(ADV \\3-sanniliga)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ss]oleiðis)-(['"+allchars+"']+)\)","(WADV \\3-soleiðis)")
     rep("\((['"+allchars+"']+) ([Ss]oleiðis)-(['"+allchars+"']+)\)","(ADV \\2-soleiðis)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Uu]ppaftur)-(['"+allchars+"']+)\)","(ADV \\3-uppaftur)")
+    rep("\((['"+allchars+"']+) ([Uu]ppaftur)-(['"+allchars+"']+)\)","(ADV \\2-uppaftur)")
 
     # Faroese wadverbs
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Hh]var)-(['"+allchars+"']+)\)","(WADV \\3-hvar)")
     rep("\((['"+allchars+"']+) ([Hh]var)-(['"+allchars+"']+)\)","(WADV \\2-hvar)")
 
     # Faroese modal verbs
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ee]igur)-(['"+allchars+"']+)\)","(VBPI \\3-eiga)")
+    rep("\((['"+allchars+"']+) ([Ee]igur)-(['"+allchars+"']+)\)","(VBPI \\2-eiga)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ee]igi)-(['"+allchars+"']+)\)","(VBPI \\3-eiga)")
+    rep("\((['"+allchars+"']+) ([Ee]igi)-(['"+allchars+"']+)\)","(VBPI \\2-eiga)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Mm]an)-(['"+allchars+"']+)\)","(MDPI \\3-munna)")
     rep("\((['"+allchars+"']+) ([Mm]an)-(['"+allchars+"']+)\)","(MDPI \\2-munna)")
     rep("\((['"+allchars+"']+) ([Mm]anst)-(['"+allchars+"']+)\)","(MDPI \\2-munna)")
@@ -584,6 +590,14 @@ def final_replacements():
 #    currentText = re.sub("\((NP|NP-OB2|NP-OB1) \(CODE VS["+allchars+"]+\) \(N-[NADG] ([Tt]á)-(tá)\)\)","(ADVP-TMP (ADV \\2-\\3))",currentText)
     currentText = re.sub("\(ADJP \(ADJ-([NADG]) ([Tt]á)ið-táinn\)\)", "(ADVP-TMP (ADV \\2$-tá) (C $ið-ið))",currentText)
 #    currentText = re.sub("\(['"+allchars+"']+ \(['"+allchars+"']+ ([Tt]á)-['"+allchars+"']+\)\) \(['"+allchars+"']+ \(['"+allchars+"']+-['"+allchars+"']+ ([Ii]ð)-['"+allchars+"']+\)\)" , "(ADV \\1-tá) (C \\2-ið)",currentText)
+
+    # Faroese OTHER
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Aa]ðrar)-(['"+allchars+"']+)\)","(OTHERS-N \\3-annar)")
+    rep("\((['"+allchars+"']+) ([Aa]ðrar)-(['"+allchars+"']+)\)","(OTHERS-N \\2-annar)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Aa]ðrir)-(['"+allchars+"']+)\)","(OTHERS-N \\3-annar)")
+    rep("\((['"+allchars+"']+) ([Aa]ðrir)-(['"+allchars+"']+)\)","(OTHERS-N \\2-annar)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Aa]ðra)-(['"+allchars+"']+)\)","(OTHERS-A \\3-annar)")
+    rep("\((['"+allchars+"']+) ([Aa]ðra)-(['"+allchars+"']+)\)","(OTHERS-A \\2-annar)")
 
     # Faroese pronouns
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Tt]ú)-(['"+allchars+"']+)\)","(PRO-N \\3-tú)")
@@ -671,6 +685,8 @@ def final_replacements():
     rep("\((ADV) ([Uu]m)-(['"+allchars+"']+)\)","(P \\2-um)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Vv]ið)-(['"+allchars+"']+)\)","(P \\3-við)")
     rep("\((['"+allchars+"']+) ([Yy]vir)-(['"+allchars+"']+)\)","(P \\2-yvir)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Uu]pp)(um)-(['"+allchars+"']+)\)","(RP \\3$-upp) (P $\\4-um)")
+    rep("\((['"+allchars+"']+) ([Uu]pp)(um)-(['"+allchars+"']+)\)","(RP \\2$-upp) (P $\\3-um)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Uu]ttan)-(['"+allchars+"']+)\)","(P \\3-uttan)")
     rep("\((['"+allchars+"']+) ([Uu]ttan)-(['"+allchars+"']+)\)","(P \\2-uttan)")
 
@@ -947,8 +963,10 @@ def final_replacements():
     rep("\((['"+allchars+"']+) ([Vv]ita)-(['"+allchars+"']+)\)","(VBPI \\2-vita)")
 
     # Faroese lexicon, nouns
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Dd]ag)(in)-(['"+allchars+"']+)\)","(N-A \\3$-dagur) (D-A $\\4-hinn)")
     rep("\((['"+allchars+"']+) ([Dd]ag)(in)-(['"+allchars+"']+)\)","(N-A \\2$-orð) (D-A $\\3-hinn)")
-    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Dd]ag)(in)-(['"+allchars+"']+)\)","(N-A \\3$-orð) (D-A $\\4-hinn)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ee]yg)(uni)-(['"+allchars+"']+)\)","(NS-N \\3$-eyga) (D-N $\\4-hinn)")
+    rep("\((['"+allchars+"']+) ([Ee]yg)(uni)-(['"+allchars+"']+)\)","(NS-N \\2$-eyga) (D-N $\\3-hinn)")
     rep("\(N-([A-Z]) (Gud["+allchars+"]+)-(gud)\)","(NPR-\\1 \\2-\\3)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Jj]esus)-(['"+allchars+"']+)\)","(NPR-N \\3-jesus)")
     rep("\((N)-([A-Z]) (Jesu["+allchars+"]+)-jesusur\)","(NPR-\\2 \\3-jesus)")
