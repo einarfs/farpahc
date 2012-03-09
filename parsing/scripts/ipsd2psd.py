@@ -868,11 +868,15 @@ def final_replacements():
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Óó]tu)-(['"+allchars+"']+)\)","(VBDI \\3-eta)")
     rep("\((['"+allchars+"']+) ([Óó]ótu)-(['"+allchars+"']+)\)","(VBDI \\2-eta)")
 
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ff]ell)-(['"+allchars+"']+)\)","(VBDI \\3-falla)")
+    rep("\((['"+allchars+"']+) ([Ff]ell)-(['"+allchars+"']+)\)","(VBDI \\2-falla)")
+
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ff]ar)-(['"+allchars+"']+)\)","(VBI \\3-fara)")
     rep("\((['"+allchars+"']+) ([Ff]ar)-(['"+allchars+"']+)\)","(VBI \\2-fara)")
 
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ff]áa)-(['"+allchars+"']+)\)","(VB \\3-fáa)")
     rep("\((['"+allchars+"']+) ([Ff]áa)-(['"+allchars+"']+)\)","(VB \\2-fáa)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ff]ingið)-(['"+allchars+"']+)\)","(VBN \\3-fáa)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ff]ekk)-(['"+allchars+"']+)\)","(VBDI \\3-fáa)")
     rep("\((['"+allchars+"']+) ([Ff]ekk)-(['"+allchars+"']+)\)","(VBDI \\2-fáa)")
 
