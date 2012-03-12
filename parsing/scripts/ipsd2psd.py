@@ -450,6 +450,8 @@ def final_replacements():
     # Faroese add: VAN vorðnir>RDN
 
     # Faroese adjectives
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Dd]eyður)-(['"+allchars+"']+)\)","(ADJ-N \\3-deyður)")
+    rep("\((['"+allchars+"']+) ([Dd]eyður)-(['"+allchars+"']+)\)","(ADJ-N \\2-deyður)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ee]gin)-(['"+allchars+"']+)\)","(ADJ-N \\3-egin)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ee]gið)-(['"+allchars+"']+)\)","(ADJ-\\2 \\3-egin)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ee]gna)-(['"+allchars+"']+)\)","(ADJ-A \\3-egin)")
@@ -515,6 +517,8 @@ def final_replacements():
     rep("\((['"+allchars+"']+) ([Oo]man)-(['"+allchars+"']+)\)","(ADV \\2-oman)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Oo]man)-(['"+allchars+"']+)\)","(ADV \\3-oman)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ss]anniliga)-(['"+allchars+"']+)\)","(ADV \\3-sanniliga)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ss]era)-(['"+allchars+"']+)\)","(ADV \\3-sera)")
+    rep("\((['"+allchars+"']+) ([Ss]era)-(['"+allchars+"']+)\)","(ADV \\2-sera)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ss]oleiðis)-(['"+allchars+"']+)\)","(WADV \\3-soleiðis)")
     rep("\((['"+allchars+"']+) ([Ss]oleiðis)-(['"+allchars+"']+)\)","(ADV \\2-soleiðis)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Uu]ppaftur)-(['"+allchars+"']+)\)","(ADV \\3-uppaftur)")
@@ -708,6 +712,7 @@ def final_replacements():
     rep("\((ADV) ([Úú]t)-(['"+allchars+"']+)\)","(RP \\2-út)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Nn]iður)(í)-(['"+allchars+"']+)\)","(RP \\3$-niður) (RPX $\\4-í)")
     rep("\((['"+allchars+"']+) ([Nn]iður)(í)-(['"+allchars+"']+)\)","(RP \\2$-niður) (RPX $\\3-í)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Bb]ert)-(['"+allchars+"']+)\)","(FP \\3-bert)")
     rep("\((['"+allchars+"']+) ([Bb]ert)-(['"+allchars+"']+)\)","(FP \\2-bert)")
 
     # Faroese determiners
@@ -880,6 +885,10 @@ def final_replacements():
     rep("\((['"+allchars+"']+) ([Tt]ysta)-(['"+allchars+"']+)\)","(VBPI \\2-tysta)")
 
     # Faroese lexicon, weak verbs
+    rep("\((['"+allchars+"']+) ([Ss]í)-(['"+allchars+"']+)\)","(VBI \\2-síggja)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ss]krivað)-(['"+allchars+"']+)\)","(VAN \\3-skriva)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Vv]isti)-(['"+allchars+"']+)\)","(VBDI \\3-vita)")
+    rep("\((['"+allchars+"']+) ([Vv]isti)-(['"+allchars+"']+)\)","(VBDI \\2-vita)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Vv]itna)-(['"+allchars+"']+)\)","(VBPI \\3-vitna)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Vv]itni)-(['"+allchars+"']+)\)","(VBPI \\3-vitna)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Vv]itnaðu)-(['"+allchars+"']+)\)","(VBDI \\3-vitna)")
@@ -925,6 +934,7 @@ def final_replacements():
     rep("\((['"+allchars+"']+) ([Gg]óvu)-(['"+allchars+"']+)\)","(VBDI \\2-geva)")
     rep("\((['"+allchars+"']+) ([Gg]ivin)-(['"+allchars+"']+)\)","(VAN \\2-geva)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Gg]ivin)-(['"+allchars+"']+)\)","(VAN \\3-geva)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Gg]ivið)-(['"+allchars+"']+)\)","(VBN \\3-geva)")
     rep("\((['"+allchars+"']+) ([Gg]ivið)-(['"+allchars+"']+)\)","(VBN \\2-geva)")
 
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Hh]ildið)-(['"+allchars+"']+)\)","(VBN \\3-halda)")
@@ -934,6 +944,8 @@ def final_replacements():
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Hh]elt)-(['"+allchars+"']+)\)","(VBDI \\3-halda)")
     rep("\((['"+allchars+"']+) ([Hh]elt)-(['"+allchars+"']+)\)","(VBDI \\2-halda)")
 
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ll]at)-(['"+allchars+"']+)\)","(VBI \\3-láta)")
+    rep("\((['"+allchars+"']+) ([Ll]at)-(['"+allchars+"']+)\)","(VBI \\2-láta)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ll]atið)-(['"+allchars+"']+)\)","(VBPI \\3-láta)")
     rep("\((['"+allchars+"']+) ([Ll]atið)-(['"+allchars+"']+)\)","(VBPI \\2-láta)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ll])(at\$)-(['"+allchars+"']+)\) \((['"+allchars+"']+)-(['"+allchars+"']+) (\$ið)-(['"+allchars+"']+)\)","(VBN \\3atið-láta)")
