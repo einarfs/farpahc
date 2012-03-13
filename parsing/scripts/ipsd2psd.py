@@ -456,6 +456,7 @@ def final_replacements():
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ee]gið)-(['"+allchars+"']+)\)","(ADJ-\\2 \\3-egin)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ee]gna)-(['"+allchars+"']+)\)","(ADJ-A \\3-egin)")
     rep("\((['"+allchars+"']+) ([Ee]gna)-(['"+allchars+"']+)\)","(ADJ-A \\2-egin)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ee]gnu)-(['"+allchars+"']+)\)","(ADJ-A \\3-egin)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ee]gnum)-(['"+allchars+"']+)\)","(ADJ-D \\3-egin)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ee]gins)-(['"+allchars+"']+)\)","(ADJ-G \\3-egin)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ee]gnar)-(['"+allchars+"']+)\)","(ADJ-\\2 \\3-egin)")
@@ -571,7 +572,7 @@ def final_replacements():
     # Faroese DO
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Gg]ert)-(['"+allchars+"']+)\)","(DOPI \\3-gera)")
     rep("\((['"+allchars+"']+) ([Gg]ert)-(['"+allchars+"']+)\)","(DOPI \\2-gera)")
-    rep("\((['"+allchars+"']+) ([Gg]er)-(['"+allchars+"']+)\)","(DOPI \\2-gera)")
+    rep("\((['"+allchars+"']+) ([Gg]er)-(['"+allchars+"']+)\)","(DOI \\2-gera)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Gg]jördi)-(['"+allchars+"']+)\)","(DODI \\3-gera)")
     rep("\((['"+allchars+"']+) ([Gg]jördi)-(['"+allchars+"']+)\)","(DODI \\2-gera)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Gg]jördu)-(['"+allchars+"']+)\)","(DODI \\3-gera)")
@@ -654,6 +655,7 @@ def final_replacements():
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Tt]ey)-(['"+allchars+"']+)\)","(PRO-N \\3-tað)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Mm]ítt)-(['"+allchars+"']+)\)","(PRO-\\2 \\3-mín)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Tt]ítt)-(['"+allchars+"']+)\)","(PRO-\\2 \\3-tín)")
+    rep("\((['"+allchars+"']+) ([Tt]ítt)-(['"+allchars+"']+)\)","(PRO-\\1 \\2-tín)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ss]ítt)-(['"+allchars+"']+)\)","(PRO-\\2 \\3-sín)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Mm]íni)-(['"+allchars+"']+)\)","(PRO-D \\3-mín)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Tt]ín)-(['"+allchars+"']+)\)","(PRO-N \\3-tín)")
@@ -689,6 +691,9 @@ def final_replacements():
     rep("\((['"+allchars+"']+) ([Ff]yri)-(['"+allchars+"']+)\)","(P \\2-fyri)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Gg]jögnum)-(['"+allchars+"']+)\)","(P \\3-gjögnum)")
     rep("\((['"+allchars+"']+) ([Gg]jögnum)-(['"+allchars+"']+)\)","(P \\2-gjögnum)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Hh]er)(eftir)-(['"+allchars+"']+)\)","(ADV \\3$-her) (P $\\4-eftir)")
+    rep("\((['"+allchars+"']+) ([Hh]er)(eftir)-(['"+allchars+"']+)\)","(ADV \\2$-her) (P $\\3-eftir)")
+
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Mm]illum)-(['"+allchars+"']+)\)","(P \\3-millum)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Íí])(millum)-(['"+allchars+"']+)\)","(P \\3$-í) (P $\\4-millum)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Áá])(millum)-(['"+allchars+"']+)\)","(P \\3$-á) (P $\\4-millum)")
@@ -822,6 +827,8 @@ def final_replacements():
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Áá]ðr)(enn)-(['"+allchars+"']+)\)","(ADVR \\3$-áðr) (P $\\4-enn)")
     rep("\((FW) ([Ss]o)-(['"+allchars+"']+)\)","(P \\2-\\3)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ii]ð)-(['"+allchars+"']+)\)","(C \\3-ið)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ll]íka)(sum)-(['"+allchars+"']+)\)","(ADVR \\3$-líka) (C $\\4-sum)")
+    rep("\((['"+allchars+"']+) ([Ll]íka)(sum)-(['"+allchars+"']+)\)","(ADVR \\2$-líka) (C $\\3-sum)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ss]um)-(['"+allchars+"']+)\)","(C \\3-sum)")
     rep("\((FW) ([Aa]t)-(['"+allchars+"']+)\)","(C \\2-at)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Aa]t)-(['"+allchars+"']+)\)","(C \\3-at)")
@@ -885,6 +892,11 @@ def final_replacements():
     rep("\((['"+allchars+"']+) ([Tt]ysta)-(['"+allchars+"']+)\)","(VBPI \\2-tysta)")
 
     # Faroese lexicon, weak verbs
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Dd]ýrmettur)-(['"+allchars+"']+)\)","(VAN \\3-dýrmeta)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Dd]ýrmettan)-(['"+allchars+"']+)\)","(VAN-A \\3-dýrmeta)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Dd]öma)-(['"+allchars+"']+)\)","(VB \\3-döma)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Dd]ömir)-(['"+allchars+"']+)\)","(VBPI \\3-döma)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Dd]ömi)-(['"+allchars+"']+)\)","(VBPI \\3-döma)")
     rep("\((['"+allchars+"']+) ([Ss]í)-(['"+allchars+"']+)\)","(VBI \\2-síggja)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ss]krivað)-(['"+allchars+"']+)\)","(VAN \\3-skriva)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Vv]isti)-(['"+allchars+"']+)\)","(VBDI \\3-vita)")
@@ -896,6 +908,8 @@ def final_replacements():
     # Faroese lexicon, strong verbs
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Bb]óru)-(['"+allchars+"']+)\)","(VBDI \\3-bera)")
     rep("\((['"+allchars+"']+) ([Bb]óru)-(['"+allchars+"']+)\)","(VBDI \\2-bera)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Bb]ant)-(['"+allchars+"']+)\)","(VBDI \\3-binda)")
+    rep("\((['"+allchars+"']+) ([Bb]ant)-(['"+allchars+"']+)\)","(VBDI \\2-binda)")
 
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Dd])(rip\$)-(['"+allchars+"']+)\) \((['"+allchars+"']+)-(['"+allchars+"']+) (\$ið)-(['"+allchars+"']+)\)","(VBN \\3ipið-drepa)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Dd])(rip\$)-(['"+allchars+"']+)\) \((['"+allchars+"']+)-(['"+allchars+"']+) (\$in)-(['"+allchars+"']+)\)","(VBN \\3ipin-drepa)")
@@ -916,6 +930,8 @@ def final_replacements():
 
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ff]ar)-(['"+allchars+"']+)\)","(VBI \\3-fara)")
     rep("\((['"+allchars+"']+) ([Ff]ar)-(['"+allchars+"']+)\)","(VBI \\2-fara)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ff]ara)-(['"+allchars+"']+)\)","(VB \\3-fara)")
+    rep("\((['"+allchars+"']+) ([Ff]ara)-(['"+allchars+"']+)\)","(VB \\2-fara)")
 
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ff]áa)-(['"+allchars+"']+)\)","(VB \\3-fáa)")
     rep("\((['"+allchars+"']+) ([Ff]áa)-(['"+allchars+"']+)\)","(VB \\2-fáa)")
@@ -924,6 +940,11 @@ def final_replacements():
     rep("\((['"+allchars+"']+) ([Ff]ekk)-(['"+allchars+"']+)\)","(VBDI \\2-fáa)")
 
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Gg])(ing\$)-(['"+allchars+"']+)\) \((['"+allchars+"']+)-(['"+allchars+"']+) (\$in)-(['"+allchars+"']+)\)","(VBN \\3ingin-ganga)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Gg])(ing\$)-(['"+allchars+"']+)\) \((['"+allchars+"']+)-(['"+allchars+"']+) (\$ið)-(['"+allchars+"']+)\)","(VBN \\3ingið-ganga)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Gg]ongur)-(['"+allchars+"']+)\)","(VBPI \\3-ganga)")
+    rep("\((['"+allchars+"']+) ([Gg]ongur)-(['"+allchars+"']+)\)","(VBPI \\2-ganga)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Gg]anga)-(['"+allchars+"']+)\)","(VB \\3-ganga)")
+    rep("\((['"+allchars+"']+) ([Gg]anga)-(['"+allchars+"']+)\)","(VB \\2-ganga)")
 
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Gg]ev)-(['"+allchars+"']+)\)","(VBI \\3-geva)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Gg]eva)-(['"+allchars+"']+)\)","(VBPI \\3-geva)")
@@ -998,7 +1019,8 @@ def final_replacements():
     rep("\((['"+allchars+"']+) ([Dd]ag)(in)-(['"+allchars+"']+)\)","(N-A \\2$-orð) (D-A $\\3-hinn)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Ee]yg)(uni)-(['"+allchars+"']+)\)","(NS-N \\3$-eyga) (D-N $\\4-hinn)")
     rep("\((['"+allchars+"']+) ([Ee]yg)(uni)-(['"+allchars+"']+)\)","(NS-N \\2$-eyga) (D-N $\\3-hinn)")
-    rep("\(N-([A-Z]) (Gud["+allchars+"]+)-(gud)\)","(NPR-\\1 \\2-\\3)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Hh]arri)-(['"+allchars+"']+)\)","(NPR-N \\3-harri)")
+    rep("\((['"+allchars+"']+)-(['"+allchars+"']+) (Gud["+allchars+"]+)-(['"+allchars+"']+)\)","(NPR-\\2 \\3-gud)")
     rep("\((['"+allchars+"']+)-(['"+allchars+"']+) ([Jj]esus)-(['"+allchars+"']+)\)","(NPR-N \\3-jesus)")
     rep("\((N)-([A-Z]) (Jesu["+allchars+"]+)-jesusur\)","(NPR-\\2 \\3-jesus)")
     rep("\(NPR-([A-Z]) (Jesu["+allchars+"]+)-jesuur\)","(NPR-\\1 \\2-jesus)")
