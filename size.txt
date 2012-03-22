@@ -21,3 +21,4 @@ date_of_count	words
 03-19-2012	20039
 03-21-2012	22187
 03-22-2012	23099
+New wordcount (after concatenate): 23921
