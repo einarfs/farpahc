@@ -84,6 +84,7 @@
 	  (PP (P við)
 	      (NP (PRO-D tí)))
 	  (. .-.)))
+
 ( (IP-MAT (CODE VS:I_6J)
 	  (NP-SBJ *exp*-1)
 	  (NP-1 (N-N Maður))
@@ -416,6 +417,7 @@
 	  (VBN kunngjört)
 	  (NP-OB1 (PRO-A hann))
 	  (. .-.)))
+
 ( (IP-MAT (CODE VS:I_19J)
 	  (CONJ Og)
 	  (NP-SBJ (D-N hetta))
@@ -916,6 +918,7 @@
 					  (NP-POS (NPR-G Guðs)))))
 	  (. .-.)
 	  (" ")))
+
 ( (IP-MAT (CODE VS:I_35J)
 	  (NP-TMP (N-A Dag$) (D-A $in) (ADV eftir))
 	  (VBDI stóð)
@@ -1486,6 +1489,7 @@
 								     (NP (N-A menniskjuson$) (D-A $in))))))))
 	  (. .-.)
 	  (" ")))
+
 ( (IP-MAT (CODE VS:II_1J)
 	  (CONJ Og)
 	  (NP-SBJ *exp*-1)
@@ -1661,6 +1665,7 @@
 	  (VBDI bóru)
 	  (NP-OB2 (PRO-D honum))
 	  (. .-.)))
+
 ( (IP-MAT (CODE VS:II_9J)
 	  (CONJ Men)
 	  (ADVP-TMP (ADV tá)
@@ -1843,6 +1848,7 @@
 	  (CONJP-3 (CONJ og)
 		   (NP (NS-N peningavekslarar$) (D-A $nar)))
 	  (. .-.)))
+
 ( (IP-MAT (CODE VS:II_15J)
 	  (CONJ Og)
 	  (NP-SBJ (PRO-N hann))
@@ -2147,6 +2153,7 @@
 								      (PP (P í)
 									  (NP (N-D menniskj$) (D-D $uni)))))))))))
 	  (. .-.)))
+
 ( (IP-MAT (CODE VS:III_1J)
 	  (CONJ Men)
 	  (NP-SBJ *exp*-2)
@@ -2580,6 +2587,7 @@
 						    (PP (P í)
 							(NP (N-D himl$) (D-D $inum))))))))
 	      (. .-.)))
+
 ( (IP-MAT-SPE (CODE VS:III_14J)
 	      (CONJ Og)
 	      (ADVP-LFD (ADVR eins)
@@ -2911,6 +2919,7 @@
 				      (PP (P í)
 					  (NP (N-A fongsil)))))))
 	  (. .-.)))
+
 ( (IP-MAT (CODE VS:III_25J)
 	  (NP-SBJ *exp*-1)
 	  (ADVP-TMP (ADV Tá))
@@ -3259,6 +3268,7 @@
 		  (NP (PRO-D honum)))
 	      (. .-.)
 	      (" ")))
+
 ( (IP-MAT (CODE VS:IV_1J)
 	  (ADVP-TMP-LFD (ADV Tá)
 			(CP-REL (WADVP-1 0)
@@ -3730,6 +3740,7 @@
 									       (IP-INF-PRP-SPE (TO at) (VB draga) (RP upp)))))))))
 	  (. .-.)
 	  (" ")))
+
 ( (IP-MAT (CODE VS:IV_16J)
 	  (NP-SBJ (PRO-N Hann))
 	  (VBPI sigur)
@@ -4192,6 +4203,7 @@
 						      (VBPI eta)))))
 	  (. .-.)
 	  (" ")))
+
 ( (IP-MAT (CODE VS:IV_32J)
 	  (CONJ Men)
 	  (NP-SBJ (PRO-N hann))
@@ -4901,6 +4913,7 @@
 							    (PP (P til)
 								(NP (NPR-G Galileu)))))))))
 	  (. .-.)))
+
 ( (IP-MAT (CODE VS:V_1J)
 	  (NP-SBJ *exp*-1)
 	  (PP (P Eftir)
@@ -5452,6 +5465,7 @@
 							     (ADJP (NP (NPR-D Guði))
 								   (ADJ-A líkan)))))))))
 	  (. .-.)))
+
 ( (IP-MAT (CODE VS:V_19J)
 	  (ADVP-TMP (ADV Tá))
 	  (VBDI tók)
@@ -6353,6 +6367,7 @@
 				  (NP-POS (PRO-D mínum))))
 	      (. !-!)
 	      (" ")))
+
 ( (IP-MAT (CODE VS:VI_1J)
 	  (PP (P Eftir)
 	      (NP (D-A hetta)))
@@ -6924,6 +6939,7 @@
 	  (. ,-,)))
 
 ( (IP-IMP-SPE (VBPI ræðist) (NEG ikki) (. !-!) (" ")))
+
 ( (IP-MAT (CODE VS:VI_21J)
 	  (NP-SBJ (PRO-N Teir))
 	  (MDDI vildu)
@@ -7369,6 +7385,7 @@
 												 (NP-OB1 (N-A lív)))))))))))
 	      (. .-.)
 	      (" ")))
+
 ( (IP-MAT (CODE VS:VI_34J)
 	  (ADVP-TMP (ADV Tá))
 	  (VBDI sögdu)
@@ -8472,6 +8489,7 @@
 						(PP (P av)
 						    (NP (PRO-D teimum) (NUM-D tólv))))))))
 	  (. .-.)))
+
 ( (IP-MAT (CODE VS:VII_1J)
 	  (CONJ Og)
 	  (PP (P eftir)
@@ -9007,6 +9025,7 @@
 					  (NP (NS-D dögum)))))
 	      (. ?-?)
 	      (" ")))
+
 ( (IP-MAT (CODE VS:VII_21J)
 	  (NP-SBJ (NPR-N Jesus))
 	  (VBDI svaraði)))
@@ -9314,6 +9333,7 @@
 				      (NEG ikki)
 				      (VBN komin)))))
 	  (. .-.)))
+
 ( (IP-MAT (CODE VS:VII_31J)
 	  (CONJ Men)
 	  (NP-SBJ (Q-N mangir)
@@ -9940,6 +9960,7 @@
 		  (PP (P til)
 		      (NP (PRO-G sín))))
 	  (. .-.)))
+
 ( (IP-MAT (CODE VS:VIII_1J)
 	  (CONJ Men)
 	  (NP-SBJ (NPR-N Jesus))
@@ -10465,6 +10486,7 @@
 		  (NP (PRO-A meg)))
 	      (. .-.)
 	      (" ")))
+
 ( (IP-MAT (CODE VS:VIII_19J)
 	  (NP-SBJ (PRO-N Teir))
 	  (VBDI sögdu)
@@ -11001,6 +11023,7 @@
 				      (ADJP (ADJ-N frælsir))))
 	      (. ?-?)
 	      (" ")))
+
 ( (IP-MAT-SPE (CODE VS:VIII_34J)
 	      (NP-SBJ (NPR-N Jesus))
 	      (VBDI svaraði)
@@ -11843,6 +11866,7 @@
 	  (PP (P úr)
 	      (NP (N-D halgidóm$) (D-D $inum)))
 	  (. .-.)))
+
 ( (IP-MAT (CODE VS:IX_1J)
 	  (CONJ Og)
 	  (ADVP-TMP (ADV tá)
@@ -12165,6 +12189,7 @@
 					  (NP-POS (PRO-N tíni)))))
 	  (. ?-?)
 	  (" ")))
+
 ( (IP-MAT (CODE VS:IX_11J)
 	  (NP-SBJ (PRO-N Hann))
 	  (VBDI svaraði)
@@ -12684,6 +12709,7 @@
 				      (NP-PRD (N-N syndari))))
 	      (. .-.)
 	      (" ")))
+
 ( (IP-MAT (CODE VS:IX_25J)
 	  (ADVP-TMP (ADV Tá))
 	  (VBDI svaraði)
@@ -13203,6 +13229,7 @@
 	      (BAG verandi)
 	      (. .-.)
 	      (" ")))
+
 ( (IP-MAT-SPE (CODE VS:X_1J)
 	      (ADVP (" ") (ADV Sanniliga) (, ,-,) (ADV sanniliga))
 	      (VBPI sigi)
@@ -13744,6 +13771,7 @@
 			      (NP (PRO-D honum))))
 	      (. ?-?)
 	      (" ")))
+
 ( (IP-MAT (CODE VS:X_21J)
 	  (NP-SBJ (OTHERS-N Aðrir))
 	  (VBDI sögdu)
@@ -14292,6 +14320,7 @@
 	      (NP (PRO-A hann)))
 	  (ADVP-LOC (ADV har))
 	  (. .-.)))
+
 ( (IP-MAT (CODE VS:XI_1J)
 	  (CONJ Men)
 	  (NP-SBJ (ONE-N ein)
@@ -15093,6 +15122,7 @@
 				  (VBN mött)
 				  (NP-OB1 (PRO-D honum))))))
 	  (. .-.)))
+
 ( (IP-MAT (CODE VS:XI_31J)
 	  (ADVP-TMP (ADV Tá)
 		    (CP-REL (WADVP-1 0)
@@ -15944,6 +15974,7 @@
 						      (VB taka)
 						      (NP-OB1 (PRO-A hann))))))))
 	  (. .-.)))
+
 ( (IP-MAT (CODE VS:XII_1J)
 	  (PP (NP-MSR (NUM-A Seks) (NS-A dagar))
 	      (P fyri)
@@ -16691,6 +16722,7 @@
 	      (VB æra)
 	      (NP-OB1 (PRO-A hann))
 	      (. .-.)))
+
 ( (IP-MAT-SPE (CODE VS:XII_27J)
 	      (ADVP-TMP (ADV Nú))
 	      (BEPI er)
@@ -17456,6 +17488,7 @@
 					    (NP-OB2 (PRO-D mær)))))
 	      (. .-.)
 	      (" ")))
+
 ( (IP-MAT (CODE VS:XIII_1J)
 	  (NP-SBJ (PRO-N Tað))
 	  (BEDI var)
@@ -18089,6 +18122,7 @@
 								  (BEPI eri)
 								  (NP-PRD (PRO-N eg)))))))
 	      (. .-.)))
+
 ( (IP-MAT-SPE (ADVP (CODE VS:XIII_20J)
 		    (ADV Sanniliga)
 		    (, ,-,)
@@ -18745,6 +18779,7 @@
 							    (NP-TMP (NUM-A tríggjar) (NS-A ferðir)))))))
 	  (. .-.)
 	  (" ")))
+
 ( (IP-MAT-SPE (CODE VS:XIV_1J)
 	      (" ")
 	      (NP-SBJ (NPR-N Hjarta)
@@ -19212,6 +19247,7 @@
 	      (NP-OB1 (NS-A boð)
 		      (NP-POS (PRO-A míni)))
 	      (. !-!)))
+
 ( (IP-MAT-SPE (CODE VS:XIV_16J)
 	      (CONJ Og)
 	      (NP-SBJ (PRO-N eg))
@@ -19769,6 +19805,7 @@
 			  (ADVP-DIR (ADV hiðani)))
 	      (. !-!)
 	      (" ")))
+
 ( (IP-MAT-SPE (CODE VS:XV_1J)
 	      (" ")
 	      (NP-SBJ (PRO-N Eg))
@@ -20628,6 +20665,7 @@
 						      (NP (ADJ-D fyrstu) (N-D tíð)))))))
 	      (. .-.)
 	      (" ")))
+
 ( (IP-MAT-SPE (CODE VS:XVI_1J)
 	      (" ")
 	      (NP-OB1 (D-A Hetta))
@@ -21166,6 +21204,7 @@
 				      (VBPI talar)))
 	      (. .-.)
 	      (" ")))
+
 ( (IP-MAT (CODE VS:XVI_19J)
 	  (NP-SBJ (NPR-N Jesus))
 	  (VBDI visti)
@@ -21689,6 +21728,7 @@
 		  (NP (N-D heim$) (D-D $inum)))
 	      (. .-.)
 	      (" ")))
+
 ( (IP-MAT (CODE VS:XVII_1J)
 	  (NP-OB1 (D-A Hetta))
 	  (VBDI talaði)
@@ -22575,6 +22615,7 @@
 									   (NP (PRO-D teimum)))))))))
 	      (. .-.)
 	      (" ")))
+
 ( (IP-MAT (CODE VS:XVIII_1J)
 	  (ADVP-TMP (ADV Tá)
 		    (CP-REL (WADVP 0)
@@ -23271,6 +23312,7 @@
 				  (VBN sagt)))
 	      (. .-.)
 	      (" ")))
+
 ( (IP-MAT (CODE VS:XVIII_22J)
 	  (CONJ Men)
 	  (PP (P í)
@@ -23926,6 +23968,7 @@
 	  (BEDI var)
 	  (NP-PRD (N-N ránsmaður))
 	  (. .-.)))
+
 ( (IP-MAT (CODE VS:XIX_1J)
 	  (ADVP-TMP (ADV Tá))
 	  (VBDI tók)
@@ -24610,6 +24653,7 @@
 								  (NP-POS (NPRS-G Jöd$) (D-G $anna))))))))
 	  (. .-.)
 	  (" ")))
+
 ( (IP-MAT (CODE VS:XIX_22J)
 	  (NP-SBJ (NPR-N Pilatus))
 	  (VBDI svaraði)
@@ -25346,6 +25390,7 @@
 				      (BEDI var)
 				      (ADVP-LOC (ADV nær))))))
 	  (. .-.)))
+
 ( (IP-MAT (CODE VS:XX_1J)
 	  (CONJ Men)
 	  (NP-TMP (ADJ-A fyrsta)
@@ -25882,6 +25927,7 @@
 	  (QTP (NP (N-N meistari)))
 	  (CODE </paren>)
 	  (. .-.)))
+
 ( (IP-MAT (CODE VS:XX_17J)
 	  (NP-SBJ (NPR-N Jesus))
 	  (VBPI sigur)
@@ -26443,6 +26489,7 @@
 						     (NP (N-D navni)
 							 (NP-POS (PRO-G hansara))))))))))
 	  (. .-.)))
+
 ( (IP-MAT (CODE VS:XXI_1J)
 	  (PP (P Eftir)
 	      (NP (D-A hetta)))
