@@ -108,7 +108,7 @@
 					      (CONJP (CONJ og)
 						     (NX (D-N hinir) (ADJS-N elstu)))
 					      (CONJP (CONJ og)
-						     (NX (D-N hinir) (VAN-N skriftlærdu)))
+						     (NX (D-N hinir) (ADJ-N skriftlærdu)))
 					      (CONJP *ICH*-1))
 				      (VBDI komu)
 				      (ADVP (ADV saman))
