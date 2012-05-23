@@ -34,4 +34,5 @@ date_of_count	words
 05-17-2012	38107
 05-18-2012	39176
 05-20-2012	40296
-05-21-2012	41374 -- New wordcount (after concatenate): 41607
+05-21-2012	41374 -- New wordcount (after concatenate and sanity check): 41632
+05-22-2012	42155
