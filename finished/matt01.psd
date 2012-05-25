@@ -383,7 +383,7 @@
 		  (PP (P við)
 		      (NP (N-A Barn)))
 		  (PP-BY (P av)
-			 (NP (ADJ-A Halgan) (N-A Anda))))
+			 (NP (ADJ-D Halgan) (N-D Anda))))
 	  (. .-.)))
 
 ( (IP-MAT (CODE VS:I_19M)
@@ -473,7 +473,7 @@
 							  (, ,-,)
 							  (BEPI er)
 							  (PP (P av)
-							      (NP (ADJ-A Halgan) (N-A Anda))))))))
+							      (NP (ADJ-D Halgan) (N-D Anda))))))))
 	  (. .-.)))
 
 ( (IP-MAT-SPE (CODE VS:I_21M)
