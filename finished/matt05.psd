@@ -1,5 +1,7 @@
-( (META (NP (D-N Tað) (ADJ-N 5ta) (N-N Capitule))
-	(. .-.)))
+( (META (CODE <heading>)
+	(NP (D-N Tað) (ADJ-N 5ta) (N-N Capitule))
+	(. .-.)
+	(CODE </heading>)))
 
 ( (IP-MAT (CODE VS:V_1M)
 	  (CONJ Men)
