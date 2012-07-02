@@ -1,5 +1,5 @@
 ( (META (CODE <heading>)
-	(NP (P-N Tað) (ADJ-N 4ra) (N-N Capitule))
+	(NP (D-N Tað) (ADJ-N 4ra) (N-N Capitule))
 	(CODE </heading>)))
 
 ( (IP-MAT (CODE VS:IV_1M)
