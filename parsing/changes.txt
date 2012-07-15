@@ -1,0 +1,55 @@
+( becomes (PR:S)
+) becomes (PR:E)
+- becomes (COM:dash) / <dash/>
+– becomes (COM:dash)
+\t becomes [nothing]
+» becomes "
+« becomes "
+ø becomes ö
+Ø becines Ö
+[ (COM:SQBRACKET_S)
+] (COM:SQBRACKET_E)
+
+extra for Matthew (Faroese):
+qv > hv; dl > ll; dn > rn; eâ > a; û > ú; aa > á; o > og; vi > við; ph > f; aje > aði (kallaje); ou > ó, g,b > k,p frequently (Iaagub > Jákup)
+bröir > bröður; mavur > maður; ain > ein; honun > honum; mian > meðan; seje > segði; heje > hevði
+tá-ui > táið; thui-at > tíat; thui > tí;
+io > jo; Iú > Jú, taira > teirra
+úd > út; á > at
+ér > er; sé > seg, ikkje > ikki; gjæk > gekk
+ettur > eftir; harundur > harundir
+skjildi > skyldi
+–-»«ø)(][
+
+(VS:I_1M)
+(VS:II_
+(VS:III_
+(VS:IV_
+(VS:V_
+(VS:VI_1M)
+(VS:VII_1M)
+(VS:VIII_1M)
+(VS:IX_1M)
+(VS:X_1M)
+
+(VS:I_1P)
+(VS:VII_P)
+
+(VS:I_1J)
+(VS:II_1J)
+(VS:III_1J)
+(VS:VI_
+(VS:VIII_
+(VS:IX_
+(VS:X_
+(VS:XI_
+(VS:XII_
+(VS:XIII_
+(VS:XIV_
+(VS:XV_1J)
+(VS:XVI_
+(VS:XVII_
+(VS:XVIII_J)
+(VS:XIX_
+(VS:XX_J)
+(VS:XXI_J)

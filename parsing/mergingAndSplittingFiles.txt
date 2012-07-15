@@ -1,0 +1,45 @@
+cat magnus*.psd > 1675.magnus.bio-oth.psd [sameinar textaskrár]
+git rm magnusX.psd
+
+search for )\n( to fix line breaks
+
+to create IDs: ./reid.sh "1675.magnus.bio-oth.psd"
+
+then remove other files and add 1675.mag... etc.
+
+splitting file.txt: python3 scripts/splitfile.py bandamennM 35
+\n = new line
+replace ". " with ".\n"
+replace "\n\n" with "\n"
+replace ." with ."\n
+replace [space]\n with \n
+replace \n[space] with \n
+replace ( with [space](PR:S#[space]
+replace ) with (PR:E)
+replace # with )
+(MS:another_MS_used)
+(MS:0)
+(MS:poetry_omitted)
+(P:97)
+<<<<<<< HEAD
+replace \t with [ekkert] <tab>
+rplace ( with (PR:S)
+replace ) with (PR:E)
+=======
+replace \t with [ekkert]
+>>>>>>> d2d089c274940aa19eaf4dcc08a576d56ce85e03
+(MS:unclear)
+check for "*" and "[" and "]"
+
+Concatinating .psd files
+cat georg*psd > 1525.georgius.nar-rel.psd
+git add 1525.georgius.nar-rel.psd
+git commit 1525.georgius.nar-rel.psd -m "1525.georgius added"
+git rm georg*psd
+git commit -am "removed georg.psd files"
+git mv parsing/1525.georgius.nar-rel.psd finished/
+git commit -am "1525.georgius moved to finished"
+
+Adding IDs to a file
+./reid.sh 1525.georgius.nar-rel.psd
+git commit 1525.georgius.nar-rel.psd -m "IDs added to georgius"

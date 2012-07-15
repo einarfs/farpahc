@@ -1,0 +1,7 @@
+node: $ROOT
+
+copy_corpus: t
+
+query: (IP-MAT-*SPE*|IP-SUB-*SPE* doms !IP-*SPE*|CP-*SPE*)
+
+append_label{1}: -ZZZ-MISS_C

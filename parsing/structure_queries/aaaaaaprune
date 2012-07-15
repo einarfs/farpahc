@@ -1,0 +1,45 @@
+		  (NP-PRN (P av$) (N-D $stað)))
+
+	  (ADVP (ADV Eftir))
+	  (NP-SBJ (D-N hetta))
+
+	  (PP (P um)
+	      (NP (D-N hetta)))
+
+	  (NP-SBJ (PRO-D tí))
+	  (C at)
+
+	  (ADVP (RP út))
+
+	  (PP (P við))
+	  (PRO-A teir)
+
+	  (NP (ADV tá))
+	  (NP (N-A ið))
+
+	  (NP-SBJ (RDN vorðin))
+
+	  (NP-OB1 (P í$) (N-D $mót))
+
+( (IP-MAT (NP (CODE VS:III_12J)
+	      (ADV Tá))
+	  (NP (N-A ið))
+
+			      (NP (ADV tá))
+			      (NP (N-A ið))
+
+			      (NP-SBJ (RDN vorðin))
+
+		  (NS-N at)
+
+	      (ADJP (ADV til) (PRO-G tess))
+
+	      (NP (NP (PRO-D honum) (, .-.)
+		      (CODE VS:III_16J))
+		  (NP (PRO-D Tí))))
+
+	  (NP-SBJ (C sum)) > CP-REL
+
+	  (ADJP (VBPI trýr))
+
+	  (ADJP (ADV hjá) (PRO-D tær))
