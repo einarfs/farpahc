@@ -31,6 +31,8 @@ skjildi > skyldi
 (VS:VIII_1M)
 (VS:IX_1M)
 (VS:X_1M)
+(VS:XI_1M)
+(VS:XII_1M)
 
 (VS:I_1P)
 (VS:VII_P)
