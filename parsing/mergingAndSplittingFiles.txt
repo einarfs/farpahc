@@ -1,5 +1,5 @@
 cat magnus*.psd > 1675.magnus.bio-oth.psd [sameinar textaskrár]
-git rm magnusX.psd
+git rm magnus*.psd
 
 search for )\n( to fix line breaks
 
