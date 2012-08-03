@@ -1,12 +1,12 @@
 ( (META (CODE <heading>)
 	(NP (NPR-N Evangelium)
 	    (NP-POS (NPR-G Sankta) (NPR-G Mathæussa)))
-	(. .-.)))
+	(. .-.)) (ID 1823.NTMATT.REL-BIB,.1))
 
 ( (META (NP (D-N Tað)
 	    (NP-PRN (ADJS-N Ista) (NPR-N Capitule)))
 	(. .-.)
-	(CODE </heading>)))
+	(CODE </heading>)) (ID 1823.NTMATT.REL-BIB,.2))
 
 ( (QTP (NP-PRN (NP-POS (NPR-G Jesu)
 		       (NPR-G Christussa)
@@ -20,19 +20,19 @@
 		       (, ,-,))
 	       (NP-POS (NS-G Attartala))
 	       (N-N Bók))
-       (. .-.)))
+       (. .-.)) (ID 1823.NTMATT.REL-BIB,.3))
 
 ( (IP-MAT (CODE VS:I_2M)
 	  (NP-SBJ (NPR-N Abraham))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Isák))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.4))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Isák))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Jákup))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.5))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Jákup))
@@ -41,7 +41,7 @@
 		  (CONJP (CONJ og)
 			 (NP (NPR-A Bröður)
 			     (NP-POS (PRO-G hans)))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.6))
 
 ( (IP-MAT (CODE VS:I_3M)
 	  (CONJ og)
@@ -50,38 +50,38 @@
 	  (NP-OB1 (NPR-A Phares) (CONJ og) (NPR-A Zara))
 	  (PP (P við)
 	      (NP (NPR-D Thamar)))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.7))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Phares))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Esrom))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.8))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Esrom))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Aram))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.9))
 
 ( (IP-MAT (CODE VS:I_4M)
 	  (CONJ og)
 	  (NP-SBJ (NPR-N Aram))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Aminadab))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.10))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Aminadab))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Násson))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.11))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Násson))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Salmon))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.12))
 
 ( (IP-MAT (CODE VS:I_5M)
 	  (CONJ og)
@@ -90,7 +90,7 @@
 	  (NP-OB1 (NPR-A Booz))
 	  (PP (P við)
 	      (NP (NPR-D Rachab)))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.13))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Booz))
@@ -98,20 +98,20 @@
 	  (NP-OB1 (NPR-A Obed))
 	  (PP (P við)
 	      (NP (NPR-D Ruth)))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.14))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Obed))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Jesai))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.15))
 
 ( (IP-MAT (CODE VS:I_6M)
 	  (CONJ og)
 	  (NP-SBJ (NPR-N Jesai))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Kong) (NPR-A Dávid))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.16))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (N-N Kongur$)
@@ -122,83 +122,83 @@
 	  (PP (P við)
 	      (NP (NPR-D Hústrú)
 		  (NP-POS (NPR-G Uriassa))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.17))
 
 ( (IP-MAT (CODE VS:I_7M)
 	  (CONJ og)
 	  (NP-SBJ (NPR-N Salomon))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Roboam))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.18))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Roboam))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Abia))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.19))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Abia))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Asa))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.20))
 
 ( (IP-MAT (CODE VS:I_8M)
 	  (CONJ og)
 	  (NP-SBJ (NPR-N Asa))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Jósafat))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.21))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Jósafat))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Joram))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.22))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Joram))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Ozias))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.23))
 
 ( (IP-MAT (CODE VS:I_9M)
 	  (CONJ og)
 	  (NP-SBJ (NPR-N Ozias))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Joatham))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.24))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Joatham))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Achas))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.25))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Achas))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Ezechias))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.26))
 
 ( (IP-MAT (CODE VS:I_10M)
 	  (CONJ og)
 	  (NP-SBJ (NPR-N Ezechias))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Manassa))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.27))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Manassa))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Amon))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.28))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Amon))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Jósias))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.29))
 
 ( (IP-MAT (CODE VS:I_11M)
 	  (CONJ og)
@@ -213,7 +213,7 @@
 		  (N-A Tíð$)
 		  (D-A $ina)
 		  (NP-PRN (D-A hina) (ADJ-A Babylónisku))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.30))
 
 ( (IP-MAT (CODE VS:I_12M)
 	  (CONJ Men)
@@ -222,70 +222,70 @@
 	  (VBDI átti)
 	  (NP-SBJ (NPR-N Jechonias))
 	  (NP-OB1 (NPR-A Salathiel))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.31))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Salathiel))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Zorobabel))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.32))
 
 ( (IP-MAT (CODE VS:I_13M)
 	  (CONJ og)
 	  (NP-SBJ (NPR-N Zorobabel))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Abiud))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.33))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Abiud))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Eliakim))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.34))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Eliakim))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Azor))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.35))
 
 ( (IP-MAT (CODE VS:I_14M)
 	  (CONJ og)
 	  (NP-SBJ (NPR-N Azor))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Sadok))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.36))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Sadok))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Achim))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.37))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Achim))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Eliud))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.38))
 
 ( (IP-MAT (CODE VS:I_15M)
 	  (CONJ og)
 	  (NP-SBJ (NPR-N Eliud))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Eleazar))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.39))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Eleazar))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Matthan))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.40))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Matthan))
 	  (VBDI átti)
 	  (NP-OB1 (NPR-A Jákup))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.41))
 
 ( (IP-MAT (CODE VS:I_16M)
 	  (CONJ og)
@@ -295,7 +295,7 @@
 		  (, ,-,)
 		  (NP-PRN (N-A Mann)
 			  (NP-POS (NPR-G Mariu))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.42))
 
 ( (IP-MAT (PP-BY (P av)
 		 (NP (PRO-D henni)))
@@ -309,7 +309,7 @@
 		    (IP-SUB (NP-SBJ *T*-2)
 			    (VBPI kallast)
 			    (NP-PRD (NPR-N Christus))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.43))
 
 ( (IP-MAT (IP-MAT-1 (CODE VS:I_17M)
 		    (BEPI Eru)
@@ -338,7 +338,7 @@
 				   (PP (P til)
 				       (NP (NPR-G Christussa))))
 			   (NP-PRD (NUM-N fjúrtan) (NS-N Lið))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.44))
 
 ( (IP-MAT (CODE VS:I_18M)
 	  (CONJ Men)
@@ -349,7 +349,7 @@
 	  (PP (P við)
 	      (NP (N-D Födsuli)
 		  (NP-POS (NPR-G Jesu) (NPR-G Christussa))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.45))
 
 ( (IP-MAT (ADVP-TMP (ADV Tá$)
 		    (CP-REL (WADVP-1 0)
@@ -384,7 +384,7 @@
 		      (NP (N-A Barn)))
 		  (PP-BY (P av)
 			 (NP (ADJ-D Halgan) (N-D Anda))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.46))
 
 ( (IP-MAT (CODE VS:I_19M)
 	  (CONJ Men)
@@ -416,7 +416,7 @@
 		  (NP-OB1 (PRO-A seg))
 		  (PP (P frá)
 		      (NP (PRO-D henni))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.47))
 
 ( (IP-MAT (CODE VS:I_20M)
 	  (CONJ Men)
@@ -437,7 +437,7 @@
 	      (NP (PRO-D honum)))
 	  (PP (P í)
 	      (NP (N-D Dreymi)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.48))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -474,7 +474,7 @@
 							  (BEPI er)
 							  (PP (P av)
 							      (NP (ADJ-D Halgan) (N-D Anda))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.49))
 
 ( (IP-MAT-SPE (CODE VS:I_21M)
 	      (CONJ Men)
@@ -482,7 +482,7 @@
 	      (MDPI skal)
 	      (VB föða)
 	      (NP-OB1 (ONE-A ein) (N-A Son))
-	      (, ,-,)))
+	      (, ,-,)) (ID 1823.NTMATT.REL-BIB,.50))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (PRO-N tú))
@@ -504,7 +504,7 @@
 						  (PP (P frá)
 						      (NP (NS-D Syndum)
 							  (NP-POS (PRO-G teirra))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.51))
 
 ( (IP-MAT (CODE VS:I_22M)
 	  (CONJ Men)
@@ -547,7 +547,7 @@
 										(CONJP (CONJ og)
 										       (IP-MAT-SPE=4 (VB föða)
 												     (NP-OB1 (ONE-A ein) (N-A Son)))))))))))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.52))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (PRO-N hann))
@@ -564,7 +564,7 @@
 				      (QTP (NP (NPR-N Gud))
 					   (PP (P við)
 					       (NP (PRO-D okkum))))
-				      (. .-.)))))
+				      (. .-.)))) (ID 1823.NTMATT.REL-BIB,.53))
 
 ( (IP-MAT (CODE VS:I_24M)
 	  (CONJ Men)
@@ -588,7 +588,7 @@
 				  (HVDI hevði)
 				  (VBN befallað)
 				  (NP-OB2 (PRO-D honum)))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.54))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (PRO-N hann))
@@ -596,7 +596,7 @@
 	  (PP (P við)
 	      (NP (N-D Hústrú)
 		  (NP-PRN (PRO-D síni))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.55))
 
 ( (IP-MAT (CODE VS:I_25M)
 	  (CONJ Og)
@@ -613,7 +613,7 @@
 			      (NP-OB1 (N-A Son)
 				      (NP-POS (PRO-A sín))
 				      (NP-PRN (D-A hin) (ADVS fyrst) (VAN-A födda))))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.56))
 
 ( (IP-MAT (CONJ og)
 	  (NP-1 (N-A Navn)
@@ -622,11 +622,11 @@
 	  (NP-SBJ (PRO-N hann))
 	  (IP-SMC (NP-SBJ *ICH*-1)
 		  (NP-PRD (NPR-N Jesus)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.57))
 
 ( (META (CODE <heading>)
 	(NP (D-N Ta) (ADJ-N 2na) (N-N Capitule))
-	(CODE </heading>)))
+	(CODE </heading>)) (ID 1823.NTMATT.REL-BIB,.58))
 
 ( (IP-MAT (CODE VS:II_1M)
 	  (CONJ Men)
@@ -659,7 +659,7 @@
 		      (NP (NPR-D Eysturlandi))))
 	  (PP (P til)
 	      (NP (NPR-G Jerusalem)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.59))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -700,7 +700,7 @@
 											     (RP til$)
 											     (VB $biðja)
 											     (NP-OB1 (PRO-A hann))))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.60))
 
 ( (IP-MAT (CODE VS:II_3M)
 	  (CONJ Men)
@@ -721,7 +721,7 @@
 			     (NPR-N Jerusalem)
 			     (PP (P við)
 				 (NP (PRO-D honum))))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.61))
 
 ( (IP-MAT (CODE VS:II_4M)
 	  (CONJ og)
@@ -755,7 +755,7 @@
 			      (NP-SBJ (NPR-N Christus))
 			      (MDDS skyldi)
 			      (VB föðast))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.62))
 
 ( (IP-MAT (CODE VS:II_5M)
 	  (CONJ Men)
@@ -817,7 +817,7 @@
 																		   (NP-POS (PRO-G mítts)
 																			   (NP-PRN (NPR-G Israels))))
 																	   (NPR-N Harri)))))))))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.63))
 
 ( (IP-MAT (CODE VS:II_7M)
 	  (ADVP-TMP (ADV Tá))
@@ -827,7 +827,7 @@
 	  (NP-OB1 (D-A teir) (ADJ-A Vísu))
 	  (PP (P til)
 	      (NP (PRO-G síns)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.64))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -849,7 +849,7 @@
 				  (NP-OB1 (PRO-A seg))
 				  (PP (P til$)
 				      (NP (N-G $sjónar)))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.65))
 
 ( (IP-MAT (CODE VS:II_8M)
 	  (CONJ Og)
@@ -858,21 +858,21 @@
 	  (NP-OB1 (PRO-A teir))
 	  (PP (P til)
 	      (NP (NPR-G Bethlehem)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.66))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
 	  (VBDI segði)
 	  (, :-:)
 	  (IP-IMP-SPE (VBI Farið)
-		      (NP-SBJ (PRO-N Tit)))))
+		      (NP-SBJ (PRO-N Tit)))) (ID 1823.NTMATT.REL-BIB,.67))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI fregnist)
 	      (ADVP (ADV flittuliga))
 	      (PP (P um)
 		  (NP (N-A Barn$) (D-A $ið)))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.68))
 
 ( (IP-IMP-SPE (CONJ men)
 	      (ADVP-TMP-LFD (ADV tá$)
@@ -900,7 +900,7 @@
 					     (IP-SUB-SPE=2 (RP til$)
 							   (VB $biðja)
 							   (NP-OB1 (PRO-A tað))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.69))
 
 ( (IP-MAT (CODE VS:II_9M)
 	  (CONJ Men)
@@ -918,7 +918,7 @@
 	  (NP-SBJ (PRO-N teir))
 	  (PP (P av$)
 	      (NP (N-D $stað)))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.70))
 
 ( (IP-MAT (CONJ og)
 	  (IP-IMP-PRN (VBI sí))
@@ -958,7 +958,7 @@
 							       (IP-SUB (ADVP-LOC *T*-2)
 								       (NP-SBJ (N-N Barn$) (D-N $ið))
 								       (BEDI var))))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.71))
 
 ( (IP-MAT (CODE VS:II_10M)
 	  (CONJ Men)
@@ -973,7 +973,7 @@
 	  (DODI gjördist)
 	  (NP-SBJ (PRO-N teir))
 	  (ADJP (ADV ógvuliga) (ADJ-N fegnir))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.72))
 
 ( (IP-MAT (CODE VS:II_11M)
 	  (CONJ Og)
@@ -982,7 +982,7 @@
 	  (PP (RP inn)
 	      (P í)
 	      (NP (N-A Hús$) (D-A $ið)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.73))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -992,19 +992,19 @@
 			 (NP (N-A Mammu)
 			     (NP-POS (PRO-G tess))
 			     (NP-PRN (NPR-A Mariu)))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.74))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
 	  (VBDI fullu)
-	  (RP niður)))
+	  (RP niður)) (ID 1823.NTMATT.REL-BIB,.75))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
 	  (RP til$)
 	  (VBDI $bóðu)
 	  (NP-OB1 (PRO-A tað))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.76))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -1012,14 +1012,14 @@
 	  (RP upp)
 	  (NP-OB1 (N-A Liggjandaföði)
 		  (NP-POS (PRO-A sítt)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.77))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
 	  (VBDI offraðu)
 	  (NP-OB2 (PRO-D tí))
 	  (NP-OB1 (NS-A Gávur) (, ,-,) (N-A Gull) (CONJ og) (N-A Roykilsi) (CONJ og) (N-A Myrra))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.78))
 
 ( (IP-MAT (CODE VS:II_12M)
 	  (CONJ Og)
@@ -1054,7 +1054,7 @@
 	  (PP (P til)
 	      (NP (NP-POS (PRO-G teirra))
 		  (N-A Land)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.79))
 
 ( (IP-MAT (CODE VS:II_13M)
 	  (CONJ Men)
@@ -1077,14 +1077,14 @@
 	      (NP (NPR-D Jósefi)))
 	  (PP (P í)
 	      (NP (ONE-D einum) (N-D Dreymi)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.80))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
 	  (VBDI segði)
 	  (, :-:)
 	  (IP-IMP-SPE (VBI Statt) (RP upp))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.81))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI tak)
@@ -1092,13 +1092,13 @@
 		      (CONJP (CONJ og)
 			     (NP (N-A Mammu)
 				 (NP-POS (PRO-G tess)))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.82))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI flytja)
 	      (PP (P til)
 		  (NP (NPR-A Egypt$) (D-A $ina)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.83))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (LBI blív)
@@ -1123,14 +1123,14 @@
 						  (IP-INF-PRP-SPE (TO at)
 								  (VB forkoma)
 								  (NP-OB1 (PRO-D tí)))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.84))
 
 ( (IP-MAT (CODE VS:II_14M)
 	  (CONJ Men)
 	  (NP-SBJ (PRO-N hann))
 	  (VBDI stóð)
 	  (RP upp)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.85))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -1141,7 +1141,7 @@
 			     (NP-POS (PRO-G tess)))))
 	  (PP (P um)
 	      (NP (N-A Nátt$) (D-A $ina)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.86))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -1149,7 +1149,7 @@
 	  (ADVP-DIR (ADV haðani))
 	  (PP (P til)
 	      (NP (NPR-A Egypt$) (D-A $ina)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.87))
 
 ( (IP-MAT (CODE VS:II_15M)
 	  (CONJ Og)
@@ -1192,7 +1192,7 @@
 										(NP-SBJ (PRO-N Eg))
 										(NP-OB1 (N-A Son)
 											(NP-POS (PRO-A mín))))))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.88))
 
 ( (IP-MAT (CODE VS:II_16M)
 	  (ADVP-TMP (ADV Tá$)
@@ -1214,13 +1214,13 @@
 	  (LBDI bleiv)
 	  (NP-SBJ (PRO-N hann))
 	  (ADJP (ADV ógvuliga) (ADJ-N ilskur))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.89))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
 	  (VBDI sendi)
 	  (RP út)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.90))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -1265,7 +1265,7 @@
 						  (VB frætta)
 						  (PP (P frá)
 						      (NP (D-D teim) (ADJ-D Vísu)))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.91))
 
 ( (IP-MAT (CODE VS:II_17M)
 	  (ADVP-TMP (ADV Tá))
@@ -1302,14 +1302,14 @@
 										  (NX (N-N Skríggjan)))
 									   (CONJP (CONJ og)
 										  (NX (Q-N mikil) (N-N Ílan)))))))))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.92))
 
 ( (IP-MAT-SPE (NP-SBJ (NPR-N Rakul))
 	      (VBPI græt)
 	      (PP (P um)
 		  (NP (NS-A Börn)
 		      (NP-POS (PRO-A síni))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.93))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
@@ -1327,7 +1327,7 @@
 						  (BEPI eru)
 						  (NEG ikki)
 						  (NP-MSR (QR-N meira))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.94))
 
 ( (IP-MAT (CODE VS:II_19M)
 	  (CONJ Men)
@@ -1358,7 +1358,7 @@
 		  (, :-:)
 		  (CODE VS:II_20M)
 		  (IP-IMP-SPE (VBI Statt) (RP upp)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.95))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI tak)
@@ -1366,7 +1366,7 @@
 		      (CONJP (CONJ og)
 			     (NP (N-A Mammu)
 				 (NP-POS (PRO-G tess)))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.96))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI far)
@@ -1392,14 +1392,14 @@
 										    (D-D $inum)
 										    (PP (P á)
 											(NP (N-D Barn$) (D-D $inum)))))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.97))
 
 ( (IP-MAT (CODE VS:II_21M)
 	  (CONJ Men)
 	  (NP-SBJ (PRO-N hann))
 	  (VBDI stóð)
 	  (RP upp)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.98))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -1408,7 +1408,7 @@
 		  (CONJP (CONJ og)
 			 (NP (N-A Mammu)
 			     (NP-POS (PRO-G tess)))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.99))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -1417,7 +1417,7 @@
 	  (PP (P til)
 	      (NP (NP-POS (NPR-G Ísraels))
 		  (N-A Land)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.100))
 
 ( (IP-MAT (CODE VS:II_22M)
 	  (CONJ Men)
@@ -1446,7 +1446,7 @@
 	      (IP-INF (TO at)
 		      (VB koma)
 		      (ADVP-LOC (ADV har))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.101))
 
 ( (IP-MAT (CONJ men)
 	  (NP-SBJ (PRO-N hann))
@@ -1456,7 +1456,7 @@
 		 (NP (NPR-G Gudi)))
 	  (PP (P í)
 	      (NP (N-D Dreymi)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.102))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -1465,12 +1465,12 @@
 	  (PP (P til)
 	      (NP (NP-POS (NPR-G Galilea))
 		  (NS-A Býlingar)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.103))
 
 ( (IP-MAT (CODE VS:II_23M)
 	  (CONJ Og)
 	  (NP-SBJ (PRO-N hann))
-	  (VBDI kom)))
+	  (VBDI kom)) (ID 1823.NTMATT.REL-BIB,.104))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -1499,18 +1499,18 @@
 					    (BEPI er)
 					    (PP (P hjá)
 						(NP (NS-D Prófet$) (D-D $unum)))))))
-	  (, :-:)))
+	  (, :-:)) (ID 1823.NTMATT.REL-BIB,.105))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N hann))
 	      (MDPI skal)
 	      (VB kallast)
 	      (NP-PRD (NPR-N Nazareari))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.106))
 
 ( (META (CODE <heading>)
 	(NP (D-N Tað) (ADJ-N 3ja) (N-N Capitule))
 	(. .-.)
-	(CODE </heading>)))
+	(CODE </heading>)) (ID 1823.NTMATT.REL-BIB,.107))
 
 ( (IP-MAT (CODE VS:III_1M)
 	  (CONJ Men)
@@ -1532,7 +1532,7 @@
 						  (D-D hini)
 						  (PP (P í)
 						      (NP (NPR-D Judea)))))))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.108))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -1588,13 +1588,13 @@
 													  (IP-IMP-SPE (VBI ruddið)
 														      (NP-OB1 (N-A Veg)
 															      (NP-POS (NPR-G Harr$) (D-G $ans)))))))))))))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.109))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI javnið)
 	      (NP-OB1 (NS-A Götur)
 		      (NP-POS (PRO-G hansara)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.110))
 
 ( (IP-MAT (CODE VS:III_4M)
 	  (CONJ Men)
@@ -1610,7 +1610,7 @@
 				 (PP (P um)
 				     (NP (NP-POS (PRO-A sínar))
 					 (NS-A Lendar))))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.111))
 
 ( (IP-MAT (CONJ og)
 	  (CODE *TTT*)
@@ -1621,7 +1621,7 @@
 	  (NP-OB1 (NP (NS-A Grashoppar))
 		  (CONJP (CONJ og)
 			 (NP (ADJ-A villan) (N-A Hunning))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.112))
 
 ( (IP-MAT (CODE VS:III_5M)
 	  (ADVP-TMP (ADV Tá))
@@ -1640,7 +1640,7 @@
 			     (D-N $ið)
 			     (PP (P um)
 				 (NP (NPR-A Jordan$) (D-A $in))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.113))
 
 ( (IP-MAT (CODE VS:III_6M)
 	  (CONJ Og)
@@ -1650,7 +1650,7 @@
 		 (NP (PRO-D honum)))
 	  (PP (P í)
 	      (NP (NPR-D Jordani)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.114))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -1658,7 +1658,7 @@
 	  (PP (P frá)
 	      (NP (NS-D Syndum)
 		  (NP-POS (PRO-G teirra))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.115))
 
 ( (IP-MAT (CODE VS:III_7M)
 	  (CONJ Men)
@@ -1701,7 +1701,7 @@
 									      (BEPI er)
 									      (PP (P í)
 										  (NP (N-D koming))))))))))
-	  (. ?-?)))
+	  (. ?-?)) (ID 1823.NTMATT.REL-BIB,.116))
 
 ( (IP-IMP-SPE (CODE VS:III_8M)
 	      (VBI Berið)
@@ -1709,7 +1709,7 @@
 	      (NP-OB1 (NS-A Frugtir)
 		      (ADJP (ADJ-A verdar)
 			    (NP (N-D Umvendilsi))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.117))
 
 ( (IP-IMP-SPE (CODE VS:III_9M)
 	      (CONJ og)
@@ -1743,7 +1743,7 @@
 							      (RP upp)
 							      (PP (P av)
 								  (NP (D-D hesum) (NS-D Steinum))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.118))
 
 ( (IP-MAT-SPE (CODE VS:III_10M)
 	      (CONJ Men)
@@ -1755,7 +1755,7 @@
 		      (D-A $ina)
 		      (PP (P av)
 			  (NP (NS-D Trö$) (D-D $unum)))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.119))
 
 ( (IP-MAT-SPE (IP-MAT-SPE-1 (PP (P 0)
 				(NP (PRO-D tí)))
@@ -1776,7 +1776,7 @@
 		     (IP-MAT-SPE=1 (VB floggjast)
 				   (PP (P í)
 				       (NP (N-A Eld$) (D-A $in)))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.120))
 
 ( (IP-MAT-SPE (CODE VS:III_11M)
 	      (NP-SBJ (PRO-N Eg))
@@ -1787,7 +1787,7 @@
 		  (NP (N-D Vatni)))
 	      (PP (P til)
 		  (NP (N-A Batning)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.121))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-SBJ (D-N tann)
@@ -1807,7 +1807,7 @@
 				    (C 0)
 				    (IP-SUB-SPE (ADJP *T*-2)
 						(NP-SBJ (PRO-N Eg))))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.122))
 
 ( (IP-MAT-SPE (NEG ikki)
 	      (BEPI eri)
@@ -1817,7 +1817,7 @@
 				(VB bera)
 				(NP-OB1 (NS-A Skógvar)
 					(NP-POS (PRO-G hansara)))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.123))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N hann))
 	      (MDPI skal)
@@ -1828,7 +1828,7 @@
 		      (N-D Anda)
 		      (CONJP (CONJ og)
 			     (NX (N-D Eldi)))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.124))
 
 ( (IP-MAT-SPE (CODE VS:III_12M)
 	      (NP-SBJ (NP-POS (N-G Tíningar))
@@ -1838,7 +1838,7 @@
 	      (PP (P í)
 		  (NP (NP-POS (PRO-G hansara))
 		      (N-D Hond)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.125))
 
 ( (IP-MAT-SPE (IP-MAT-SPE-1 (CONJ og)
 			    (NP-SBJ (PRO-N hann))
@@ -1852,7 +1852,7 @@
 				   (NP-OB1 (N-D Hveiti))
 				   (PP (P í)
 				       (NP (N-D Bingi)))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.126))
 
 ( (IP-MAT (CONJ men)
 	  (NP-OB1 (N-A Dumb$) (D-A $una))
@@ -1862,7 +1862,7 @@
 	  (RP upp)
 	  (PP (P við)
 	      (NP (ADJ-D óslökkiligum) (N-D Eldi)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.127))
 
 ( (IP-MAT (CODE VS:III_13M)
 	  (ADVP-TMP (ADV Tá))
@@ -1879,7 +1879,7 @@
 		      (VB doypast)
 		      (PP-BY (P av)
 			     (NP (PRO-D honum))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.128))
 
 ( (IP-MAT (CODE VS:III_14M)
 	  (CONJ Men)
@@ -1887,7 +1887,7 @@
 	  (VBDI formeinti)
 	  (NP-OB2 (PRO-D honum))
 	  (NP-OB1 (PRO-A tað))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.129))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -1900,19 +1900,19 @@
 					  (VB doypast)
 					  (PP-BY (P av)
 						 (NP (PRO-D tær))))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.130))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (PRO-N Tú))
 	      (VBPI kemur)
 	      (PP (P til)
 		  (NP (PRO-G míns)))
-	      (. !-!)))
+	      (. !-!)) (ID 1823.NTMATT.REL-BIB,.131))
 
 ( (IP-MAT (CODE VS:III_15M)
 	  (CONJ Men)
 	  (NP-PRN (NPR-N Jesus))
-	  (VBDI svaraði)))
+	  (VBDI svaraði)) (ID 1823.NTMATT.REL-BIB,.132))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -1941,13 +1941,13 @@
 											  (IP-SUB-SPE (NP-SBJ *T*-1)
 												      (ADJP (ADJ-N rætt))
 												      (BEPI er))))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.133))
 
 ( (IP-MAT (ADV Tá)
 	  (VBDI tilsteddi)
 	  (NP-SBJ (PRO-N hann))
 	  (NP-OB2 (PRO-D honum))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.134))
 
 ( (IP-MAT (CODE VS:III_16M)
 	  (CONJ Og)
@@ -1965,7 +1965,7 @@
 	  (PP (RP upp)
 	      (P úr)
 	      (NP (N-D Vatn$) (D-D $inum)))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.135))
 
 ( (IP-MAT (CONJ og)
 	  (IP-IMP-PRN (VBI sí))
@@ -1973,7 +1973,7 @@
 	  (NP-OB1 (NPRS-N Himlar$) (D-N $nir))
 	  (VBDI opnaðist)
 	  (NP-SBJ (PRO-D honum))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.136))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (PRO-N hann))
@@ -1992,7 +1992,7 @@
 				 (VB koma)
 				 (PP (P yvir)
 				     (NP (PRO-A hann))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.137))
 
 ( (IP-MAT (CODE VS:III_17M)
 	  (CONJ Og)
@@ -2017,18 +2017,18 @@
 						(NP-POS (PRO-N mín))
 						(D-N hin)
 						(ADJ-N elskuligi)))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.138))
 
 ( (IP-MAT-SPE (PP (P í)
 		  (NP (PRO-D honum)))
 	      (HVPI havi)
 	      (NP-SBJ (PRO-N Eg))
 	      (NP-OB1 (N-A Behagiligheit))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.139))
 
 ( (META (CODE <heading>)
 	(NP (D-N Tað) (ADJ-N 4ra) (N-N Capitule))
-	(CODE </heading>)))
+	(CODE </heading>)) (ID 1823.NTMATT.REL-BIB,.140))
 
 ( (IP-MAT (CODE VS:IV_1M)
 	  (ADVP-TMP (ADV Tá))
@@ -2044,7 +2044,7 @@
 		      (VB frístast)
 		      (PP-BY (P av)
 			     (NP (NPR-D Devl$) (D-D $inum))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.141))
 
 ( (IP-MAT (CODE VS:IV_2M)
 	  (CONJ Og)
@@ -2063,14 +2063,14 @@
 	  (NP-SBJ (PRO-N hann))
 	  (PP (P um$)
 	      (NP (NS-A $síðir)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.142))
 
 ( (IP-MAT (CODE VS:IV_3M)
 	  (CONJ Og)
 	  (NP-SBJ (N-N Frístar$) (D-N $in))
 	  (VBDI gekk)
 	  (PP (P til)
-	      (NP (PRO-G hansara)))))
+	      (NP (PRO-G hansara)))) (ID 1823.NTMATT.REL-BIB,.143))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -2088,12 +2088,12 @@
 				  (IP-SUB-SPE (NP-SBJ (NS-N Steinar$) (D-N $nir) (D-N hesir))
 					      (LBPI blíva)
 					      (NP-PRD (N-N Breyð)))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.144))
 
 ( (IP-MAT (CODE VS:IV_4M)
 	  (CONJ Men)
 	  (NP-SBJ (PRO-N hann))
-	  (VBDI svaraði)))
+	  (VBDI svaraði)) (ID 1823.NTMATT.REL-BIB,.145))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -2124,7 +2124,7 @@
 									     (PP (P gjögnum)
 										 (NP (N-A Munn)
 										     (NP-POS (NPR-G Guds))))))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.146))
 
 ( (IP-MAT (CODE VS:IV_5M)
 	  (ADVP-TMP (ADV Tá))
@@ -2135,7 +2135,7 @@
 	      (NP (PRO-D sær)))
 	  (PP (P til)
 	      (NP (D-A tann) (ADJ-A helliga) (N-A Stað$) (D-A $in)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.147))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -2147,7 +2147,7 @@
 		  (D-A $in)
 		  (PP (P á)
 		      (NP (N-D Templ$) (D-D $inum)))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.148))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -2184,7 +2184,7 @@
 								      (NP-OB1 (N-A Befalning))
 								      (PP (P um)
 									  (NP (PRO-A teg)))))))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.149))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (PRO-N teir))
@@ -2203,7 +2203,7 @@
 				      (PP (P 0)
 					  (NP (N-D móti)
 					      (NP-COM (Q-D nökrum) (N-D Steini))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.150))
 
 ( (IP-MAT (CODE VS:IV_7M)
 	  (ADVP-TMP (ADV Tá))
@@ -2226,7 +2226,7 @@
 					  (D-A $an)
 					  (NP-PRN (NPR-A Gud)
 						  (NP-POS (PRO-A tín))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.151))
 
 ( (IP-MAT (CODE VS:IV_8M)
 	  (ADVP-TMP (ADV Aftur))
@@ -2240,7 +2240,7 @@
 	      (NP (ONE-A eitt)
 		  (ADJP (ADV avlagi) (ADJ-A högt))
 		  (N-A Fjall)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.152))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -2252,7 +2252,7 @@
 		  (CONJP (CONJ og)
 			 (NX (NP-POS (PRO-G teirra))
 			     (NS-A Harligheit))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.153))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -2278,7 +2278,7 @@
 								     (RP til$)
 								     (VBPI $biður)
 								     (NP-OB1 (PRO-A meg))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.154))
 
 ( (IP-MAT (CODE VS:IV_10M)
 	  (ADVP-TMP (ADV Tá))
@@ -2313,7 +2313,7 @@
 									     (IP-SUB-SPE=1 (VB tæna)
 											   (NP-OB1 (PRO-D honum))
 											   (FP aleina)))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.155))
 
 ( (IP-MAT (CODE VS:IV_11M)
 	  (ADVP-TMP (ADV Tá))
@@ -2321,7 +2321,7 @@
 	  (NP-SBJ (NPR-N Devel$) (D-N $in))
 	  (PP (P frá)
 	      (NP (PRO-D honum)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.156))
 
 ( (IP-MAT (CONJ og)
 	  (IP-IMP-PRN (VBI sí))
@@ -2330,13 +2330,13 @@
 	  (VBDI gingu)
 	  (PP (P til)
 	      (NP (PRO-G hans)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.157))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
 	  (VBDI tænaðu)
 	  (NP-OB1 (PRO-D honum))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.158))
 
 ( (IP-MAT (CODE VS:IV_12M)
 	  (CONJ Men)
@@ -2359,7 +2359,7 @@
 	  (NP-MSR (ADVP-DIR (ADV haðani))
 		  (PP (P til)
 		      (NP (NPR-G Galilea))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.159))
 
 ( (IP-MAT (CODE VS:IV_13M)
 	  (CONJ Og)
@@ -2367,11 +2367,11 @@
 	  (VBDI flutti)
 	  (PP (P frá)
 	      (NP (NPR-D Nazareth)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.160))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
-	  (VBDI kom)))
+	  (VBDI kom)) (ID 1823.NTMATT.REL-BIB,.161))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -2427,7 +2427,7 @@
 										(NP-PRN (NP-POS (NS-G Heidning$) (D-G $anas))
 											(NPR-N Galilea))))))))))))
 	  (. .-.)
-	  (. :-:)))
+	  (. :-:)) (ID 1823.NTMATT.REL-BIB,.162))
 
 ( (IP-MAT-SPE (CODE VS:IV_16M)
 	      (NP-SBJ (D-N tað)
@@ -2444,7 +2444,7 @@
 	      (HVPI hevur)
 	      (VBN sæð)
 	      (NP-OB1 (ONE-A eitt) (ADJ-A stórt) (N-A Ljós))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.163))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-LFD (PRO-N tey)
@@ -2464,7 +2464,7 @@
 	      (NP-OB1 (ONE-N eitt) (N-N Ljós))
 	      (RP upp$)
 	      (VBN $gingið)
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.164))
 
 ( (IP-MAT (CODE VS:IV_17M)
 	  (PP (P Frá)
@@ -2488,7 +2488,7 @@
 										 (BEPI er)
 										 (VBN komið)
 										 (ADVP (ADV nær))))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.165))
 
 ( (IP-MAT (CODE VS:IV_18M)
 	  (CONJ Men)
@@ -2536,7 +2536,7 @@
 							      (BEDI vóru)
 							      (NP-PRD (NS-N Fiskarir)))))))))
 	  (, .-.)
-	  (CODE </paren>)))
+	  (CODE </paren>)) (ID 1823.NTMATT.REL-BIB,.166))
 
 ( (IP-MAT (CODE VS:IV_19M)
 	  (CONJ Og)
@@ -2548,7 +2548,7 @@
 	  (IP-IMP-SPE (VBI fylgið)
 		      (NP-OB1 (PRO-D mær))
 		      (ADVP (ADV eftir)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.167))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV so))
 	      (MDPI vil)
@@ -2558,7 +2558,7 @@
 	      (CODE *XXX*)
 	      (PP (P til)
 		  (NP (NS-A Menniskja<dash/>Fiskarar)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.168))
 
 ( (IP-MAT (CODE VS:IV_20M)
 	  (CONJ Men)
@@ -2567,13 +2567,13 @@
 	  (ADVP-TMP (ADV strax))
 	  (PP (P frá)
 	      (NP (NS-D Nótu$) (D-D $num)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.169))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
 	  (VBDI fylgdu)
 	  (NP-OB1 (PRO-D honum))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.170))
 
 ( (IP-MAT (CODE VS:IV_21M)
 	  (CONJ Og)
@@ -2613,13 +2613,13 @@
 			  (VBDI bödtu)
 			  (NP-OB1 (N-A Nót)
 				  (NP-POS (PRO-A sína)))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.171))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (PRO-N hann))
 	  (VBDI róptaði)
 	  (NP-OB1 (PRO-A teir))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.172))
 
 ( (IP-MAT (CODE VS:IV_22M)
 	  (CONJ Men)
@@ -2631,13 +2631,13 @@
 		  (CONJP (CONJ og)
 			 (NP (N-D Pápa)
 			     (NP-POS (PRO-D sínum))))))
-	  (, ,-,)))
+	  (, ,-,)) (ID 1823.NTMATT.REL-BIB,.173))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
 	  (VBDI fylgdu)
 	  (NP-OB1 (PRO-D honum))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.174))
 
 ( (IP-MAT (CODE VS:IV_23M)
 	  (CONJ Og)
@@ -2645,14 +2645,14 @@
 	  (VBDI gekk)
 	  (PP (P um)
 	      (NP (ADJ-A heila) (NPR-A Galilea)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.175))
 
 ( (IP-MAT (NP-SBJ *con*)
 	  (VBDI lærdi)
 	  (PP (P í)
 	      (NP (NS-D Synagógum)
 		  (NP-POS (PRO-G teirra))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.176))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -2660,7 +2660,7 @@
 	  (NP-OB1 (N-A Evangelium))
 	  (PP (P um)
 	      (NP (N-A Rík$) (D-A $ið)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.177))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -2670,7 +2670,7 @@
 			 (NP (Q-A alla) (N-A Skroypiligheit)))
 		  (PP (P hjá)
 		      (NP (N-D Fólk$) (D-D $inum))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.178))
 
 ( (IP-MAT (CODE VS:IV_24M)
 	  (CONJ Og)
@@ -2681,7 +2681,7 @@
 	  (VBDI frættist)
 	  (PP (P yvir)
 	      (NP (ADJ-A heila) (NPR-A Syria)))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.179))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (PRO-N tey))
@@ -2708,14 +2708,14 @@
 								(NX (NS-D Pínum)))))
 						 (BEDI vóru)
 						 (ADJP (ADJ-A befongd) (, ,-,) (VBN Besætt) (CONJ og) (ADJ-N Mánasjúk) (CONJ og) (ADJ-N Verkbrotin)))))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.180))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (PRO-N hann))
 	  (DODI gjördi)
 	  (IP-SMC (NP-SBJ (PRO-A tey))
 		  (ADJP (ADJ-A heilbrigð)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.181))
 
 ( (IP-MAT (CODE VS:IV_25M)
 	  (CONJ Og)
@@ -2738,12 +2738,12 @@
 				       (NP (CODE MS:hini_Minni)
 					   (N-D hinumegin)
 					   (NP-POS (NPR-A Jordan$) (D-A $in)))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.182))
 
 ( (META (CODE <heading>)
 	(NP (D-N Tað) (ADJ-N 5ta) (N-N Capitule))
 	(. .-.)
-	(CODE </heading>)))
+	(CODE </heading>)) (ID 1823.NTMATT.REL-BIB,.183))
 
 ( (IP-MAT (CODE VS:V_1M)
 	  (CONJ Men)
@@ -2760,7 +2760,7 @@
 	  (PP (RP upp)
 	      (P á)
 	      (NP (ONE-A eitt) (N-A Björg)))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.184))
 
 ( (IP-MAT (CONJ og)
 	  (ADVP-TMP (ADV tá$)
@@ -2776,7 +2776,7 @@
 		  (NP-POS (PRO-G hansara)))
 	  (PP (P til)
 	      (NP (PRO-G hans)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.185))
 
 ( (IP-MAT (CODE VS:V_2M)
 	  (CONJ Og)
@@ -2785,12 +2785,12 @@
 	  (RP upp)
 	  (NP-OB1 (N-A Munn)
 		  (NP-POS (PRO-A sín)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.186))
 
 ( (IP-MAT (NP-SBJ *con*)
 	  (VBDI lærdi)
 	  (NP-OB1 (PRO-A teir))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.187))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -2810,7 +2810,7 @@
 								  (NPR-N Ríki))
 							  (BEPI er)
 							  (NP-PRD (NP-POS (PRO-G teirra))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.188))
 
 ( (IP-MAT-SPE (CODE VS:V_4M)
 	      (ADJP (ADJ-N Sálir))
@@ -2828,7 +2828,7 @@
 				      (IP-SUB-SPE (NP-SBJ (PRO-N tey))
 						  (MDPI skulu)
 						  (VB hugsvalast)))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.189))
 
 ( (IP-MAT-SPE (CODE VS:V_5M)
 	      (ADJP (ADJ-N Sálir))
@@ -2842,7 +2842,7 @@
 						  (MDPI skuli)
 						  (VB arva)
 						  (NP-OB1 (N-A Jörð$) (D-A $ina))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.190))
 
 ( (IP-MAT-SPE (CODE VS:V_6M)
 	      (ADJP (ADJ-N Sálir))
@@ -2862,7 +2862,7 @@
 				      (IP-SUB-SPE (NP-SBJ (PRO-N tey))
 						  (MDPI skulu)
 						  (VB mettast)))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.191))
 
 ( (IP-MAT-SPE (CODE VS:V_7M)
 	      (ADJP (ADJ-N Sálir))
@@ -2876,7 +2876,7 @@
 						  (MDPI skulu)
 						  (VB njóta)
 						  (NP-OB1 (N-A Barmhjartigheit))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.192))
 
 ( (IP-MAT-SPE (CODE VS:V_8M)
 	      (ADJP (ADJ-N Sálir))
@@ -2893,7 +2893,7 @@
 						  (MDPI skulu)
 						  (VB síggja)
 						  (NP-OB1 (NPR-A Gud))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.193))
 
 ( (IP-MAT-SPE (CODE VS:V_9M)
 	      (ADJP (ADJ-N Sálig))
@@ -2908,7 +2908,7 @@
 						  (VB kallast)
 						  (NP-PRD (NP-POS (NPR-G Guds))
 							  (NS-N Börn))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.194))
 
 ( (IP-MAT-SPE (CODE VS:V_10M)
 	      (ADJP (ADJ-N Sálig))
@@ -2931,7 +2931,7 @@
 						  (BEPI er)
 						  (NP-SBJ (NP-POS (NPR-G Himmiríkis))
 							  (NPR-N Ríki))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.195))
 
 ( (IP-MAT-SPE (CODE VS:V_11M)
 	      (ADJP (ADJ-N Sáligir))
@@ -2960,7 +2960,7 @@
 						 (IP-SUB-SPE (NP-SBJ *con*)
 							     (VBPI lúgva)
 							     (NP-OB1 (PRO-A tað)))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.196))
 
 ( (IP-IMP-SPE (CODE VS:V_12M)
 	      (CODE *TTT*)
@@ -2993,14 +2993,14 @@
 										  (BEDI vóru)
 										  (PP (P fyri)
 										      (NP (PRO-A Tykkum))))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.197))
 
 ( (IP-MAT-SPE (CODE VS:V_13M)
 	      (NP-SBJ (PRO-N Tit))
 	      (BEPI eru)
 	      (NP-PRD (NP-POS (N-A Jörð$) (D-A $ina))
 		      (N-N Salt))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.198))
 
 ( (CP-QUE-SPE (CONJ men)
 	      (CP-QUE-ADV-SPE (WQ hvis$)
@@ -3014,7 +3014,7 @@
 			  (MDPI skal)
 			  (NP-SBJ (PRO-N tað))
 			  (VB saltast))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.199))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N Tað))
 	      (VBPI dugir)
@@ -3030,14 +3030,14 @@
 							 (PP (P undir)
 							     (NP (NP-POS (NPRS-G Fólka))
 								 (NS-D Fótum)))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.200))
 
 ( (IP-MAT-SPE (CODE VS:V_14M)
 	      (NP-SBJ (PRO-N Tit))
 	      (BEPI eru)
 	      (NP-PRD (NP-POS (N-A Verð$) (D-A $ina))
 		      (N-N Ljós))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.201))
 
 ( (IP-MAT-SPE (NP-SBJ (D-N tann)
 		      (N-N Staður)
@@ -3052,7 +3052,7 @@
 	      (MDPI kann)
 	      (NEG ikki)
 	      (VB fjalast)
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.202))
 
 ( (IP-MAT-SPE (CODE VS:V_15M)
 	      (ALSO Eisini)
@@ -3061,7 +3061,7 @@
 	      (NEG ikki)
 	      (NP-OB1 (N-A Ljós))
 	      (RP upp)
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.203))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
@@ -3073,7 +3073,7 @@
 		  (CONJP (CONJ men)
 			 (PP (P í)
 			     (NP (ONE-A ein) (N-A Ljósastaka)))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.204))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV so))
 	      (VBPI skínur)
@@ -3088,7 +3088,7 @@
 					      (BEPI eru)
 					      (PP (P í)
 						  (NP (N-D Hús$) (D-D $inum)))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.205))
 
 ( (IP-IMP-SPE (CODE VS:V_16M)
 	      (VBI Latið)
@@ -3119,7 +3119,7 @@
 											   (BEPI er)
 											   (PP (P í)
 											       (NP (NPRS-D Himl$) (D-D $unum))))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.206))
 
 ( (IP-IMP-SPE (CODE VS:V_17M)
 	      (VBI Ætlið)
@@ -3136,7 +3136,7 @@
 						      (NP-OB1 (NP (N-A Lóg$) (D-A $ina))
 							      (CONJP (CONJ og)
 								     (NP (NS-A Profet$) (D-A $unar)))))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.207))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N Eg))
 	      (BEPI eri)
@@ -3212,7 +3212,7 @@
 										      (PP (P í)
 											  (NP (NP-POS (NPR-G Himmiríkis))
 											      (NPR-D Ríki)))))))))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.208))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-LFD (CP-FRL-SPE (WNP-1 (WPRO-N hvör))
@@ -3232,7 +3232,7 @@
 	      (PP (P í)
 		  (NP (NP-POS (NPR-G Himmiríkis))
 		      (NPR-D Ríki)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.209))
 
 ( (IP-MAT-SPE (CODE VS:V_20M)
 	      (PP (P 0)
@@ -3266,7 +3266,7 @@
 			      (P í)
 			      (NP (NP-POS (NPR-G Himmiríkis))
 				  (NPR-A Ríki))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.210))
 
 ( (IP-MAT-SPE (CODE VS:V_21M)
 	      (NP-SBJ (PRO-N Tit))
@@ -3286,7 +3286,7 @@
 						  (VB slá)
 						  (PP (P í$)
 						      (NP (N-A $hel))))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.211))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-SBJ (CP-FRL-SPE (WNP-1 (WPRO-N hvör))
@@ -3301,7 +3301,7 @@
 	      (ADJP (ADJ-N sekur))
 	      (PP (P fyri)
 		  (NP (N-D Dómi)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.212))
 
 ( (IP-MAT-SPE (CODE VS:V_22M)
 	      (CONJ Men)
@@ -3326,7 +3326,7 @@
 			  (ADJP (ADJ-N sekur))
 			  (PP (P fyri)
 			      (NP (N-D Dóm$) (D-D $inum))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.213))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-SBJ (CP-FRL-SPE (WNP-1 (WPRO-N hvör))
@@ -3344,7 +3344,7 @@
 	      (ADJP (ADJ-N sekur))
 	      (PP (P fyrir)
 		  (NP (N-D Ráð$) (D-D $inum)))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.214))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-SBJ (CP-FRL-SPE (WNP-1 (WPRO-N hvör))
@@ -3361,7 +3361,7 @@
 	      (PP (P til)
 		  (NP (NP-POS (NPR-G Helvitis))
 		      (N-A Eld)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.215))
 
 ( (IP-IMP-SPE (CODE VS:V_23M)
 	      (CONJ Og)
@@ -3405,13 +3405,13 @@
 			  (ADVP-LOC (ADV har))
 			  (PP (P fyri)
 			      (NP (N-D Altar$) (D-D $inum))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.216))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI gakk)
 	      (PP (P av$)
 		  (NP (N-D $stað)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.217))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI kom)
@@ -3421,18 +3421,18 @@
 	      (PP (P við)
 		  (NP (N-A Bróður)
 		      (NP-POS (PRO-A tín))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.218))
 
 ( (IP-IMP-SPE (VBI kom)
 	      (ADVP-TMP (ADV tá))
 	      (ADVP-DIR (ADV aftur))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.219))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI offra)
 	      (NP-OB1 (N-A Gávu)
 		      (NP-POS (PRO-A tína)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.220))
 
 ( (IP-IMP-SPE (CODE VS:V_25M)
 	      (BEI Ver)
@@ -3473,7 +3473,7 @@
 							 (VB kastast)
 							 (PP (P í)
 							     (NP (N-A Fongsil)))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.221))
 
 ( (IP-MAT-SPE (CODE VS:V_26M)
 	      (ADVP (ADV Sanniliga))
@@ -3498,7 +3498,7 @@
 								(NP-SBJ (PRO-N tú))
 								(VBPI rindar)
 								(NP-OB1 (D-A tann) (ADJS-A síðsta) (N-A Kvart$) (D-A $in)))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.222))
 
 ( (IP-MAT-SPE (CODE VS:V_27M)
 	      (NP-SBJ (PRO-N Tit))
@@ -3516,7 +3516,7 @@
 						  (NEG ikki)
 						  (VB dríva)
 						  (NP-OB1 (N-A Hor)))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.223))
 
 ( (IP-MAT-SPE (CODE VS:V_28M)
 	      (CONJ Men)
@@ -3548,7 +3548,7 @@
 			  (PP (P í)
 			      (NP (N-D Hjarta)
 				  (NP-POS (PRO-D sínum)))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.224))
 
 ( (IP-IMP-SPE (CODE VS:V_29M)
 	      (CONJ Men)
@@ -3565,7 +3565,7 @@
 	      (VBI rív)
 	      (NP-OB1 (PRO-A tað))
 	      (RP út)
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.225))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI blaka)
@@ -3599,7 +3599,7 @@
 													       (VB kastast)
 													       (PP (P í)
 														   (NP (NPR-A Helviti))))))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.226))
 
 ( (IP-IMP-SPE (CODE VS:V_30M)
 	      (CONJ Og)
@@ -3613,7 +3613,7 @@
 	      (, ,-,)
 	      (VBI högg)
 	      (NP-OB1 (PRO-A hana))
-	      (RP av)))
+	      (RP av)) (ID 1823.NTMATT.REL-BIB,.227))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI flogg)
@@ -3648,7 +3648,7 @@
 												   (VB kastast)
 												   (PP (P í)
 												       (NP (NPR-A Helviti)))))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.228))
 
 ( (IP-MAT-SPE (CODE VS:V_31M)
 	      (ADVP (ADV So))
@@ -3670,7 +3670,7 @@
 					  (NP-OB2 (PRO-D henni))
 					  (NP-OB1 (NP-POS (N-G Skilsmessu))
 						  (N-A Bræv))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.229))
 
 ( (IP-MAT-SPE (CODE VS:V_32M)
 	      (CONJ Men)
@@ -3696,7 +3696,7 @@
 						  (IP-SUB-SPE (NP-SBJ (PRO-N hon))
 							      (VBPI drívur)
 							      (NP-OB1 (N-A Hor))))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.230))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-LFD (CP-FRL-SPE (WNP-1 (WPRO-N hvör))
@@ -3710,7 +3710,7 @@
 	      (NP-SBJ-RSP (PRO-N hann))
 	      (VBPI drívur)
 	      (NP-OB1 (N-A Hor))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.231))
 
 ( (IP-MAT-SPE (CODE VS:V_33M)
 	      (NP-SBJ (PRO-N Tit))
@@ -3729,7 +3729,7 @@
 						  (NEG ikki)
 						  (DO gera)
 						  (NP-OB1 (ADJ-A rangan) (N-A Eið)))))
-	      (, ,-,)))
+	      (, ,-,)) (ID 1823.NTMATT.REL-BIB,.232))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-SBJ (PRO-N tú))
@@ -3738,7 +3738,7 @@
 	      (NP-OB2 (NPR-D Harr$) (D-D $anum))
 	      (NP-OB1 (NS-A Eiðir)
 		      (NP-POS (PRO-A tínar)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.233))
 
 ( (IP-MAT-SPE (CODE VS:V_34M)
 	      (CONJ Men)
@@ -3791,7 +3791,7 @@
 											       (BEPI er)
 											       (NP-2 (N-N Staður)
 												     (NP-POS (N-G Kong$) (D-G $ins) (D-G hins) (ADJ-G stóra)))))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.234))
 
 ( (IP-MAT-SPE (CODE VS:V_36M)
 	      (NP-SBJ (PRO-N Tú))
@@ -3812,7 +3812,7 @@
 						  (DO gera)
 						  (IP-SMC-SPE (NP-SBJ (ONE-A eitt) (N-A Hár))
 							      (ADJP (ADJ-A hvítt) (CONJ ella) (ADJ-N svart)))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.235))
 
 ( (IP-MAT-SPE (CODE VS:V_37M)
 	      (CONJ Men)
@@ -3828,7 +3828,7 @@
 			  (CONJP (INTJ Nei))
 			  (, ,-,)
 			  (CONJP (INTJ Nei))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.236))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-SBJ (CP-FRL-SPE (WNP-1 (WPRO-N hvat))
@@ -3841,7 +3841,7 @@
 	      (BEPI er)
 	      (PP (P av)
 		  (NP (D-D tí) (ADJ-D Onda)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.237))
 
 ( (IP-MAT-SPE (CODE VS:V_38M)
 	      (NP-SBJ (PRO-N Tit))
@@ -3860,7 +3860,7 @@
 					   (CONJP (QTP (NP (N-N Tonn))
 						       (PP (P fyri)
 							   (NP (N-A Tonn))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.238))
 
 ( (IP-MAT-SPE (CODE VS:V_39M)
 	      (CONJ Men)
@@ -3876,7 +3876,7 @@
 				      (PP (P í$)
 					  (NP (N-D $móti)
 					      (NP-COM (D-D tí) (ADJ-D Onda))))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.239))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (CP-QUE-ADV-SPE (WQ hvis$)
@@ -3895,7 +3895,7 @@
 	      (ALSO eisini)
 	      (PP (P til)
 		  (NP (PRO-G hansara)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.240))
 
 ( (IP-MAT-SPE (CODE VS:V_40M)
 	      (CONJ Og)
@@ -3917,7 +3917,7 @@
 			  (HV hava)
 			  (NP-OB1 (N-A Kapp$) (D-A $an))
 			  (RP við))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.241))
 
 ( (IP-MAT-SPE (CODE VS:V_41M)
 	      (CONJ Og)
@@ -3934,7 +3934,7 @@
 	      (NP-DIR (NUM-A tveir))
 	      (PP (P við)
 		  (NP (PRO-D honum)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.242))
 
 ( (IP-IMP-SPE (CODE VS:V_42M)
 	      (VBI Gev)
@@ -3945,7 +3945,7 @@
 				  (IP-SUB-SPE (NP-SBJ *T*-1)
 					      (VBPI biður)
 					      (NP-OB2 (PRO-A teg)))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.243))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI vend)
@@ -3961,7 +3961,7 @@
 					      (VB læna)
 					      (PP (P frá)
 						  (NP (PRO-D tær)))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.244))
 
 ( (IP-MAT-SPE (CODE VS:V_43M)
 	      (NP-SBJ (PRO-N Tit))
@@ -3983,7 +3983,7 @@
 							 (IP-MAT-SPE=1 (VB hata)
 								       (NP-OB1 (N-A Fígginda)
 									       (NP-POS (PRO-A tín))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.245))
 
 ( (IP-MAT-SPE (CODE VS:V_44M)
 	      (CONJ Men)
@@ -3994,7 +3994,7 @@
 	      (IP-IMP-SPE (VBI elskið)
 			  (NP-OB1 (NS-A Fíggindar)
 				  (NP-POS (PRO-G Tykkara))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.246))
 
 ( (IP-IMP-SPE (VBI vælsignið)
 	      (NP-OB1 (PRO-A teir)
@@ -4004,7 +4004,7 @@
 				  (IP-SUB-SPE (NP-SBJ *T*-1)
 					      (VBPI forbanna)
 					      (NP-OB1 (PRO-A Tykkum)))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.247))
 
 ( (IP-IMP-SPE (DOI gerið)
 	      (NP-OB2 (PRO-D teimum)
@@ -4016,7 +4016,7 @@
 			    (IP-SUB-SPE (NP-SBJ *T*-2)
 					(VBPI hata)
 					(NP-OB1 (PRO-A Tykkum))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.248))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI biðjið)
@@ -4095,14 +4095,14 @@
 					      (HVPI hava)
 					      (NP-SBJ (PRO-N Tit))
 					      (ADVP-TMP (ADV tá))))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.249))
 
 ( (CP-QUE-SPE (IP-SUB-SPE (DOPI Gera)
 			  (NEG ikki)
 			  (NP-SBJ (NS-N Toldarir))
 			  (ALSO eisini)
 			  (NP-OB1 (D-A tað) (ADJ-A sama)))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.250))
 
 ( (CP-QUE-SPE (CODE VS:V_47M)
 	      (CONJ Og)
@@ -4120,13 +4120,13 @@
 			  (DOPI gera)
 			  (NP-SBJ (PRO-N Tit))
 			  (ADVP-TMP (ADV tá)))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.251))
 
 ( (CP-QUE-SPE (IP-SUB-SPE (DOPI Gera)
 			  (NEG ikki)
 			  (NP-SBJ (NS-N Toldarir))
 			  (ADVP (ADVR+ADV líkaso)))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.252))
 
 ( (IP-IMP-SPE (CODE VS:V_48M)
 	      (BEI Verið)
@@ -4144,12 +4144,12 @@
 							(NP (NPRS-D Himl$) (D-D $unum))))
 					    (BEPI er)
 					    (ADJP (ADJ-N fulldygtigur)))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.253))
 
 ( (META (CODE <heading>)
 	(NP (D-N Tað) (ADJ-N 6ta) (N-N Capitule))
 	(. .-.)
-	(CODE </heading>)))
+	(CODE </heading>)) (ID 1823.NTMATT.REL-BIB,.254))
 
 ( (IP-IMP-SPE (CODE VS:VI_1M)
 	      (VBI Varið)
@@ -4169,7 +4169,7 @@
 				  (VB ansast)
 				  (PP-BY (P av)
 					 (NP (PRO-D teim)))))
-	      (, ,-,)))
+	      (, ,-,)) (ID 1823.NTMATT.REL-BIB,.255))
 
 ( (IP-MAT-SPE (ADVP (ADV ellars))
 	      (VBPI fáa)
@@ -4232,7 +4232,7 @@
 													      (VB ærast)
 													      (PP-BY (P av)
 														     (NP (NS-D Menniskju$) (D-D $num)))))))))))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.256))
 
 ( (IP-MAT-SPE (ADVP (ADV sanniliga))
 	      (VBPI sigi)
@@ -4244,7 +4244,7 @@
 			  (NP-OB1 (N-A Lön)
 				  (NP-POS (PRO-A sína)))
 			  (ADVP-DIR (ADV burtur)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.257))
 
 ( (IP-IMP-SPE (CODE VS:VI_3M)
 	      (CONJ Men)
@@ -4296,7 +4296,7 @@
 							     (NP-OB2 (PRO-D tær))
 							     (ADVP-DIR (ADV aftur))
 							     (ADVP (ADV obinberliga)))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.258))
 
 ( (IP-MAT-SPE (CODE VS:VI_5M)
 	      (CONJ Og)
@@ -4341,7 +4341,7 @@
 													 (VB ansast)
 													 (PP-BY (P av)
 														(NP (NS-D Menniskju$) (D-D $num)))))))))))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.259))
 
 ( (IP-MAT-SPE (ADVP (ADV sanniliga))
 	      (VBPI sigi)
@@ -4353,7 +4353,7 @@
 			  (NP-OB1 (N-A Lön)
 				  (NP-POS (PRO-A sína)))
 			  (ADVP-DIR (ADV burtur)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.260))
 
 ( (IP-IMP-SPE (CODE VS:VI_6M)
 	      (CONJ Men)
@@ -4370,13 +4370,13 @@
 		  (P í)
 		  (NP (N-A Kamar)
 		      (NP-POS (PRO-A títt))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.261))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI lat)
 	      (NP-OB1 (N-A Hurð$) (D-A $ina))
 	      (ADVP-DIR (ADV aftur))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.262))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI bið)
@@ -4390,7 +4390,7 @@
 						      (BEPI er)
 						      (PP (P í)
 							  (NP (NS-D Loyndum))))))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.263))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (N-N Faðir)
@@ -4407,7 +4407,7 @@
 	      (VB veita)
 	      (NP-OB2 (PRO-D tær))
 	      (ADVP (ADV vitterliga))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.264))
 
 ( (IP-MAT-SPE (CODE VS:VI_7M)
 	      (CONJ Men)
@@ -4482,7 +4482,7 @@
 															    (NP-SBJ (PRO-N Tit))
 															    (VBPI biðja)
 															    (NP-OB1 (PRO-A hann))))))))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.265))
 
 ( (IP-MAT-SPE (CODE VS:VI_9M)
 	      (PP (ADVP (ADV Har$))
@@ -4491,7 +4491,7 @@
 	      (NP-SBJ (PRO-N Tit))
 	      (ADVP (ADV soleiðis))
 	      (VB biðja)
-	      (, :-:)))
+	      (, :-:)) (ID 1823.NTMATT.REL-BIB,.266))
 
 ( (IP-MAT-SPE (NP-VOC (N-N Faðir)
 		      (NP-POS (PRO-N vár)))
@@ -4508,13 +4508,13 @@
 	      (BEPS veri)
 	      (NP-SBJ (N-N Navn)
 		      (NP-POS (PRO-N títt)))
-	      (. !-!)))
+	      (. !-!)) (ID 1823.NTMATT.REL-BIB,.267))
 
 ( (IP-MAT-SPE (CODE VS:VI_10M)
 	      (VBPS Komi)
 	      (NP-SBJ (N-N Ríki)
 		      (NP-POS (PRO-N títt)))
-	      (. !-!)))
+	      (. !-!)) (ID 1823.NTMATT.REL-BIB,.268))
 
 ( (IP-MAT-SPE (VBPS ske)
 	      (NP-SBJ (NP-POS (PRO-N tín))
@@ -4531,7 +4531,7 @@
 	      (ALSO ogso)
 	      (PP (P á)
 		  (NP (N-D Jörð$) (D-D $ini)))
-	      (. !-!)))
+	      (. !-!)) (ID 1823.NTMATT.REL-BIB,.269))
 
 ( (IP-IMP-SPE (CODE VS:VI_11M)
 	      (VBI Gev)
@@ -4541,7 +4541,7 @@
 	      (NP-OB1 (NP-POS (PRO-G okkara))
 		      (ADJ-A dagliga)
 		      (N-A Breyð))
-	      (. !-!)))
+	      (. !-!)) (ID 1823.NTMATT.REL-BIB,.270))
 
 ( (IP-IMP-SPE (CODE VS:VI_12M)
 	      (CONJ Og)
@@ -4557,7 +4557,7 @@
 				      (VBPI forláta)
 				      (NP-OB2 (NS-D Skyldnarum)
 					      (NP-POS (PRO-G okkara)))))
-	      (. !-!)))
+	      (. !-!)) (ID 1823.NTMATT.REL-BIB,.271))
 
 ( (IP-IMP-SPE (CODE VS:VI_13M)
 	      (CONJ Og)
@@ -4567,7 +4567,7 @@
 	      (PP (RP inn)
 		  (P í)
 		  (NP (N-A Frístilsi)))
-	      (. !-!)))
+	      (. !-!)) (ID 1823.NTMATT.REL-BIB,.272))
 
 ( (IP-IMP-SPE (CONJ Men)
 	      (VBI fría)
@@ -4583,9 +4583,9 @@
 						  (NP-SBJ (N-N Ríki) (CONJ og) (N-N Megi) (CONJ og) (N-N Harligheit))
 						  (PP (P í)
 						      (NP (N-D Evigheit)))))))
-	      (. !-!)))
+	      (. !-!)) (ID 1823.NTMATT.REL-BIB,.273))
 
-( (INTJP (INTJ Omin) (. .-.)))
+( (INTJP (INTJ Omin) (. .-.)) (ID 1823.NTMATT.REL-BIB,.274))
 
 ( (QTP (CODE VS:VI_14M)
        (PP (P 0)
@@ -4605,7 +4605,7 @@
 					   (ALSO eisini)
 					   (VB forláta)
 					   (NP-OB2 (PRO-D Tykkum))))))
-       (. ;-;)))
+       (. ;-;)) (ID 1823.NTMATT.REL-BIB,.275))
 
 ( (IP-MAT-SPE (CODE VS:VI_15M)
 	      (CONJ men)
@@ -4624,7 +4624,7 @@
 	      (VB forláta)
 	      (NP-OB1 (NP-POS (PRO-G Tykkara))
 		      (NS-A Meingerðar))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.276))
 
 ( (IP-IMP-SPE (CODE VS:VI_16M)
 	      (ADVP-TMP (ADV Tá$)
@@ -4666,7 +4666,7 @@
 										      (CP-THT-SPE (C at)
 												  (IP-SUB-SPE (NP-SBJ (PRO-N teir))
 													      (VBPI fasta)))))))))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.277))
 
 ( (IP-MAT-SPE (ADVP (ADV sanniliga))
 	      (VBPI sigi)
@@ -4678,7 +4678,7 @@
 			  (NP-OB1 (N-A Lön)
 				  (NP-POS (PRO-A sína)))
 			  (ADVP-DIR (ADV burtur)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.278))
 
 ( (IP-IMP-SPE (CODE VS:VI_17M)
 	      (CONJ Men)
@@ -4693,7 +4693,7 @@
 	      (VBI salva)
 	      (NP-OB1 (N-A Hödd)
 		      (NP-POS (PRO-A títt)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.279))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI vaska)
@@ -4709,7 +4709,7 @@
 				      (IP-INF-SPE (NP-SBJ (PRO-A teg))
 						  (TO at)
 						  (VB fasta))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.280))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-SBJ (NP (N-N Faðir)
@@ -4737,7 +4737,7 @@
 	      (VB betala)
 	      (NP-OB2 (PRO-D tær))
 	      (ADVP (ADV opinberliga))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.281))
 
 ( (IP-IMP-SPE (CODE VS:VI_19M)
 	      (VBI Samlið)
@@ -4766,7 +4766,7 @@
 									(IP-SUB-SPE (ADVP-LOC *T*-2)
 										    (NP-SBJ *con*)
 										    (VBPI stjala)))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.282))
 
 ( (IP-IMP-SPE (CODE VS:VI_20M)
 	      (CONJ Men)
@@ -4817,7 +4817,7 @@
 							  (NP-POS (PRO-G Tykkara)))
 						  (ALSO eisini)
 						  (BE vera)))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.283))
 
 ( (IP-MAT-SPE (CODE VS:VI_22M)
 	      (NP-SBJ (N-N Eyg$) (D-N $að))
@@ -4825,7 +4825,7 @@
 	      (NP-PRD (NP-POS (N-G Legums))
 		      (N-N Ljós$)
 		      (D-N $ið))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.284))
 
 ( (IP-MAT-SPE (PP (ADVP (ADV har$))
 		  (P $fyri))
@@ -4842,7 +4842,7 @@
 		      (NP-POS (PRO-N títt))
 		      (N-N Legume))
 	      (ADJP (ADJ-N ljóst))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.285))
 
 ( (IP-MAT-SPE (CODE VS:VI_23M)
 	      (CONJ men)
@@ -4857,7 +4857,7 @@
 		      (NP-POS (PRO-N títt))
 		      (N-N Legume))
 	      (ADJP (ADJ-N myrkt))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.286))
 
 ( (CP-EXL-SPE (CP-QUE-ADV-SPE (WQ Hvis$)
 			      (C $ið)
@@ -4882,7 +4882,7 @@
 			  (LBPI blívur)
 			  (ADVP-TMP (ADV tá))
 			  (NP-SBJ (N-N Myrkr$) (D-N $ið)))
-	      (. !-!)))
+	      (. !-!)) (ID 1823.NTMATT.REL-BIB,.287))
 
 ( (IP-MAT-SPE (CODE VS:VI_24M)
 	      (NP-SBJ (Q-N Ongin))
@@ -4911,14 +4911,14 @@
 								     (CONJP (CONJ og)
 									    (IP-SUB-SPE=1 (VB vanvirða)
 											  (NP-OB1 (OTHER-A annan))))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.288))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N Tit))
 	      (MDPI kunnu)
 	      (NEG ikki)
 	      (VB tæna)
 	      (NP-OB1 (NPR-D Gudi) (CONJ og) (NPR-D Mammoni))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.289))
 
 ( (IP-MAT-SPE (CODE VS:VI_25M)
 	      (PP (P 0)
@@ -4964,7 +4964,7 @@
 											   (VB fara)
 											   (PP (P í)
 											       (NP *T*-4)))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.290))
 
 ( (CP-QUE-SPE (IP-SUB-SPE (IP-SUB-SPE-1 (BEPI Er)
 					(NEG ikki)
@@ -4984,25 +4984,25 @@
 								     (C 0)
 								     (IP-SUB-SPE (ADJP *T*-3)
 										 (NP-SBJ (NS-N Klæð$) (D-N $ini)))))))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.291))
 
 ( (IP-IMP-SPE (CODE VS:VI_26M)
 	      (VBI Hyggið)
 	      (PP (P at)
 		  (NP (NP-POS (NPR-G Himmal$) (D-G $ins))
 		      (NS-D Fuglum)))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.292))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N teir))
 	      (VBPI sáa)
 	      (NEG ikki)
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.293))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
 	      (VBPI hesta)
 	      (NEG ikki)
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.294))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
@@ -5011,13 +5011,13 @@
 	      (RP inn)
 	      (PP (P undir)
 		  (NP (NS-A Lónir)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.295))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (ADJ-N himmalski) (N-N Faðir))
 	      (VBPI föðir)
 	      (NP-OB1 (PRO-A teir))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.296))
 
 ( (CP-QUE-SPE (IP-SUB-SPE (BEPI eru)
 			  (NP-SBJ (PRO-N Tit))
@@ -5029,7 +5029,7 @@
 						(C 0)
 						(IP-SUB-SPE (ADJP *T*-1)
 							    (NP-SBJ (PRO-N teir)))))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.297))
 
 ( (CP-QUE-SPE (CODE VS:VI_27M)
 	      (CONJ Men)
@@ -5052,7 +5052,7 @@
 						      (NP-OB1 (PRO-A seg))
 						      (PP (P um)
 							  (NP (PRO-A tað)))))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.298))
 
 ( (CP-QUE-SPE (CODE VS:VI_28M)
 	      (CONJ Og)
@@ -5063,7 +5063,7 @@
 			  (NP-OB1 (PRO-A Tykkum))
 			  (PP (P um)
 			      (NP (NS-A Klæðir))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.299))
 
 ( (IP-IMP-SPE (VBI Gevið)
 	      (NP-OB1 (NS-A Gætur))
@@ -5079,17 +5079,17 @@
 					 (IP-SUB-SPE (ADVP *T*-1)
 						     (NP-SBJ (PRO-N tær))
 						     (VBPI vaxa))))))
-	      (. :-:)))
+	      (. :-:)) (ID 1823.NTMATT.REL-BIB,.300))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-D tær))
 	      (VBPI arbeiða)
 	      (NEG ikki)
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.301))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-D tær))
 	      (VBPI spinna)
 	      (NEG ikki)
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.302))
 
 ( (IP-MAT-SPE (CODE VS:VI_29M)
 	      (CONJ Men)
@@ -5116,7 +5116,7 @@
 								(NP-SBJ (ONE-N ein)
 									(PP (P av)
 									    (NP (PRO-D teimum))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.303))
 
 ( (CP-QUE-SPE (CODE VS:VI_30M)
 	      (CP-ADV-SPE (IP-SUB-SPE (VBPI Klæðir)
@@ -5153,7 +5153,7 @@
 			  (NP-OB1 (PRO-A Tykkum))
 			  (, ,-,)
 			  (NP-VOC (PRO-N Tit) (ADJ-N tortrúgvnu)))
-	      (. !-!)))
+	      (. !-!)) (ID 1823.NTMATT.REL-BIB,.304))
 
 ( (IP-MAT-SPE (CODE VS:VI_31M)
 	      (IP-MAT-SPE-1 (PP (P 0)
@@ -5213,7 +5213,7 @@
 											       (HVPI hava)
 											       (IP-SMC-SPE (NP-SBJ (Q-A öll) (D-A hesi) (NS-A Ting))
 													   (ADJP (ADJ-A neyðugt)))))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.305))
 
 ( (IP-IMP-SPE (CODE VS:VI_33M)
 	      (CONJ Men)
@@ -5224,7 +5224,7 @@
 		      (CONJP (CONJ og)
 			     (NP (N-A Rættvísheit)
 				 (NP-POS (PRO-G hansara)))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.306))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV so))
 	      (MDPI skulu)
@@ -5234,7 +5234,7 @@
 	      (CODE *XXX*)
 	      (NP-OB2 (PRO-D Tykkum))
 	      (RP til)
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.307))
 
 ( (IP-IMP-SPE (CODE VS:VI_34M)
 	      (VBI Gremjið)
@@ -5259,7 +5259,7 @@
 						  (PP (P um)
 						      (NP (NP-POS (PRO-A sítt))
 							  (ADJ-A Egna)))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.308))
 
 ( (IP-MAT-SPE (NP-SBJ (Q-N Hvör) (N-N Dagur))
 	      (HVPI hevur)
@@ -5267,12 +5267,12 @@
 	      (PP (P við)
 		  (NP (NP-POS (PRO-A sína))
 		      (N-A Plágu)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.309))
 
 ( (META (CODE <heading>)
 	(NP (D-N Tað) (ADJ-N 7da) (N-N Capitule))
 	(. .-.)
-	(CODE </heading>)))
+	(CODE </heading>)) (ID 1823.NTMATT.REL-BIB,.310))
 
 ( (IP-IMP-SPE (CODE VS:VII_1M)
 	      (VBI Dömið)
@@ -5314,7 +5314,7 @@
 								     (NP-SBJ (PRO-D Tykkum))
 								     (VB málast)
 								     (ADVP-TMP (ADV aftur))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.311))
 
 ( (CP-QUE-SPE (CODE VS:VII_3M)
 	      (CONJ Men)
@@ -5335,7 +5335,7 @@
 								  (PP (P á)
 								      (NP (N-D Beiggja)
 									  (NP-POS (PRO-D tínum))))))))))
-	      (, ,-,)))
+	      (, ,-,)) (ID 1823.NTMATT.REL-BIB,.312))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-1 (N-A Bjálk$)
@@ -5348,7 +5348,7 @@
 	      (NEG ikki)
 	      (ADJP (ADJ-N varur)
 		    (NP *ICH*-1))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.313))
 
 ( (CP-QUE-SPE (CODE VS:VII_4M)
 	      (CONJ Ella)
@@ -5368,7 +5368,7 @@
 						      (P úr)
 						      (NP (N-D Eyga)
 							  (NP-POS (PRO-D tínum)))))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.314))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (IP-IMP-SPE-PRN (VBI sí))
@@ -5379,7 +5379,7 @@
 	      (PP (P í)
 		  (NP (NP-POS (PRO-D tínum))
 		      (N-D Eyga)))
-	      (. !-!)))
+	      (. !-!)) (ID 1823.NTMATT.REL-BIB,.315))
 
 ( (IP-IMP-SPE (CODE VS:VII_5M)
 	      (NP-VOC (PRO-N Tú)
@@ -5392,7 +5392,7 @@
 		  (P úr)
 		  (NP (N-D Eyga)
 		      (NP-POS (PRO-D tínum))))
-	      (, ,-,)))
+	      (, ,-,)) (ID 1823.NTMATT.REL-BIB,.316))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (ADVP-TMP (ADV tá))
@@ -5409,14 +5409,14 @@
 				      (PP (P á)
 					  (NP (N-D Beiggja)
 					      (NP-POS (PRO-D tínum))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.317))
 
 ( (IP-IMP-SPE (CODE VS:VII_6M)
 	      (VBI Gevið)
 	      (NEG ikki)
 	      (NP-OB2 (NS-D Hundum))
 	      (NP-OB1 (D-A tað) (ADJ-A Heiliga))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.318))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI kastið)
@@ -5445,27 +5445,27 @@
 					     (IP-SUB-SPE=1 (VB skræða)
 							   (NP-OB1 (PRO-G Tykkum))
 							   (ADVP (ADV sundur))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.319))
 
 ( (IP-IMP-SPE (CODE VS:VII_7M)
 	      (VBI Biðið)
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.320))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV so))
 	      (MDPI skal)
 	      (VB gevast)
 	      (NP-SBJ (PRO-D Tykkum))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.321))
 
-( (IP-IMP-SPE (VBI leitið) (. ,-,)))
+( (IP-IMP-SPE (VBI leitið) (. ,-,)) (ID 1823.NTMATT.REL-BIB,.322))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV so))
 	      (MDPI skulu)
 	      (NP-SBJ (PRO-N Tit))
 	      (VB finna)
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.323))
 
-( (IP-IMP-SPE (VBI bankið) (. ,-,)))
+( (IP-IMP-SPE (VBI bankið) (. ,-,)) (ID 1823.NTMATT.REL-BIB,.324))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV so))
 	      (MDPI skal)
@@ -5484,7 +5484,7 @@
 						  (, ,-,)
 						  (NP-SBJ-RSP (PRO-N hann))
 						  (VBPI fær)))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.325))
 
 ( (IP-MAT-SPE (NP-LFD (D-N tann)
 		      (CP-REL-SPE (WNP-1 0)
@@ -5495,7 +5495,7 @@
 	      (, ,-,)
 	      (NP-SBJ-RSP (PRO-N hann))
 	      (VBPI finnur)
-	      (, ,-,)))
+	      (, ,-,)) (ID 1823.NTMATT.REL-BIB,.326))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-LFD (PRO-D tí)
@@ -5509,7 +5509,7 @@
 	      (MDPI skal)
 	      (VB latast)
 	      (RP upp)
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.327))
 
 ( (CP-QUE-SPE (CODE VS:VII_9M)
 	      (CONJ Ellar)
@@ -5537,7 +5537,7 @@
 						    (VB geva)
 						    (NP-OB2 (PRO-D honum))
 						    (NP-OB1 (ONE-A ein) (N-A Stein)))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.328))
 
 ( (CP-QUE-SPE (CODE VS:VII_10M)
 	      (CONJ Og)
@@ -5554,7 +5554,7 @@
 			  (VB geva)
 			  (NP-OB2 (PRO-D honum))
 			  (NP-OB1 (ONE-A ein) (N-A Orm)))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.329))
 
 ( (CP-EXL-SPE (CODE VS:VII_11M)
 	      (CP-QUE-ADV-SPE (WQ Hvis$)
@@ -5599,7 +5599,7 @@
 					(IP-SUB-SPE (NP-SBJ *T*-5)
 						    (VBPI biðja)
 						    (NP-OB1 (PRO-A hann)))))
-	      (. !-!)))
+	      (. !-!)) (ID 1823.NTMATT.REL-BIB,.330))
 
 ( (QTP (CODE VS:VII_12M)
        (PP (P 0)
@@ -5640,7 +5640,7 @@
 									       (NP-SBJ (NP (N-N Lóg$) (D-N $in))
 										       (CONJP (CONJ og)
 											      (NP (NS-N Profet$) (D-N $unar))))))))))))
-       (. .-.)))
+       (. .-.)) (ID 1823.NTMATT.REL-BIB,.331))
 
 ( (IP-IMP-SPE (CODE VS:VII_13M)
 	      (VBI Gangið)
@@ -5713,7 +5713,7 @@
 																		(IP-SUB-SPE (NP-SBJ *T*-4)
 																			    (VBPI finna)
 																			    (NP-OB1 (PRO-A hana)))))))))))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.332))
 
 ( (IP-IMP-SPE (CODE VS:VII_15M)
 	      (CONJ Men)
@@ -5731,7 +5731,7 @@
 						  (NP (PRO-A Tykkum)))
 					      (PP (P í)
 						  (NP (N-D Seyðabúnaði)))))))
-	      (, ,-,)))
+	      (, ,-,)) (ID 1823.NTMATT.REL-BIB,.333))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (PP (ADVP (ADV innan$))
@@ -5739,7 +5739,7 @@
 	      (BEPI eru)
 	      (NP-SBJ (PRO-N teir))
 	      (NP-PRD (ADJ-N rívandi) (NS-N Úlvar))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.334))
 
 ( (IP-MAT-SPE (CODE VS:VII_16M)
 	      (PP (P Av)
@@ -5749,7 +5749,7 @@
 	      (NP-SBJ (PRO-N Tit))
 	      (VB kenna)
 	      (NP-OB1 (PRO-A teir))
-	      (. !-!)))
+	      (. !-!)) (ID 1823.NTMATT.REL-BIB,.335))
 
 ( (CP-QUE-SPE (IP-SUB-SPE (IP-SUB-SPE-1 (MDPI Kann)
 					(NP-SBJ (Q-N nakar))
@@ -5762,20 +5762,20 @@
 				 (IP-SUB-SPE=1 (NP-OB1 (N-A Fik$) (D-A $un))
 					       (PP (P av)
 						   (NP (NS-D Titslum))))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.336))
 
 ( (IP-MAT-SPE (CODE VS:VII_17M)
 	      (ADVP (ADV Soleiðis))
 	      (VBPI ber)
 	      (NP-SBJ (Q-N hvört) (ADJ-N gott) (N-N Træ))
 	      (NP-OB1 (ADJ-A góðar) (NS-A Fruktir))
-	      (, ,-,)))
+	      (, ,-,)) (ID 1823.NTMATT.REL-BIB,.337))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-SBJ (ONE-N eitt) (ADJ-N rotið) (N-N Træ))
 	      (VBPI ber)
 	      (NP-OB1 (ADJ-A ringar) (NS-A Fruktir))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.338))
 
 ( (IP-MAT-SPE (CODE VS:VII_18M)
 	      (NP-SBJ (ONE-N Eitt) (ADJ-N gott) (N-N Træ))
@@ -5783,7 +5783,7 @@
 	      (NEG ikki)
 	      (VB bera)
 	      (NP-OB1 (ADJ-A ringar) (NS-A Fruktir))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.339))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (ONE-N eitt) (ADJ-N rotið) (N-N Træ))
@@ -5791,7 +5791,7 @@
 	      (NEG ikki)
 	      (VB bera)
 	      (NP-OB1 (ADJ-A góðar) (NS-A Fruktir))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.340))
 
 ( (IP-MAT-SPE (CODE VS:VII_19M)
 	      (IP-MAT-SPE-1 (NP-SBJ (Q-N Hvört)
@@ -5811,7 +5811,7 @@
 		     (IP-MAT-SPE=1 (VB kastast)
 				   (PP (P í)
 				       (NP (N-A Eld$) (D-A $in)))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.341))
 
 ( (IP-MAT-SPE (CODE VS:VII_20M)
 	      (PP (P 0)
@@ -5823,7 +5823,7 @@
 	      (PP (P av)
 		  (NP (NS-D Fruktum)
 		      (NP-POS (PRO-G teirra))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.342))
 
 ( (IP-MAT-SPE (CODE VS:VII_21M)
 	      (NP-SBJ (NP (NEG Ikki)
@@ -5865,7 +5865,7 @@
 											   (BEPI er)
 											   (PP (P í)
 											       (NP (NPRS-D Himlu$) (D-D $num)))))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.343))
 
 ( (IP-MAT-SPE (CODE VS:VII_22M)
 	      (NP-SBJ (Q-N Mangir))
@@ -5887,7 +5887,7 @@
 				      (PP (P við)
 					  (NP (N-D Navni)
 					      (NP-POS (PRO-D tínum))))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.344))
 
 ( (CP-QUE-SPE (CONJ og)
 	      (IP-SUB-SPE (HVPI hava)
@@ -5899,7 +5899,7 @@
 			  (PP (P við)
 			      (NP (N-D Navni)
 				  (NP-POS (PRO-D tínum)))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.345))
 
 ( (CP-QUE-SPE (CONJ og)
 	      (IP-SUB-SPE (HVPI hava)
@@ -5910,7 +5910,7 @@
 			  (PP (P í)
 			      (NP (N-D Navni)
 				  (NP-POS (PRO-D tínum)))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.346))
 
 ( (IP-MAT-SPE (CODE VS:VII_23M)
 	      (CONJ Og)
@@ -5926,7 +5926,7 @@
 			  (ADVP-TMP (ADV aldri))
 			  (PP (P við)
 			      (NP (PRO-A Tykkum))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.347))
 
 ( (IP-IMP-SPE (VBI víkið)
 	      (ADVP-DIR (ADV burtur))
@@ -5945,7 +5945,7 @@
 							      (PP (P við)
 								  (NP (N-A Órætt))))))))
 	      (. !-!)
-	      (CODE VS:VII_24M)))
+	      (CODE VS:VII_24M)) (ID 1823.NTMATT.REL-BIB,.348))
 
 ( (QTP (PP (P 0)
 	   (NP (PRO-D Tí$)
@@ -5982,7 +5982,7 @@
 										   (NP-POS (PRO-A sítt)))
 									   (PP (P á)
 									       (NP (ONE-D eini) (N-D Hellu)))))))))))
-       (. .-.)))
+       (. .-.)) (ID 1823.NTMATT.REL-BIB,.349))
 
 ( (IP-MAT-SPE (CODE VS:VII_25M)
 	      (CONJ Og)
@@ -5990,26 +5990,26 @@
 	      (NP-1 (ONE-N eitt) (N-N Stoytiregn))
 	      (VBDI fell)
 	      (RP inn)
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.350))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *exp*-1)
 	      (NP-1 (N-N Vanlóp))
 	      (VBDI komu)
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.351))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *exp*-1)
 	      (NP-1 (NS-N Hvirlur))
 	      (VBPI brúsaðu)
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.352))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
 	      (VBDI fullu)
 	      (PP (P á)
 		  (NP (D-A tað) (ADJ-A sama) (N-A Hús$) (D-A $ið)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.353))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (PRO-N tað))
@@ -6024,7 +6024,7 @@
 						  (VAN grundað)
 						  (PP (P á)
 						      (NP (ONE-D eini) (N-D Hellu)))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.354))
 
 ( (IP-MAT-SPE (CODE VS:VII_26M)
 	      (CONJ Og)
@@ -6058,7 +6058,7 @@
 						      (NP-POS (PRO-A sítt)))
 					      (PP (P á)
 						  (NP (N-D Sandi)))))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.355))
 
 ( (IP-MAT-SPE (CODE VS:VII_27M)
 	      (CONJ Og)
@@ -6066,32 +6066,32 @@
 	      (NP-1 (ONE-N eitt) (N-N Stoytiregn))
 	      (VBDI fell)
 	      (RP á)
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.356))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *exp*-1)
 	      (NP-1 (NS-N Vanlóp))
 	      (VBDI komu)
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.357))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *exp*-1)
 	      (NP-1 (NS-N Hvirlur))
 	      (VBPI brúsaðu)
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.358))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
 	      (VBDI stoytti)
 	      (PP (P á)
 		  (NP (D-A tað) (ADJ-A sama) (N-A Hús$) (D-A $ið)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.359))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (PRO-N tað))
 	      (VBDI datt)
 	      (RP um)
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.360))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (N-N Fall$)
@@ -6099,7 +6099,7 @@
 		      (NP-POS (PRO-G tess)))
 	      (BEDI var)
 	      (ADJP (ADJ-N stórt))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.361))
 
 ( (IP-MAT (CODE VS:VII_28M)
 	  (CONJ Og)
@@ -6153,12 +6153,12 @@
 										   (C sum)
 										   (IP-SUB (ADVP *T*-5)
 											   (NP-SBJ (D-N teir) (ADJ-N Skriftklóku))))))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.362))
 
 ( (META (CODE <heading>)
 	(NP (D-N Tað) (ADJ-N 8de) (N-N Capitule))
 	(. .-.)
-	(CODE </heading>)))
+	(CODE </heading>)) (ID 1823.NTMATT.REL-BIB,.363))
 
 ( (IP-MAT (CODE VS:VIII_1M)
 	  (CONJ Men)
@@ -6178,7 +6178,7 @@
 	  (NP-SBJ (N-N Mongd)
 		  (PP (P av)
 		      (NP (N-D Fólki))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.364))
 
 ( (IP-MAT (CODE VS:VIII_2M)
 	  (CONJ Og)
@@ -6186,14 +6186,14 @@
 	  (, ,-,)
 	  (NP-SBJ (ONE-N ein) (ADJ-N Spitalskur))
 	  (VBDI kom)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.365))
 
 ( (IP-MAT (NP-SBJ *con*)
 	  (VBDI fell)
 	  (RP niður)
 	  (PP (P fyri)
 	      (NP (PRO-D honum)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.366))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -6211,7 +6211,7 @@
 		      (NP-SBJ (PRO-N tú))
 		      (VB reinska)
 		      (NP-OB1 (PRO-A meg)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.367))
 
 ( (IP-MAT (CODE VS:VIII_3M)
 	  (CONJ Og)
@@ -6219,13 +6219,13 @@
 	  (VBDI rætti)
 	  (NP-OB1 (N-A Hond$) (D-A $ina))
 	  (RP út)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.368))
 
 ( (IP-MAT (NP-SBJ *con*)
 	  (VBDI nam)
 	  (PP (P við)
 	      (NP (PRO-A hann)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.369))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -6233,11 +6233,11 @@
 	  (, :-:)
 	  (IP-MAT-SPE (NP-SBJ (PRO-N Eg))
 		      (VBPI vil))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.370))
 
 ( (IP-IMP-SPE (BEI ver)
 	      (ADJP (ADJ-N reinur))
-	      (. !-!)))
+	      (. !-!)) (ID 1823.NTMATT.REL-BIB,.371))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (N-N Spitalskheit)
@@ -6246,7 +6246,7 @@
 	  (VAN reinskað)
 	  (PP (P við)
 	      (NP (D-A tað) (ADJ-A Sama)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.372))
 
 ( (IP-MAT (CODE VS:VIII_4M)
 	  (CONJ Og)
@@ -6263,20 +6263,20 @@
 						  (VBPI sigur)
 						  (NP-OB2 (Q-D Ongum))
 						  (NP-OB1 (PRO-A tað))))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.373))
 
 ( (IP-IMP-SPE (CONJ men)
 	      (VBI gakk)
 	      (NP-DIR (NP-POS (PRO-A tín))
 		      (N-A Veg))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.374))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI sýn)
 	      (NP-OB1 (PRO-A teg))
 	      (PP (P fyri)
 		  (NP (N-D Prest$) (D-D $inum)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.375))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI offra)
@@ -6295,7 +6295,7 @@
 						  (NP (ONE-A eitt)
 						      (N-A Vitniski)
 						      (NP-COM *ICH*-2))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.376))
 
 ( (IP-MAT (CODE VS:VIII_5M)
 	  (CONJ Men)
@@ -6313,12 +6313,12 @@
 	  (NP-SBJ (ONE-N ein) (N-N Hövidsmaður))
 	  (PP (P til)
 	      (NP (PRO-G hansara)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.377))
 
 ( (IP-MAT (NP-SBJ *con*)
 	  (VBDI bað)
 	  (NP-OB1 (PRO-A hann))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.378))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -6332,13 +6332,13 @@
 		      (VBPI liggur)
 		      (ADVP-LOC (ADV heima))
 		      (ADJP-SPR (ADJ-N verkbrotin)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.379))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
 	      (VBPI pínist)
 	      (ADVP (ADV svárliga))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.380))
 
 ( (IP-MAT (CODE VS:VIII_7M)
 	  (CONJ Og)
@@ -6354,12 +6354,12 @@
 			     (IP-MAT-SPE=1 (DO gera)
 					   (IP-SMC-SPE (NP-SBJ (PRO-A hann))
 						       (ADJP (ADJ-A heilbrigðan))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.381))
 
 ( (IP-MAT (CODE VS:VIII_8M)
 	  (CONJ Og)
 	  (NP-SBJ (N-N Hövudsmaður$) (D-N $in))
-	  (VBDI svaraði)))
+	  (VBDI svaraði)) (ID 1823.NTMATT.REL-BIB,.382))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -6380,13 +6380,13 @@
 						    (PP (P undir)
 							(NP (NP-POS (PRO-A mína))
 							    (N-A Tekju)))))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.383))
 
 ( (IP-IMP-SPE (CONJ men)
 	      (VBI sig)
 	      (FP bara)
 	      (NP-OB1 (ONE-A eitt) (N-A Orð))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.384))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV so))
 	      (RDPI verður)
@@ -6417,7 +6417,7 @@
 								     (NP-OB1 (NS-A Krígsmenn))
 								     (PP (P undir)
 									 (NP (PRO-D mær)))))))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.385))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (CP-ADV-SPE-LFD (IP-SUB-SPE (VBPI sigi)
@@ -6430,7 +6430,7 @@
 	      (ADVP-TMP-RSP (ADV so))
 	      (VBPI fer)
 	      (NP-SBJ (PRO-N hann))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.386))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (QTP-LFD (PP (P til)
@@ -6441,7 +6441,7 @@
 	      (ADVP-RSP (ADV so))
 	      (VBPI kemur)
 	      (NP-SBJ (PRO-N hann))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.387))
 
 ( (IP-MAT (CONJ og)
 	  (QTP-LFD (PP (P við)
@@ -6455,7 +6455,7 @@
 	  (DOPI ger)
 	  (NP-SBJ (PRO-N hann))
 	  (NP-OB1 (PRO-A tað))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.388))
 
 ( (IP-MAT (CODE VS:VIII_10M)
 	  (CONJ Men)
@@ -6470,7 +6470,7 @@
 	  (VBDI undraði)
 	  (NP-SBJ (PRO-N hann))
 	  (NP-OB1 (PRO-A seg))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.389))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -6499,7 +6499,7 @@
 				  (NP-SBJ (PRO-N Eg))
 				  (VBN funnið)
 				  (NP-OB1 (ADJ-A sovorðna) (N-A Trúgv))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.390))
 
 ( (IP-MAT-SPE (CODE VS:VIII_11M)
 	      (CONJ Men)
@@ -6523,7 +6523,7 @@
 							   (PP (P í)
 							       (NP (NP-POS (NPR-G Himmiríkis))
 								   (NPR-D Ríki)))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.391))
 
 ( (IP-MAT-SPE (CODE VS:VIII_12M)
 	      (CONJ Men)
@@ -6536,13 +6536,13 @@
 	      (RP út)
 	      (PP (P í)
 		  (NP (D-A tað) (ADJS-A uttasta) (N-A Myrkr$) (D-A $ið)))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.392))
 
 ( (IP-MAT-SPE (ADVP-LOC (ADV har))
 	      (MDPI skal)
 	      (BE vera)
 	      (NP-SBJ (N-N Grátur) (CONJ og) (N-N Tannabit))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.393))
 
 ( (IP-MAT (CODE VS:VIII_13M)
 	  (CONJ Og)
@@ -6554,7 +6554,7 @@
 	  (IP-IMP-SPE (VBI far)
 		      (NP-DIR (NP-POS (PRO-A tín))
 			      (N-A Veg)))
-	  (, ,-,)))
+	  (, ,-,)) (ID 1823.NTMATT.REL-BIB,.394))
 
 ( (IP-MAT-SPE (ADVP (ADVR so)
 		    (CP-CMP-SPE *ICH*-1))
@@ -6566,7 +6566,7 @@
 			    (IP-SUB-SPE (ADVP *T*-2)
 					(NP-SBJ (PRO-N tú))
 					(VBDI trúði)))
-	      (. !-!)))
+	      (. !-!)) (ID 1823.NTMATT.REL-BIB,.395))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (N-N Smádrongur)
@@ -6575,7 +6575,7 @@
 	      (ADJP (ADJ-N heilbrigður))
 	      (PP (P í)
 		  (NP (D-D tí) (ADJ-D sama) (NPR-D Tíma)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.396))
 
 ( (IP-MAT (CODE VS:VIII_14M)
 	  (CONJ Og)
@@ -6585,7 +6585,7 @@
 	      (P í)
 	      (NP (N-A Hús)
 		  (NP-POS (NPR-G Pætursa))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.397))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -6601,7 +6601,7 @@
 				 (IP-SUB (NP-SBJ *con*)
 					 (HVDI hevði)
 					 (NP-OB1 (N-A Febir))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.398))
 
 ( (IP-MAT (CODE VS:VIII_15M)
 	  (CONJ Og)
@@ -6610,24 +6610,24 @@
 	  (PP (P við)
 	      (NP (N-A Hond)
 		  (NP-POS (PRO-G hennara))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.399))
 
 ( (IP-MAT (CONJ og)
 	  (NP-OB1 (N-N Feber$) (D-N $in))
 	  (VBDI lætti)
 	  (NP-SBJ (PRO-D henni))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.400))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (PRO-N hon))
 	  (VBDI stóð)
-	  (RP upp)))
+	  (RP upp)) (ID 1823.NTMATT.REL-BIB,.401))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
 	  (VBDI tænaði)
 	  (NP-OB1 (PRO-D teimum))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.402))
 
 ( (IP-MAT (CODE VS:VIII_16M)
 	  (CONJ Men)
@@ -6645,7 +6645,7 @@
 	  (NP-OB1 (Q-A mong) (VAN-A Besett))
 	  (PP (P til)
 	      (NP (PRO-G hansara)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.403))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (PRO-N hann))
@@ -6654,7 +6654,7 @@
 	  (RP út)
 	  (PP (P við)
 	      (NP (ONE-D einum) (N-D Orði)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.404))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -6697,14 +6697,14 @@
 										   (VBDI tók)
 										   (NP-OB1 (NP-POS (PRO-G okkara))
 											   (NS-A Skroypiligheitur)))))))))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.405))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
 	      (VBDI bar)
 	      (NP-OB1 (NP-POS (PRO-G okkara))
 		      (NS-A Sjúkdómar))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.406))
 
 ( (IP-MAT (CODE VS:VIII_18M)
 	  (CONJ Men)
@@ -6728,7 +6728,7 @@
 		  (RP $um)
 		  (NP-ADV (CODE MS:hini_Minni)
 			  (N-D hinumegin)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.407))
 
 ( (IP-MAT (CODE VS:VIII_19M)
 	  (CONJ Og)
@@ -6736,7 +6736,7 @@
 	  (VBDI gekk)
 	  (NP-SBJ (ONE-N ein) (ADJ-N Skriftklókur))
 	  (RP fram)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.408))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -6756,7 +6756,7 @@
 					    (IP-SUB-SPE (ADVP-LOC *T*-1)
 							(NP-SBJ (PRO-N tú))
 							(VBPI fert)))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.409))
 
 ( (IP-MAT (CODE VS:VIII_20M)
 	  (CONJ Og)
@@ -6773,7 +6773,7 @@
 			     (IP-MAT-SPE=1 (NP-SBJ (NP-POS (NPR-G Himmal$) (D-G $ins))
 						   (NS-N Fuglar))
 					   (NP-OB1 (NS-A Reiður)))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.410))
 
 ( (IP-MAT (CONJ men)
 	  (NP-SBJ (NP-POS (N-G Menniskja$) (D-G $ns))
@@ -6792,7 +6792,7 @@
 					  (PP (ADV aftur$)
 					      (P $at)
 					      (NP *T*-1)))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.411))
 
 ( (IP-MAT (CODE VS:VIII_21M)
 	  (CONJ Men)
@@ -6819,7 +6819,7 @@
 						     (IP-SUB-SPE=1 (VB begrava)
 								   (NP-OB1 (N-A Faðir)
 									   (NP-POS (PRO-A mín))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.412))
 
 ( (IP-MAT (CODE VS:VIII_22M)
 	  (CONJ Men)
@@ -6830,7 +6830,7 @@
 	  (, :-:)
 	  (IP-IMP-SPE (VBI fylg)
 		      (NP-OB1 (PRO-D mær)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.413))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI lat)
@@ -6838,7 +6838,7 @@
 			  (VB begrava)
 			  (NP-OB1 (NP-POS (PRO-G teirra))
 				  (ADJ-A Deyðu)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.414))
 
 ( (IP-MAT (CODE VS:VIII_23M)
 	  (CONJ Og)
@@ -6846,14 +6846,14 @@
 	  (VBDI fór)
 	  (PP (P á)
 	      (NP (N-A Skip$) (D-A $ið)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.415))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NS-N Disciplar)
 		  (NP-POS (PRO-G hansara)))
 	  (VBDI fylgdu)
 	  (NP-OB1 (PRO-D honum))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.416))
 
 ( (IP-MAT (CODE VS:VIII_24M)
 	  (CONJ Og)
@@ -6871,12 +6871,12 @@
 			      (VBDI fjaldist)
 			      (PP (P av)
 				  (NP (NS-D Bylgju$) (D-D $num))))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.417))
 
 ( (IP-MAT (CONJ men)
 	  (NP-SBJ (PRO-N hann))
 	  (VBDI svav)
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.418))
 
 ( (IP-MAT (CODE VS:VIII_25M)
 	  (CONJ Og)
@@ -6885,13 +6885,13 @@
 	  (VBDI gingu)
 	  (PP (P til)
 	      (NP (PRO-G hans)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.419))
 
 ( (IP-MAT (NP-SBJ *con*)
 	  (VBDI vaktu)
 	  (NP-OB1 (PRO-A hann))
 	  (RP upp)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.420))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -6901,11 +6901,11 @@
 		      (, ,-,)
 		      (VBI redda)
 		      (NP-OB1 (PRO-D okkum)))
-	  (. !-!)))
+	  (. !-!)) (ID 1823.NTMATT.REL-BIB,.421))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N vit))
 	      (LBPI blíva)
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.422))
 
 ( (IP-MAT (CODE VS:VIII_26M)
 	  (CONJ Og)
@@ -6928,13 +6928,13 @@
 								    (NP-MSR (Q-N lítið))
 								    (VBPI virða)
 								    (NP-OB1 (N-A Trú$) (D-A $na)))))))
-	  (. ?-?)))
+	  (. ?-?)) (ID 1823.NTMATT.REL-BIB,.423))
 
 ( (IP-MAT (CONJ Og)
 	  (NP-SBJ (PRO-N hann))
 	  (VBDI stóð)
 	  (RP upp)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.424))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -6942,19 +6942,19 @@
 	  (NP-OB1 (NP (N-A Ódn$) (D-A $ina))
 		  (CONJP (CONJ og)
 			 (NP (NS-A Sjógvar$) (D-A $nar))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.425))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ-1 (ES tað))
 	  (LBDI bleiv)
 	  (NP-1 (N-N blikalogn))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.426))
 
 ( (IP-MAT (CODE VS:VIII_27M)
 	  (CONJ Men)
 	  (NP-SBJ (NS-N Menneskj$) (D-N $ene))
 	  (VBDI undraðust)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.427))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -6975,7 +6975,7 @@
 							  (BEPI eru)
 							  (ADJP (NP (PRO-D honum))
 								(ADJ-N lýðir))))))
-	  (. ?-?)))
+	  (. ?-?)) (ID 1823.NTMATT.REL-BIB,.428))
 
 ( (IP-MAT (CODE VS:VIII_28M)
 	  (CONJ Og)
@@ -7005,7 +7005,7 @@
 			    (PP (RP út)
 				(P úr)
 				(NP (NS-D Gröv$) (D-D $unum)))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.429))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -7018,7 +7018,7 @@
 			      (MDDI kundi)
 			      (VB farast)
 			      (NP-DIR (D-A tann) (N-A Veg)))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.430))
 
 ( (IP-MAT (CODE VS:VIII_29M)
 	  (CONJ Og)
@@ -7026,7 +7026,7 @@
 	  (, ,-,)
 	  (NP-SBJ (PRO-N teir))
 	  (VBDI róptu)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.431))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -7048,7 +7048,7 @@
 							  (DO gera)
 							  (PP (P við)
 							      (NP (PRO-A teg)))))))
-	  (. ?-?)))
+	  (. ?-?)) (ID 1823.NTMATT.REL-BIB,.432))
 
 ( (CP-QUE-SPE (IP-SUB-SPE (BEPI Er)
 			  (NP-SBJ (PRO-N tú))
@@ -7060,7 +7060,7 @@
 					  (NP-OB1 (PRO-A okkum))
 					  (PP (P fyri)
 					      (NP (N-A Tíð$) (D-A $ina)))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.433))
 
 ( (IP-MAT (CODE VS:VIII_30M)
 	  (CONJ Men)
@@ -7081,14 +7081,14 @@
 					  (ADVP-LOC (ADV har))
 					  (PP (P á)
 					      (NP (N-D Biti))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.434))
 
 ( (IP-MAT (CODE VS:VIII_31M)
 	  (CONJ Men)
 	  (NP-SBJ (NS-N Devlar$) (D-N $nir))
 	  (VBDI bóðu)
 	  (NP-OB1 (PRO-A hann))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.435))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -7108,7 +7108,7 @@
 				  (VB fara)
 				  (PP (P í)
 				      (NP (N-A Svínafylg$) (D-A $ið)))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.436))
 
 ( (IP-MAT (CODE VS:VIII_32M)
 	  (CONJ Og)
@@ -7119,7 +7119,7 @@
 	  (, :-:)
 	  (IP-IMP-SPE (VBI farið)
 		      (ADVP-DIR (ADV hagar)))
-	  (. !-!)))
+	  (. !-!)) (ID 1823.NTMATT.REL-BIB,.437))
 
 ( (IP-MAT (CONJ Men)
 	  (ADVP-TMP (ADV tá$)
@@ -7135,7 +7135,7 @@
 	  (NP-SBJ (PRO-N teir))
 	  (PP (P í)
 	      (NP (N-A Svínafylg$) (D-A $ið)))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.438))
 
 ( (IP-MAT (CONJ og)
 	  (IP-IMP-PRN (VBI sí))
@@ -7148,26 +7148,26 @@
 		      (NP (N-D Bakka$) (D-D $num)))
 		  (PP (P í)
 		      (NP (N-A Sjógv$) (D-A $in))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.439))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
 	  (VBDI döði)
 	  (PP (P í)
 	      (NP (N-D Vatn$) (D-D $inum)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.440))
 
 ( (IP-MAT (CODE VS:VIII_33M)
 	  (CONJ Men)
 	  (NP-SBJ (NS-N Hirðar$) (D-N $nir))
-	  (VBDI fluttu)))
+	  (VBDI fluttu)) (ID 1823.NTMATT.REL-BIB,.441))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
 	  (VBDI gingu)
 	  (PP (P í)
 	      (NP (N-A Stað$) (D-A $in)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.442))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -7186,7 +7186,7 @@
 				     (RP til)
 				     (PP (P við)
 					 (NP (D-D teim) (VAN-D Besettu)))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.443))
 
 ( (IP-MAT (CODE VS:VIII_34M)
 	  (CONJ Og)
@@ -7198,7 +7198,7 @@
 	  (IP-INF-PRP (TO at)
 		      (VB möta)
 		      (NP-OB1 (NPR-D Jesusi)))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.444))
 
 ( (IP-MAT (CONJ og)
 	  (ADVP-TMP (ADV tá$)
@@ -7220,12 +7220,12 @@
 			  (PP (P frá)
 			      (NP (NP-POS (PRO-G teirra))
 				  (NS-D Grendum)))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.445))
 
 ( (META (CODE <heading>)
 	(NP (D-N Tað) (ADJ-N 9da) (N-N Capitule))
 	(. .-.)
-	(CODE </heading>)))
+	(CODE </heading>)) (ID 1823.NTMATT.REL-BIB,.446))
 
 ( (IP-MAT (CODE VS:IX_1M)
 	  (CONJ Og)
@@ -7233,14 +7233,14 @@
 	  (VBDI seig)
 	  (PP (P í)
 	      (NP (N-A Skip$) (D-A $ið)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.447))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
 	  (VBDI fór)
 	  (RP yvir$)
 	  (RP $um)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.448))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -7249,7 +7249,7 @@
 	      (NP (NP-POS (PRO-A sín))
 		  (ADJ-A egna)
 		  (N-A Stað)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.449))
 
 ( (IP-MAT (CODE VS:IX_2M)
 	  (CONJ Og)
@@ -7269,7 +7269,7 @@
 			    (VBDI lá)
 			    (PP (P á)
 				(NP (ONE-D eini) (N-D Song)))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.450))
 
 ( (IP-MAT (CONJ og)
 	  (ADVP-TMP (ADV tá$)
@@ -7291,14 +7291,14 @@
 		      (. !-!)
 		      (BEI ver)
 		      (ADJP (ADJ-N frímóðigur)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.451))
 
 ( (IP-MAT-SPE (NP-OB1 (NS-N Syndir)
 		      (NP-POS (PRO-N tínar)))
 	      (BEPI eru)
 	      (NP-SBJ (PRO-D tær))
 	      (VAN forlátnar)
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.452))
 
 ( (IP-MAT (CODE VS:IX_3M)
 	  (CONJ Og)
@@ -7315,7 +7315,7 @@
 	  (IP-MAT-SPE (NP-SBJ (D-N Hesin))
 		      (VBPI spottar)
 		      (NP-OB1 (NPR-A Gud)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.453))
 
 ( (IP-MAT (CODE VS:IX_4M)
 	  (CONJ Og)
@@ -7339,7 +7339,7 @@
 				  (PP (P í)
 				      (NP (NS-D Hjörtum)
 					  (NP-POS (PRO-G Tykkara))))))
-	  (. ?-?)))
+	  (. ?-?)) (ID 1823.NTMATT.REL-BIB,.454))
 
 ( (QTP (CODE VS:IX_5M)
        (PP (P 0)
@@ -7368,7 +7368,7 @@
 										      (CONJP (CONJ og)
 											     (IP-IMP-SPE (VBI far)
 													 (IP-INF-PRP-SPE (TO at) (VB ganga))))))))))))
-       (. .-.)))
+       (. .-.)) (ID 1823.NTMATT.REL-BIB,.455))
 
 ( (IP-MAT (CODE VS:IX_6M)
 	  (CONJ Men)
@@ -7399,27 +7399,27 @@
 	      (NP (D-A tann) (ADJ-A Verkbrotna)))
 	  (, :-:)
 	  (IP-IMP-SPE (VBI statt) (RP upp))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.456))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI tak)
 	      (NP-OB1 (N-A Song)
 		      (NP-POS (PRO-A tína)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.457))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI gakk)
 	      (PP (P til)
 		  (NP (NP-POS (PRO-A títt))
 		      (N-A Hús)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.458))
 
 ( (IP-MAT (CODE VS:IX_7M)
 	  (CONJ Og)
 	  (NP-SBJ (PRO-N hann))
 	  (VBDI stóð)
 	  (RP upp)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.459))
 
 ( (IP-MAT (CONJ og)
 	  (VBDI fór)
@@ -7428,7 +7428,7 @@
 	  (PP (P til)
 	      (NP (NP-POS (PRO-A sítt))
 		  (N-A Hús)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.460))
 
 ( (IP-MAT (CODE VS:IX_8M)
 	  (CONJ Men)
@@ -7443,7 +7443,7 @@
 	  (VBDI undraðu)
 	  (NP-SBJ (PRO-N tey))
 	  (NP-OB1 (PRO-A seg))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.461))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -7457,7 +7457,7 @@
 				  (VBN givið)
 				  (NP-OB2 (NS-D Menniskje$) (D-D $num))
 				  (NP-OB1 (SUCH-A sodaana) (N-A Magt)))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.462))
 
 ( (IP-MAT (CODE VS:IX_9M)
 	  (CONJ Og)
@@ -7475,12 +7475,12 @@
 		  (VB sita)
 		  (PP (P í)
 		      (NP (N-D Tollbúð$) (D-D $ini))))
-	  (. :-:)))
+	  (. :-:)) (ID 1823.NTMATT.REL-BIB,.463))
 
 ( (IP-MAT (NP-SBJ (PRO-N hann))
 	  (VBDI æt)
 	  (NP-PRD (NPR-N Mattheus))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.464))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (PRO-N hann))
@@ -7490,19 +7490,19 @@
 	  (, :-:)
 	  (IP-IMP-SPE (VBI fylg)
 		      (NP-OB1 (PRO-D mær)))
-	  (. !-!)))
+	  (. !-!)) (ID 1823.NTMATT.REL-BIB,.465))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (PRO-N hann))
 	  (VBDI stóð)
 	  (RP upp)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.466))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
 	  (VBDI fylgdi)
 	  (NP-OB1 (PRO-D honum))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.467))
 
 ( (IP-MAT (CODE VS:IX_10M)
 	  (CONJ Og)
@@ -7518,7 +7518,7 @@
 			      (NP (N-G Borðs)))
 			  (PP (P í)
 			      (NP (N-D Hús$) (D-D $inum)))))
-	  (, ,-,)))
+	  (, ,-,)) (ID 1823.NTMATT.REL-BIB,.468))
 
 ( (IP-MAT (IP-IMP-PRN (VBI sí))
 	  (, ,-,)
@@ -7529,7 +7529,7 @@
 		  (NS-N Tollarir)
 		  (CONJP (CONJ og)
 			 (NX (NS-N Syndarir))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.469))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -7541,7 +7541,7 @@
 		  (CONJP (CONJ og)
 			 (NP (NS-D Disciplum)
 			     (NP-POS (PRO-G hansara))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.470))
 
 ( (IP-MAT (CODE VS:IX_11M)
 	  (CONJ Og)
@@ -7567,7 +7567,7 @@
 				  (PP (ADV saman)
 				      (P við)
 				      (NP (NS-D Tollarum) (CONJ og) (NS-D Syndarum)))))
-	  (. ?-?)))
+	  (. ?-?)) (ID 1823.NTMATT.REL-BIB,.471))
 
 ( (IP-MAT (CODE VS:IX_12M)
 	  (CONJ Men)
@@ -7598,13 +7598,13 @@
 							       (IP-SUB-SPE (NP-SBJ *T*-3)
 									   (VBPI luja)
 									   (NP-OB1 (ADJ-A ilt))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.472))
 
 ( (IP-IMP-SPE (CODE VS:IX_13M)
 	      (CONJ Men)
 	      (VBI gangið)
 	      (ADVP-DIR (ADV burtur))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.473))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI lærið)
@@ -7614,7 +7614,7 @@
 			  (IP-SUB-SPE (NP-PRD *T*-1)
 				      (NP-SBJ (PRO-N tað))
 				      (BEPI er)))
-	      (. :-:)))
+	      (. :-:)) (ID 1823.NTMATT.REL-BIB,.474))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N Eg))
 	      (VBPI vil)
@@ -7634,7 +7634,7 @@
 								  (NP-OB1 (ADJ-A Rættiligar) (, ,-,) (CONJ men) (NS-A Syndarar))
 								  (PP (P til)
 								      (NP (N-A Umvendilsi))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.475))
 
 ( (IP-MAT (CODE VS:IX_14M)
 	  (ADVP-TMP (ADV Tá))
@@ -7643,7 +7643,7 @@
 		  (NP-POS (NPR-G Jóhannissa)))
 	  (PP (P til)
 	      (NP (PRO-G hansara)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.476))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -7656,14 +7656,14 @@
 					  (CONJP (CONJ og)
 						 (NP (NPRS-N Farisear$) (D-N $nir))))
 				  (NP-MSR (Q-N mikið))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.477))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-SBJ (NS-N Disciplar)
 		      (NP-POS (PRO-N tínir)))
 	      (VBPI fasta)
 	      (NEG ikki)
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.478))
 
 ( (IP-MAT (CODE VS:IX_15M)
 	  (CONJ Og)
@@ -7685,7 +7685,7 @@
 								    (BEPI er)
 								    (PP (P hjá)
 									(NP (PRO-D teimum))))))))
-	  (. ?-?)))
+	  (. ?-?)) (ID 1823.NTMATT.REL-BIB,.479))
 
 ( (IP-MAT-SPE (CONJ Men)
 	      (NP-SBJ (D-N teir) (NS-N Dagar))
@@ -7702,13 +7702,13 @@
 						(ADVP-DIR (ADV burtur))
 						(PP (P frá)
 						    (NP (PRO-D teimum))))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.480))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (ADVP-TMP (ADV tá))
 	      (MDPI skula)
 	      (NP-SBJ (PRO-N teir))
-	      (VB fasta)))
+	      (VB fasta)) (ID 1823.NTMATT.REL-BIB,.481))
 
 ( (IP-MAT-SPE (CODE VS:IX_16M)
 	      (CONJ Men)
@@ -7738,7 +7738,7 @@
 							 (IP-SUB-SPE (NP-SBJ (N-N Hol$) (D-N $ið))
 								     (RDPI verður)
 								     (ADJP (ADJR-N verri))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.482))
 
 ( (IP-MAT-SPE (CODE VS:IX_17M)
 	      (NEG Ikki)
@@ -7748,22 +7748,22 @@
 	      (PP (RP upp)
 		  (P í)
 		  (NP (ADJ-A gamlar) (NS-A Leðurflöskur)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.483))
 
 ( (IP-MAT-SPE (ADVP (ADV ellars))
 	      (VBPI bresta)
 	      (NP-SBJ (NS-N Leðurflöskur$) (D-N $nar))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.484))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (N-N Vín$) (D-N $ið))
 	      (VBPI spillist)
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.485))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (NS-N Leðurflöskur$) (D-N $nar))
 	      (VBPI forkomast)
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.486))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-SBJ (ADJ-N nýtt) (N-N Vín))
@@ -7771,13 +7771,13 @@
 	      (VAN latið)
 	      (PP (P í)
 		  (NP (ADJ-A nýggjar) (NS-A Leðurflöskur)))
-	      (, ,-,)))
+	      (, ,-,)) (ID 1823.NTMATT.REL-BIB,.487))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV so))
 	      (RDPI verða)
 	      (NP-SBJ (Q-N bæði))
 	      (ADJP (ADJ-N óbragdað))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.488))
 
 ( (IP-MAT (CODE VS:IX_18M)
 	  (CP-ADV-LFD (WADVP-1 0)
@@ -7794,7 +7794,7 @@
 	  (ADVP-TMP-RSP (ADV tá))
 	  (VBDI kom)
 	  (NP-SBJ (ONE-N ein) (N-N Övarsti))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.489))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -7802,7 +7802,7 @@
 	  (RP niður)
 	  (PP (P fyri)
 	      (NP (PRO-D honum)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.490))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -7814,9 +7814,9 @@
 		      (CODE *XXX*)
 		      (ADVP-TMP (ADV rætt) (ADV nú))
 		      (ADJP (ADJ-N deyð)))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.491))
 
-( (IP-IMP-SPE (CONJ men) (VBI kom) (. ,-,)))
+( (IP-IMP-SPE (CONJ men) (VBI kom) (. ,-,)) (ID 1823.NTMATT.REL-BIB,.492))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI legg)
@@ -7824,20 +7824,20 @@
 		      (NP-POS (PRO-A tína)))
 	      (PP (P á)
 		  (NP (PRO-A hana)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.493))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV so))
 	      (RDPI verður)
 	      (NP-SBJ (PRO-N hon))
 	      (VAG livandi)
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.494))
 
 ( (IP-MAT (CODE VS:IX_19M)
 	  (CONJ Og)
 	  (NP-SBJ (NPR-N Jesus))
 	  (VBDI stóð)
 	  (RP upp)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.495))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -7847,7 +7847,7 @@
 	  (PP (P við)
 	      (NP (NS-D Disciplum)
 		  (NP-POS (PRO-D sínum))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.496))
 
 ( (IP-MAT (CODE VS:IX_20M)
 	  (CONJ Og)
@@ -7872,7 +7872,7 @@
 	      (NP (PRO-D honum)))
 	  (PP (ADVP (ADV aftan$))
 	      (P $til))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.497))
 
 ( (IP-MAT (CONJ og)
 	  (VBDI nam)
@@ -7905,7 +7905,7 @@
 						  (RDPS verði)
 						  (NP-SBJ (PRO-N Eg))
 						  (ADJP (ADJ-N heilbrigð)))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.498))
 
 ( (IP-MAT (CODE VS:IX_22M)
 	  (CONJ Men)
@@ -7913,7 +7913,7 @@
 	  (VBDI vendi)
 	  (NP-OB1 (PRO-D sær))
 	  (RP um)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.499))
 
 ( (IP-MAT (CONJ og)
 	  (ADVP-TMP (ADV tá$)
@@ -7932,14 +7932,14 @@
 		      (. !-!)
 		      (BEI ver)
 		      (ADJP (ADJ-N frímóðig)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.500))
 
 ( (IP-MAT-SPE (NP-SBJ (N-N Trúgv)
 		      (NP-POS (PRO-N tín)))
 	      (HVPI hevur)
 	      (VBN frelst)
 	      (NP-OB1 (PRO-A teg))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.501))
 
 ( (IP-MAT (CONJ Og)
 	  (NP-SBJ (N-N Kon$) (D-N $an))
@@ -7947,7 +7947,7 @@
 	  (ADJP (ADJ-N heilbrigð))
 	  (PP (P frá)
 	      (NP (ADJ-D somu) (N-D Stund$) (D-D $ini)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.502))
 
 ( (IP-MAT (CODE VS:IX_23M)
 	  (CONJ Og)
@@ -7999,14 +7999,14 @@
 							  (CONJP (CONJ men)
 								 (IP-SUB-SPE (NP-SBJ (PRO-N hon))
 									     (VBPI svevur))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.503))
 
 ( (IP-MAT (CONJ Og)
 	  (NP-SBJ (PRO-N tey))
 	  (VBDI grinu)
 	  (NP-OB1 (PRO-A hann))
 	  (RP út)
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.504))
 
 ( (IP-MAT (CODE VS:IX_25M)
 	  (CONJ Men)
@@ -8022,7 +8022,7 @@
 	  (VBDI gekk)
 	  (NP-SBJ (PRO-N hann))
 	  (RP inn)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.505))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -8030,13 +8030,13 @@
 	  (NP-OB1 (PRO-A hana))
 	  (PP (P um)
 	      (NP (N-A Hond$) (D-A $ina)))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.506))
 
 ( (IP-MAT (ADVP-TMP (ADV tá))
 	  (VBDI stóð)
 	  (NP-SBJ (N-N Gent$) (D-N $an))
 	  (RP upp)
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.507))
 
 ( (IP-MAT (CODE VS:IX_26M)
 	  (CONJ Og)
@@ -8044,7 +8044,7 @@
 	  (VBDI spurdist)
 	  (PP (P yvir)
 	      (NP (ADJ-A heila) (N-A Land$) (D-A $ið)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.508))
 
 ( (IP-MAT (CODE VS:IX_27M)
 	  (CONJ Og)
@@ -8077,7 +8077,7 @@
 						       (NP-OB1 (PRO-A teg))
 						       (PP (P yvir)
 							   (NP (PRO-A okkum))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.509))
 
 ( (IP-MAT (CODE VS:IX_28M)
 	  (CONJ Men)
@@ -8094,7 +8094,7 @@
 	  (NP-SBJ (D-N teir) (ADJ-N Blindu))
 	  (PP (P til)
 	      (NP (PRO-G hansara)))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.510))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NPR-N Jesus))
@@ -8109,7 +8109,7 @@
 							  (MDPI kann)
 							  (DO gera)
 							  (NP-OB1 (D-A hetta))))))
-	  (. ?-?)))
+	  (. ?-?)) (ID 1823.NTMATT.REL-BIB,.511))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N Teir))
 	      (VBPI siga)
@@ -8119,7 +8119,7 @@
 	      (QTP (INTJ Ja)
 		   (, ,-,)
 		   (NP (NPR-N Harri))
-		   (. !-!))))
+		   (. !-!))) (ID 1823.NTMATT.REL-BIB,.512))
 
 ( (IP-MAT (CODE VS:IX_29M)
 	  (ADVP-TMP (ADV Tá))
@@ -8129,7 +8129,7 @@
 	      (NP (NS-A Eyg$)
 		  (D-A $un)
 		  (NP-POS (PRO-G teirra))))
-	  (, ,-,)))
+	  (, ,-,)) (ID 1823.NTMATT.REL-BIB,.513))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -8145,7 +8145,7 @@
 						(NP-SBJ (PRO-N Tit))
 						(VBPI trúgva)
 						(RP til))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.514))
 
 ( (IP-MAT (CODE VS:IX_30M)
 	  (CONJ Og)
@@ -8154,14 +8154,14 @@
 		  (D-N $un))
 	  (LBDI blivu)
 	  (VAN opnað)
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.515))
 
 ( (IP-MAT (CONJ Og)
 	  (NP-SBJ (NPR-N Jesus))
 	  (VBDI beyð)
 	  (NP-OB2 (PRO-D teimum))
 	  (NP-OB1 (ADJ-A strangt))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.516))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -8176,7 +8176,7 @@
 						  (IP-INF-SPE (TO at)
 							      (VB frætta)
 							      (NP-OB1 (PRO-A tað)))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.517))
 
 ( (IP-MAT (CODE VS:IX_31M)
 	  (CONJ Men)
@@ -8194,7 +8194,7 @@
 		  (NP-POS (PRO-G hansara)))
 	  (PP (P um)
 	      (NP (ADJ-A heila) (N-A Land$) (D-A $ið)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.518))
 
 ( (IP-MAT (CODE VS:IX_32M)
 	  (CONJ Men)
@@ -8224,7 +8224,7 @@
 		    (IP-SUB (NP-SBJ *T*-3)
 			    (BEDI var)
 			    (VAN besett)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.519))
 
 ( (IP-MAT (CODE VS:IX_33M)
 	  (CONJ Og)
@@ -8239,13 +8239,13 @@
 	  (, ,-,)
 	  (VBDI snakkaði)
 	  (NP-SBJ (D-N tann) (ADJ-N Dummi))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.520))
 
 ( (IP-MAT (CONJ Og)
 	  (NP-SBJ (N-N Fólk$) (D-N $ið))
 	  (VBDI undraði)
 	  (NP-OB1 (PRO-A seg))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.521))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -8257,7 +8257,7 @@
 		      (VAN sætt)
 		      (PP (P í)
 			  (NP (NPR-D Israel))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.522))
 
 ( (IP-MAT (CODE VS:IX_34M)
 	  (CONJ Men)
@@ -8272,7 +8272,7 @@
 			  (NP (N-D Övarsta)
 			      (NP-POS (NS-G Devl$) (D-G $unums))))
 		      (CODE *TTT*))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.523))
 
 ( (IP-MAT (CODE VS:IX_35M)
 	  (CONJ Og)
@@ -8284,7 +8284,7 @@
 		  (NS-D Staðum)
 		  (CONJP (CONJ og)
 			 (NX (NS-D Bílingum)))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.524))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -8292,7 +8292,7 @@
 	  (PP (P í)
 	      (NP (NS-D Synagógum)
 		  (NP-POS (PRO-G teirra))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.525))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -8300,7 +8300,7 @@
 	  (NP-OB1 (N-A Evangelium))
 	  (PP (P um)
 	      (NP (N-A Rík$) (D-A $ið)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.526))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -8310,7 +8310,7 @@
 			 (NP (Q-A alla) (N-A Skroypiligheit))))
 	  (PP (P millum)
 	      (NP (N-A Fólk$) (D-A $ið)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.527))
 
 ( (IP-MAT (CODE VS:IX_36M)
 	  (CONJ Men)
@@ -8345,7 +8345,7 @@
 								      (IP-SUB (NP-OB1 *T*-3)
 									      (NP-SBJ (Q-N Ongin))
 									      (VBPI huglar))))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.528))
 
 ( (IP-MAT (CODE VS:IX_37M)
 	  (ADVP-TMP (ADV Tá))
@@ -8358,13 +8358,13 @@
 	  (IP-MAT-SPE (NP-SBJ (N-N Hestvinning$) (D-N $in))
 		      (BEPI er)
 		      (ADJP (ADV væl) (ADJ-N stór)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.529))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-PRD (Q-N fátt))
 	      (BEPI er)
 	      (NP-SBJ (N-N Bönafólk$) (D-N $ið))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.530))
 
 ( (IP-IMP-SPE (CODE VS:IX_38M)
 	      (VBI Biðið)
@@ -8381,12 +8381,12 @@
 				      (PP (P í)
 					  (NP (N-A Vinning)
 					      (NP-POS (PRO-A Sín))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.531))
 
 ( (META (CODE <heading>)
 	(NP (D-N Tað) (ADJ-N 10da) (N-N Capitule))
 	(. .-.)
-	(CODE </heading>)))
+	(CODE </heading>)) (ID 1823.NTMATT.REL-BIB,.532))
 
 ( (IP-MAT (CODE VS:X_1M)
 	  (CONJ Og)
@@ -8397,7 +8397,7 @@
 		  (NS-A Disciplar))
 	  (PP (P til)
 	      (NP (NP-POS (PRO-G síns))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.533))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -8419,7 +8419,7 @@
 				       (NP-OB1 (NP (Q-A alla) (N-A Sjúku))
 					       (CONJP (CONJ og)
 						      (NP (Q-A alla) (N-A Skroypiligheit)))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.534))
 
 ( (IP-MAT (CODE VS:X_2M)
 	  (CONJ Men)
@@ -8429,7 +8429,7 @@
 		  (D-N $ini)
 		  (PP (P á)
 		      (NP (D-D teim) (NUM-D tólv) (NS-D Ápostl$) (D-D $unum))))
-	  (. :-:)))
+	  (. :-:)) (ID 1823.NTMATT.REL-BIB,.535))
 
 ( (FRAG (NP (D-N tann) (ADJS-N fyrsti))
 	(NP (NPR-N Símun)
@@ -8439,7 +8439,7 @@
 		    (IP-SUB (NP-SBJ *T*-1)
 			    (VBPI kallast)
 			    (NP-PRD (NPR-N Petrus)))))
-	(. ,-,)))
+	(. ,-,)) (ID 1823.NTMATT.REL-BIB,.536))
 
 ( (QTP (CONJ og)
        (NP (NP (NPR-N Andrias)
@@ -8487,19 +8487,19 @@
 						 (ALSO eisini)
 						 (VBDI forráddi)
 						 (NP-OB1 (PRO-A hann)))))))))
-       (. .-.)))
+       (. .-.)) (ID 1823.NTMATT.REL-BIB,.537))
 
 ( (IP-MAT (CODE VS:X_5M)
 	  (NP-OB1 (D-A Hesar) (NUM-A tólv))
 	  (VBDI sendi)
 	  (NP-SBJ (NPR-N Jesus))
 	  (RP út)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.538))
 
 ( (IP-MAT (NP-SBJ *con*)
 	  (VBDI beyð)
 	  (NP-OB2 (PRO-D teimum))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.539))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -8511,7 +8511,7 @@
 			  (P á)
 			  (NP (NP-POS (NS-G Heidninga))
 			      (N-A Veg))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.540))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI gangið)
@@ -8520,7 +8520,7 @@
 		  (P í)
 		  (NP (NP-POS (NS-G Sámaritanars))
 		      (N-A Stað)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.541))
 
 ( (IP-IMP-SPE (CODE VS:X_6M)
 	      (CONJ Men)
@@ -8534,7 +8534,7 @@
 		      (PP (P úr)
 			  (NP (N-D Húsi)
 			      (NP-POS (NPR-G Ísraels))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.542))
 
 ( (IP-IMP-SPE (CODE VS:X_7M)
 	      (CONJ Og)
@@ -8546,7 +8546,7 @@
 						    (VBPI fara))))
 	      (, ,-,)
 	      (ADVP-TMP-RSP (ADV so))
-	      (VBI prædikið)))
+	      (VBI prædikið)) (ID 1823.NTMATT.REL-BIB,.543))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI sigið)
@@ -8557,28 +8557,28 @@
 				      (BEPI er)
 				      (VBN komið)
 				      (ADJP-LOC (ADJ-N nær))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.544))
 
 ( (IP-IMP-SPE (CODE VS:X_8M)
 	      (DOI Gerið)
 	      (IP-SMC-SPE (NP-SBJ (D-A tey) (ADJ-A Sjúku))
 			  (ADJP (ADJ-A heilbrigð)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.545))
 
 ( (IP-IMP-SPE (VBI reinsið)
 	      (NP-OB1 (D-A tey) (ADJ-A Spitalsku))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.546))
 
 ( (IP-IMP-SPE (VBI vekið)
 	      (NP-OB1 (D-A tey) (ADJ-A Deyðu))
 	      (RP upp)
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.547))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI drívið)
 	      (NP-OB1 (NS-A Devlar))
 	      (RP út)
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.548))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N Tit))
 	      (HVPI hava)
@@ -8586,13 +8586,13 @@
 	      (NP-OB1 (PRO-A tað))
 	      (PP (P fyrir)
 		  (NP (Q-A Einki)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.549))
 
 ( (IP-IMP-SPE (VBI gevið)
 	      (NP-OB1 (PRO-A tað))
 	      (PP (P fyrir)
 		  (NP (Q-A Einki)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.550))
 
 ( (IP-MAT-SPE (CODE VS:X_9M)
 	      (IP-MAT-SPE-1 (CODE *XXX*)
@@ -8642,7 +8642,7 @@
 								       (ADJP (NP (N-A Föði)
 										 (NP-POS (PRO-A sína)))
 									     (ADJ-N verdur))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.551))
 
 ( (IP-IMP-SPE (CODE VS:X_11M)
 	      (CONJ Men)
@@ -8674,7 +8674,7 @@
 								    (BEPI er)
 								    (ADJP (NP (PRO-A tað))
 									  (ADJ-N verdigur)))))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.552))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (BEI verið)
@@ -8686,7 +8686,7 @@
 					  (VBPI fara)
 					  (RP frá)
 					  (ADVP-TMP (ADV aftur)))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.553))
 
 ( (IP-IMP-SPE (CODE VS:X_12M)
 	      (CONJ Men)
@@ -8703,7 +8703,7 @@
 	      (ADVP-TMP-RSP (ADV tá))
 	      (VBI heilsið)
 	      (NP-OB1 (PRO-D tí))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.554))
 
 ( (IP-MAT-SPE (CODE VS:X_13M)
 	      (CONJ og)
@@ -8720,7 +8720,7 @@
 		      (NP-POS (PRO-G Tykkara)))
 	      (PP (P yvir)
 		  (NP (PRO-A tað)))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.555))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (CP-QUE-SPE-LFD (WQ hvis$)
@@ -8739,7 +8739,7 @@
 	      (ADVP-DIR (ADV aftur))
 	      (PP (P til)
 		  (NP (PRO-A Tykkum)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.556))
 
 ( (IP-IMP-SPE (CODE VS:X_14M)
 	      (CONJ Og)
@@ -8768,7 +8768,7 @@
 		      (N-D Húsi)
 		      (CONJP (CONJ ellar)
 			     (NX (D-D tí) (N-D Staði)))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.557))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI ristið)
@@ -8776,7 +8776,7 @@
 	      (PP (P undan)
 		  (NP (NS-D Fótum)
 		      (NP-POS (PRO-G Tykkara))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.558))
 
 ( (IP-MAT-SPE (CODE VS:X_15M)
 	      (ADVP (ADV Sanniliga))
@@ -8799,7 +8799,7 @@
 					    (C 0)
 					    (IP-SUB-SPE (ADVP *T*-2)
 							(NP-SBJ (D-D hesum) (N-D Staði))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.559))
 
 ( (IP-MAT-SPE (CODE VS:X_16M)
 	      (IP-IMP-SPE-PRN (VBI Sí))
@@ -8813,7 +8813,7 @@
 				      (NP-OB1 (N-A Fár))
 				      (PP (P millum)
 					  (NP (NS-A Úlvar)))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.560))
 
 ( (IP-IMP-SPE (IP-IMP-SPE-1 (BEI verið)
 			    (PP (P 0)
@@ -8830,7 +8830,7 @@
 					       (C sum)
 					       (IP-SUB-SPE (ADJP *T*-3)
 							   (NP-SBJ (NS-N Dúgvur))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.561))
 
 ( (IP-IMP-SPE (CODE VS:X_17M)
 	      (CONJ Men)
@@ -8856,7 +8856,7 @@
 								       (PP (P í)
 									   (NP (NP-POS (PRO-G teirra))
 									       (NS-D Synagógum)))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.562))
 
 ( (IP-MAT-SPE (CODE VS:X_18M)
 	      (CONJ Men)
@@ -8878,7 +8878,7 @@
 		  (NP (ONE-A eitt)
 		      (N-A Vitnisburð)
 		      (NP-COM *ICH*-1)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.563))
 
 ( (IP-IMP-SPE (CODE VS:X_19M)
 	      (CONJ Men)
@@ -8949,7 +8949,7 @@
 																 (VBPI talar)
 																 (PP (P í)
 																     (NP (PRO-D Tykkum)))))))))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.564))
 
 ( (IP-MAT-SPE (CODE VS:X_21M)
 	      (CONJ Men)
@@ -8964,7 +8964,7 @@
 		     (IP-MAT-SPE=1 (NP-SBJ (ONE-N ein) (N-N Faðir))
 				   (NP-OB1 (N-A Barn)
 					   (NP-POS (PRO-A sítt)))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.565))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (NS-N Börn))
@@ -8979,7 +8979,7 @@
 	      (IP-INF-PRP-SPE (TO at)
 			      (VB avlíva)
 			      (NP-OB1 (PRO-A tey)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.566))
 
 ( (IP-MAT-SPE (CODE VS:X_22M)
 	      (CONJ Og)
@@ -8992,7 +8992,7 @@
 		  (NP (NP-POS (NP-POS (PRO-A mítt))
 			      (N-G Navns))
 		      (N-A Skyld)))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.567))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-LFD (D-N tann)
@@ -9009,7 +9009,7 @@
 	      (MDPI skal)
 	      (LB blíva)
 	      (ADJP (ADJ-N sáligur))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.568))
 
 ( (IP-IMP-SPE (CODE VS:X_23M)
 	      (CONJ Men)
@@ -9054,7 +9054,7 @@
 												    (NP-SBJ (NP-POS (N-G Menniskj$) (D-G $ans))
 													    (N-N Sonur))
 												    (VBPI kemur))))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.569))
 
 ( (IP-MAT-SPE (CODE VS:X_24M)
 	      (IP-MAT-SPE-1 (NP-SBJ (N-N Discipul$) (D-N $in))
@@ -9069,7 +9069,7 @@
 				   (PP (P yvir)
 				       (NP (N-D Herra)
 					   (NP-POS (PRO-D sínum))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.570))
 
 ( (IP-MAT (CODE VS:X_25M)
 	  (NP-SBJ (PRO-N Tað)
@@ -9096,7 +9096,7 @@
 									 (IP-SUB-SPE (ADVP *T*-4)
 										     (NP-SBJ (N-N Harri)
 											     (NP-POS (PRO-G hansara)))))))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.571))
 
 ( (QTP (CP-ADV-SPE (IP-SUB-SPE (HVPI hava)
 			       (NP-SBJ (PRO-N teir))
@@ -9109,7 +9109,7 @@
        (IP-SMC-SPE (NP-SBJ *T*-1)
 		   (NP-PRD (N-A Húsfólk)
 			   (NP-POS (PRO-G hansara))))
-       (. ?-?)))
+       (. ?-?)) (ID 1823.NTMATT.REL-BIB,.572))
 
 ( (IP-IMP-SPE (CODE VS:X_26M)
 	      (VBI Ræðist)
@@ -9145,7 +9145,7 @@
 											       (MDPI skal)
 											       (VB fáast)
 											       (IP-INF-SPE (TO at) (VB vitast))))
-								     (. .-.)))))))))
+								     (. .-.)))))))) (ID 1823.NTMATT.REL-BIB,.573))
 
 ( (IP-MAT-SPE (CODE VS:X_27M)
 	      (NP-LFD (CP-FRL-SPE (WNP-1 (WPRO-A Hvat$))
@@ -9161,7 +9161,7 @@
 	      (VBPI tali)
 	      (PP (P í)
 		  (NP (NS-D Ljósum)))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.574))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (NP-LFD (CP-FRL-SPE (WNP-1 (WPRO-N hvat$))
@@ -9177,7 +9177,7 @@
 	      (NP-OB1-RSP (PRO-A tað))
 	      (PP (P á)
 		  (NP (NS-D Tekj$) (D-D $unum)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.575))
 
 ( (IP-IMP-SPE (CODE VS:X_28M)
 	      (CONJ Og)
@@ -9202,7 +9202,7 @@
 								 (NP-OB1 (N-A Sjel$) (D-A $ina))
 								 (PP (P í$)
 								     (NP (N-A $hel)))))))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.576))
 
 ( (IP-IMP-SPE (CONJ men)
 	      (VBI ræðist)
@@ -9218,7 +9218,7 @@
 					      (NP-OB1 (CONJ bæði) (N-A Sjel) (CONJ og) (N-A Legumi))
 					      (PP (P í)
 						  (NP (NPR-D Helviti)))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.577))
 
 ( (CP-QUE-SPE (CODE VS:X_29M)
 	      (IP-SUB-SPE (RDPI Verða)
@@ -9227,7 +9227,7 @@
 			  (VAN seldir)
 			  (PP (P fyrir)
 			      (NP (ONE-A ein) (N-A Kvart))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.578))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NEG ikki)
@@ -9241,7 +9241,7 @@
 		  (NP (NP-POS (NP-POS (PRO-G Tykkara))
 			      (N-G Faðirs))
 		      (N-G Vilja)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.579))
 
 ( (IP-MAT-SPE (CODE VS:X_30M)
 	      (INTJ Ja)
@@ -9254,14 +9254,14 @@
 			      (NP-POS (PRO-G Tykkara)))))
 	      (BEPI eru)
 	      (VAN tald)
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.580))
 
 ( (IP-IMP-SPE (CODE VS:X_31M)
 	      (VBI Óttist)
 	      (PP (P 0)
 		  (NP (PRO-D tí)))
 	      (NEG ikki)
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.581))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N Tit))
 	      (BEPI eru)
@@ -9302,7 +9302,7 @@
 										  (BEPI er)
 										  (PP (P í)
 										      (NP (NPRS-D Himlu$) (D-D $num))))))))))
-		  (. .-.))))
+		  (. .-.))) (ID 1823.NTMATT.REL-BIB,.582))
 
 ( (IP-MAT-SPE (CODE VS:X_33M)
 	      (CONJ Men)
@@ -9330,7 +9330,7 @@
 					      (BEPI er)
 					      (PP (P í)
 						  (NP (NS-D Himl$) (D-D $unum)))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.583))
 
 ( (IP-MAT-SPE (CODE VS:X_34M)
 	      (NP-SBJ (PRO-N Tit))
@@ -9349,7 +9349,7 @@
 						      (NP-OB1 (N-A Frið))
 						      (PP (P til)
 							  (NP (NS-A Verð$) (D-A $ina))))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.584))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N Eg))
 	      (BEPI eri)
@@ -9388,7 +9388,7 @@
 										       (PP (P 0)
 											   (NP (N-D móti)
 											       (NP-COM (N-D Vermóðir$) (D-D $ni)))))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.585))
 
 ( (IP-MAT-SPE (CODE VS:X_36M)
 	      (CONJ Og)
@@ -9398,7 +9398,7 @@
 	      (BE vera)
 	      (NP-PRD (NP-POS (PRO-G hansara))
 		      (NS-N Fíggindar))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.586))
 
 ( (IP-MAT-SPE (CODE VS:X_37M)
 	      (NP-SBJ (CP-FRL-SPE (WNP-1 (WPRO-N Hvör))
@@ -9418,7 +9418,7 @@
 	      (NEG ikki)
 	      (ADJP (ADJ-N verdur)
 		    (NP *ICH*-3))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.587))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (CP-FRL-SPE (WNP-1 (WPRO-N hvör))
@@ -9438,7 +9438,7 @@
 	      (NEG ikki)
 	      (ADJP (ADJ-N verdur)
 		    (NP *ICH*-3))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.588))
 
 ( (IP-MAT-SPE (CODE VS:X_38M)
 	      (CONJ og)
@@ -9461,7 +9461,7 @@
 	      (NEG ikki)
 	      (ADJP (ADJ-N verdur)
 		    (NP *ICH*-2))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.589))
 
 ( (IP-MAT-SPE (CODE VS:X_39M)
 	      (NP-SBJ (Q-N Hvör)
@@ -9476,7 +9476,7 @@
 	      (MDPI skal)
 	      (VB missa)
 	      (NP-OB1 (PRO-A tað))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.590))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (Q-N hvör)
@@ -9494,7 +9494,7 @@
 	      (MDPI skal)
 	      (VB finna)
 	      (NP-OB1 (PRO-A tað))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.591))
 
 ( (IP-MAT-SPE (CODE VS:X_40M)
 	      (NP-SBJ (CP-FRL-SPE (WNP-1 (WPRO-N Hvör))
@@ -9506,7 +9506,7 @@
 	      (, ,-,)
 	      (VBPI fagnar)
 	      (NP-OB1 (PRO-A meg))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.592))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (CP-FRL-SPE (WNP-1 (WPRO-N hvör))
@@ -9526,7 +9526,7 @@
 					      (VBN sent)
 					      (NP-OB1 (PRO-A meg))
 					      (RP út))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.593))
 
 ( (IP-MAT-SPE (CODE VS:X_41M)
 	      (NP-SBJ (CP-FRL-SPE (WNP-1 (WPRO-N Hvör$))
@@ -9547,7 +9547,7 @@
 	      (NP-OB1 (ONE-A eina)
 		      (NP-POS (N-G Profeta))
 		      (N-A Lön))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.594))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (CP-FRL-SPE (WNP-1 (WPRO-N hvör))
@@ -9568,7 +9568,7 @@
 	      (VB fáa)
 	      (NP-OB1 (NP-POS (ONE-N ein) (ADJ-G Rættferdigans))
 		      (N-A Lön))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.595))
 
 ( (IP-MAT (CODE VS:X_42M)
 	  (CONJ Og)
@@ -9608,18 +9608,18 @@
 		      (VB missa)
 		      (NP-OB1 (N-A Lön)
 			      (NP-POS (PRO-A sína))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.596))
 
 ( (META (CODE <heading>)
 	(NP (D-N Tað) (ADJ-N 11ta) (N-N Capitule))
 	(. .-.)
-	(CODE </heading>)))
+	(CODE </heading>)) (ID 1823.NTMATT.REL-BIB,.597))
 
 ( (IP-MAT (CODE VS:XI_1M)
 	  (CONJ Og)
 	  (NP-SBJ (PRO-N tað))
 	  (VBDI skeddi)
-	  (, ,-,)))
+	  (, ,-,)) (ID 1823.NTMATT.REL-BIB,.598))
 
 ( (IP-MAT (ADVP-TMP (ADV tá)
 		    (CP-REL (WADVP-1 0)
@@ -9647,7 +9647,7 @@
 				     (PP (P í)
 					 (NP (NS-D Bílingum)
 					     (NP-POS (PRO-G teirra)))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.599))
 
 ( (IP-MAT (CODE VS:XI_2M)
 	  (CONJ Men)
@@ -9671,7 +9671,7 @@
 			  (NP-POS (PRO-D sínum)))))
 	  (PP (P til)
 	      (NP (PRO-G hansara)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.600))
 
 ( (IP-MAT (CONJ og)
 	  (VBDI lat)
@@ -9690,19 +9690,19 @@
 							      (IP-SUB-SPE (NP-SBJ *T*-1)
 									  (VB koma)
 									  (MDDS skyldi)))))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.601))
 
 ( (CP-QUE-SPE (CONJ ellar)
 	      (IP-SUB-SPE (MDDI skulldu)
 			  (NP-SBJ (PRO-N vit))
 			  (VB vænta)
 			  (NP-OB1 (ONE-A ein) (OTHER-A Annan)))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.602))
 
 ( (IP-MAT (CODE VS:XI_4M)
 	  (CONJ Og)
 	  (NP-SBJ (NPR-N Jesus))
-	  (VBDI svaraði)))
+	  (VBDI svaraði)) (ID 1823.NTMATT.REL-BIB,.603))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -9711,7 +9711,7 @@
 	      (NP (PRO-A teir)))
 	  (, :-:)
 	  (IP-IMP-SPE (VBI farið))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.604))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI greinið)
@@ -9725,36 +9725,36 @@
 				  (IP-SUB-SPE (NP-OB1 *T*-1)
 					      (NP-SBJ (PRO-N Tit))
 					      (VBPI (VBPI hoyra) (CONJ og) (VBPI síggja))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.605))
 
 ( (IP-MAT-SPE (CODE VS:XI_5M)
 	      (NP-SBJ (ADJ-N Blind))
-	      (VBPI síggja)))
+	      (VBPI síggja)) (ID 1823.NTMATT.REL-BIB,.606))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (ADJ-N hölt))
 	      (VBPI ganga)
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.607))
 
 ( (IP-MAT-SPE (NP-SBJ (ADJ-N Spitalsk))
-	      (VBPI reinskas)))
+	      (VBPI reinskas)) (ID 1823.NTMATT.REL-BIB,.608))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (ADJ-N Deyv))
 	      (VBPI hoyra)
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.609))
 
 ( (IP-MAT-SPE (NP-SBJ (NS-N Deyð))
 	      (VBPI standa)
 	      (RP upp)
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.610))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (NPR-N Evangelium))
 	      (VBPI prædikast)
 	      (PP (P fyri)
 		  (NP (ADJ-D Fátækum)))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.611))
 
 ( (IP-MAT-SPE (CODE VS:XI_6M)
 	      (CONJ og)
@@ -9767,7 +9767,7 @@
 					      (NEG ikki)
 					      (VBPI forargast)
 					      (PP (P á)
-						  (NP (PRO-A meg))))))))
+						  (NP (PRO-A meg))))))) (ID 1823.NTMATT.REL-BIB,.612))
 
 ( (IP-MAT (CODE VS:XI_7M)
 	  (CONJ Men)
@@ -9787,7 +9787,7 @@
 		      (NP (NPR-A Jóhannis)))
 		  (PP (P við)
 		      (NP (N-A Fólk$) (D-A $ið))))
-	  (. :-:)))
+	  (. :-:)) (ID 1823.NTMATT.REL-BIB,.613))
 
 ( (CP-QUE-SPE (WNP-1 (WPRO-A hvat)
 		     (NP-PRN *ICH*-2))
@@ -9811,7 +9811,7 @@
 									    (ADVP-LOC (ADV her) (CONJ og) (ADV har))
 									    (PP (P av)
 										(NP (N-D Beyri))))))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.614))
 
 ( (CP-QUE-SPE (CODE VS:XI_8M)
 	      (CONJ Ellar)
@@ -9831,7 +9831,7 @@
 							 (VAN-A $latið)
 							 (PP (P í)
 							     (NP (Q-A miklar) (NS-A klæðir)))))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.615))
 
 ( (IP-MAT-SPE (IP-IMP-SPE-PRN (VBI Sí))
 	      (, ,-,)
@@ -9846,7 +9846,7 @@
 	      (BEPI eru)
 	      (PP (P í)
 		  (NP (NP-POS (NS-G Konga))
-		      (NS-D Húsum)))))
+		      (NS-D Húsum)))) (ID 1823.NTMATT.REL-BIB,.616))
 
 ( (CP-QUE-SPE (CODE VS:XI_9M)
 	      (CONJ Ellar)
@@ -9861,7 +9861,7 @@
 					  (VB síggja)
 					  (. ?-?)
 					  (NP-PRN-2 (ONE-A eina) (N-A Profeta))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.617))
 
 ( (IP-MAT-SPE (INTJ Ja)
 	      (, ,-,)
@@ -9894,7 +9894,7 @@
 										  (VAN skrivað)
 										  (PP (P um)
 										      (NP *T*-2)))))))))
-	      (. :-:)))
+	      (. :-:)) (ID 1823.NTMATT.REL-BIB,.618))
 
 ( (IP-MAT-SPE (IP-IMP-SPE-PRN (VBI sí))
 	      (, .-.)
@@ -9915,7 +9915,7 @@
 					(NP-OB1 (N-A Veg$) (D-A $in))
 					(PP (P fyri)
 					    (NP (PRO-D tær)))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.619))
 
 ( (IP-MAT-SPE (CODE VS:XI_11M)
 	      (ADVP (ADV Sanniliga))
@@ -9948,7 +9948,7 @@
 							(NP-SBJ (N-N Doypar$)
 								(D-N $in)
 								(NP-PRN (NPR-N Jóhannes)))))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.620))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-SBJ (D-N tann)
@@ -9963,7 +9963,7 @@
 				    (C 0)
 				    (IP-SUB-SPE (ADJP *T*-1)
 						(NP-SBJ (PRO-N hann))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.621))
 
 ( (IP-MAT-SPE (CODE VS:XI_12M)
 	      (CONJ Men)
@@ -9980,7 +9980,7 @@
 	      (PP (RP inn)
 		  (P í)
 		  (NP (NP-POS (NPR-G Himmiríkis))
-		      (NPR-D Ríki)))))
+		      (NPR-D Ríki)))) (ID 1823.NTMATT.REL-BIB,.622))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (PRO-N tey)
@@ -10009,7 +10009,7 @@
 						  (PP (RP inn)
 						      (P til)
 						      (NP (NPR-A Jóhannes)))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.623))
 
 ( (IP-MAT-SPE (CODE VS:XI_14M)
 	      (CONJ Og)
@@ -10028,7 +10028,7 @@
 				  (IP-SUB-SPE (NP-SBJ *T*-1)
 					      (VB koma)
 					      (MDPI skal))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.624))
 
 ( (IP-MAT (CODE VS:XI_15M)
 	  (NP-LFD (CP-FRL-SPE (WNP-1 (WPRO-N Hvör))
@@ -10045,7 +10045,7 @@
 	  (, ,-,)
 	  (NP-SBJ-RSP (PRO-N hann))
 	  (VBPS hoyri)
-	  (. !-!)))
+	  (. !-!)) (ID 1823.NTMATT.REL-BIB,.625))
 
 ( (CP-QUE-SPE (CODE VS:XI_16M)
 	      (CONJ Men)
@@ -10058,7 +10058,7 @@
 				  (D-A hetta))
 			  (PP (P við)
 			      (NP *T*-1)))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.626))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N Tað))
 	      (BEPI er)
@@ -10088,28 +10088,28 @@
 									       (VBDI floytaðu)
 									       (PP (P fyri)
 										   (NP (PRO-A Tykkum))))))))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.627))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (PRO-N Tit))
 	      (MDDI vildu)
 	      (NEG ikki)
 	      (VB dansa)
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.628))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N vit))
 	      (VBDI sungu)
 	      (ADVP (ADV syrgiliga))
 	      (PP (P fyri)
 		  (NP (PRO-D Tykkum)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.629))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (PRO-N Tit))
 	      (MDDI vildu)
 	      (NEG ikki)
 	      (VB gráta)
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.630))
 
 ( (QTP (CODE VS:XI_18M)
        (PP (P 0)
@@ -10123,7 +10123,7 @@
 							 (C sum)
 							 (IP-SUB-SPE (NP-SBJ *T*-2)
 								     (VBDI (CONJ hvörki) (VBDI át) (CONJ ella) (VBDI drakk))))))))
-       (. ,-,)))
+       (. ,-,)) (ID 1823.NTMATT.REL-BIB,.631))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (PRO-N tey))
@@ -10132,7 +10132,7 @@
 	      (IP-MAT-SPE (NP-SBJ (PRO-N hann))
 			  (HVPI hevur)
 			  (NP-OB1 (NPR-A Devel$) (D-A $in)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.632))
 
 ( (IP-MAT-SPE (CODE VS:XI_19M)
 	      (NP-SBJ (NP-POS (N-G Menniskj$) (D-G $ans))
@@ -10145,7 +10145,7 @@
 			    (C sum)
 			    (IP-SUB-SPE (NP-SBJ *T*-2)
 					(VBPI (VBPI etur) (CONJ og) (VBPI drekkur))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.633))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (PRO-N tey))
@@ -10169,7 +10169,7 @@
 			  (PP-BY (P av)
 				 (NP (NS-D Börnum)
 				     (NP-POS (PRO-D sínum)))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.634))
 
 ( (IP-MAT (CODE VS:XI_20M)
 	  (ADVP-TMP (ADV Tá))
@@ -10204,7 +10204,7 @@
 				      (RP um$)
 				      (VBN $vent)
 				      (NP-OB1 (PRO-A seg))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.635))
 
 ( (IP-MAT-SPE (CODE VS:XI_21M)
 	      (INTJ Vei)
@@ -10212,7 +10212,7 @@
 	      (NP-SBJ (PRO-D tær))
 	      (, ,-,)
 	      (NP-VOC (NPR-N Chorazin))
-	      (. !-!)))
+	      (. !-!)) (ID 1823.NTMATT.REL-BIB,.636))
 
 ( (IP-MAT-SPE (INTJ vei)
 	      (BEPS veri)
@@ -10250,7 +10250,7 @@
 						  (NP-OB1 (PRO-A seg))
 						  (PP (P í)
 						      (NP (N-D Bjálva) (CONJ og) (N-D ösku)))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.637))
 
 ( (IP-MAT-SPE (CODE VS:XI_22M)
 	      (CONJ Men)
@@ -10271,7 +10271,7 @@
 					  (C 0)
 					  (IP-SUB-SPE (ADVP *T*-1)
 						      (NP-SBJ (PRO-D Tykkum))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.638))
 
 ( (IP-MAT-SPE (CODE VS:XI_23M)
 	      (CONJ Og)
@@ -10324,7 +10324,7 @@
 						  (RP til)
 						  (PP (P á)
 						      (NP (D-D hesum) (N-D Degi)))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.639))
 
 ( (IP-MAT-SPE (CODE VS:XI_24M)
 	      (CONJ Men)
@@ -10346,7 +10346,7 @@
 					    (C 0)
 					    (IP-SUB-SPE (ADVP *T*-2)
 							(NP-SBJ (PRO-D tær))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.640))
 
 ( (IP-MAT (CODE VS:XI_25M)
 	  (PP (P Um)
@@ -10354,7 +10354,7 @@
 	  (VBDI breyt)
 	  (NP-SBJ (NPR-N Jesus))
 	  (RP út)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.641))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -10378,7 +10378,7 @@
 					      (NP-OB1 (D-A hetta))
 					      (PP (P fyri)
 						  (NP (D-D teim) (ADJ-D Ómyndigu))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.642))
 
 ( (QTP (CODE VS:XI_26M)
        (INTJ Ja)
@@ -10393,7 +10393,7 @@
 					   (NP-SBJ (PRO-D tær))
 					   (PP (P um)
 					       (NP (PRO-A tað)))))))
-       (. .-.)))
+       (. .-.)) (ID 1823.NTMATT.REL-BIB,.643))
 
 ( (IP-MAT-SPE (CODE VS:XI_27M)
 	      (NP-OB1 (Q-N Allir) (NS-N Lutir))
@@ -10403,7 +10403,7 @@
 	      (PP-BY (P av)
 		     (NP (NPR-D Faðiri)
 			 (NP-POS (PRO-D mínum))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.644))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (Q-N Ongin)
@@ -10413,7 +10413,7 @@
 	      (, ,-,)
 	      (PP-1 (P uttan)
 		    (NP (NPR-N Faðir$) (D-N $in)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.645))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (Q-N Ongin)
@@ -10434,7 +10434,7 @@
 							   (MDPI vil)
 							   (VB opinbera)
 							   (NP-OB1 (PRO-A tað))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.646))
 
 ( (IP-IMP-SPE (CODE VS:XI_28M)
 	      (VBI Komið)
@@ -10455,14 +10455,14 @@
 								 (BEPI eru)
 								 (CODE *XXX*)
 								 (ADJP (ADJ-N admödd)))))))
-	      (. !-!)))
+	      (. !-!)) (ID 1823.NTMATT.REL-BIB,.647))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (PRO-N Eg))
 	      (MDPI vil)
 	      (VB unna)
 	      (NP-OB2 (PRO-D Tykkum))
-	      (NP-OB1 (N-A Hvílu))))
+	      (NP-OB1 (N-A Hvílu))) (ID 1823.NTMATT.REL-BIB,.648))
 
 ( (IP-IMP-SPE (CODE VS:XI_29M)
 	      (VBI Gevið)
@@ -10470,7 +10470,7 @@
 	      (PP (P undir)
 		  (NP (N-A Ok)
 		      (NP-POS (PRO-A mítt))))
-	      (, ,-,)))
+	      (, ,-,)) (ID 1823.NTMATT.REL-BIB,.649))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI lærið)
@@ -10485,7 +10485,7 @@
 						  (ADJP (ADJ-N spakförur) (CONJ og) (ADJ-N lítilábin))
 						  (PP (P í)
 						      (NP (N-D Hjarta$) (D-D $num)))))))
-	      (. :-:)))
+	      (. :-:)) (ID 1823.NTMATT.REL-BIB,.650))
 
 ( (IP-MAT-SPE (ADVP (ADV so))
 	      (MDPI skulu)
@@ -10510,12 +10510,12 @@
 									     (NP-POS (PRO-N mín)))
 								     (BEPI er)
 								     (ADJP (ADJ-N löt))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.651))
 
 ( (META (CODE <heading>)
 	(NP (D-N Tað) (ADJ-N 12ta) (N-N Capitule))
 	(. .-.)
-	(CODE </heading>)))
+	(CODE </heading>)) (ID 1823.NTMATT.REL-BIB,.652))
 
 ( (IP-MAT (CODE VS:XII_1M)
 	  (PP (P Um)
@@ -10527,14 +10527,14 @@
 	      (NP (N-A Akur$) (D-A $in)))
 	  (PP (P um)
 	      (NP (NPR-A Sabbat$) (D-A $in)))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.653))
 
 ( (IP-MAT (CONJ men)
 	  (NP-SBJ (NPR-N Disciplar)
 		  (NP-POS (PRO-G hansara)))
 	  (BEDI vóru)
 	  (ADJP (ADJ-N svangir))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.654))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -10546,7 +10546,7 @@
 		  (, ,-,)
 		  (CONJP (CONJ og)
 			 (IP-INF (TO at) (VB eta))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.655))
 
 ( (IP-MAT (CODE VS:XII_2M)
 	  (CONJ Men)
@@ -10580,7 +10580,7 @@
 									      (DO gera)
 									      (PP (P um)
 										  (NP (NPR-A Sabbat$) (D-A $in)))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.656))
 
 ( (IP-MAT (CODE VS:XII_3M)
 	  (CONJ Men)
@@ -10648,7 +10648,7 @@
 																		     (ADVP (ADVR heldur))
 																		     (NP-SBJ (NS-D Prestu$) (D-D $num))
 																		     (ADJP-SPR (ADJ-D einsömallum)))))))))))))))
-	  (. ?-?)))
+	  (. ?-?)) (ID 1823.NTMATT.REL-BIB,.657))
 
 ( (CP-QUE-SPE (CODE VS:XII_5M)
 	      (CONJ Ella)
@@ -10673,7 +10673,7 @@
 								     (BEPI eru)
 								     (ADVP (ADV tó))
 								     (ADJP (ADJ-N sakaleysir)))))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.658))
 
 ( (IP-MAT-SPE (CODE VS:XII_6M)
 	      (CONJ Men)
@@ -10697,7 +10697,7 @@
 										      (C 0)
 										      (IP-SUB-SPE (ADJP *T*-3)
 												  (NP-SBJ (N-N Templ$) (D-N $ið))))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.659))
 
 ( (IP-MAT-SPE (CODE VS:XII_7M)
 	      (CONJ Men)
@@ -10743,7 +10743,7 @@
 						  (ALSO eisini)
 						  (PP (P yvir)
 						      (NP (NPR-A Sabbat$) (D-A $in)))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.660))
 
 ( (IP-MAT (CODE VS:XII_9M)
 	  (CONJ Og)
@@ -10751,7 +10751,7 @@
 	  (VBDI gekk)
 	  (RP fram)
 	  (ADVP-DIR (ADV haðani))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.661))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -10759,7 +10759,7 @@
 	  (PP (P í)
 	      (NP (N-A Synogógu)
 		  (NP-POS (PRO-G teirra))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.662))
 
 ( (IP-MAT (CODE VS:XII_10M)
 	  (CONJ Og)
@@ -10775,14 +10775,14 @@
 			  (IP-SUB (NP-SBJ *T*-1)
 				  (HVDI hevði)
 				  (NP-OB1 (ONE-A eina) (ADJ-A visnaða) (N-A Hond)))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.663))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (PRO-N teir))
 	  (DODI gjördu)
 	  (NP-OB1 (N-A spursmál))
 	  (PP (P til)
-	      (NP (PRO-G hansara)))))
+	      (NP (PRO-G hansara)))) (ID 1823.NTMATT.REL-BIB,.664))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -10802,7 +10802,7 @@
 			  (VB klaga)
 			  (NP-OB1 (PRO-A hann))
 			  (RP an)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.665))
 
 ( (IP-MAT (CODE VS:XII_11M)
 	  (CONJ Men)
@@ -10848,7 +10848,7 @@
 											   (VBPI dregur)
 											   (NP-OB1 (PRO-A hana))
 											   (RP upp))))))))
-	  (. ?-?)))
+	  (. ?-?)) (ID 1823.NTMATT.REL-BIB,.666))
 
 ( (CP-QUE-SPE (CODE VS:XII_12M)
 	      (WADJP (WNP-MSR (WADV Hvussu) (Q-N mikið))
@@ -10862,7 +10862,7 @@
 					    (C 0)
 					    (IP-SUB-SPE (ADJP *T*-2)
 							(NP-SBJ (ONE-N ein) (N-N Ær))))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.667))
 
 ( (IP-MAT-SPE (ALSO Also)
 	      (BEPI er)
@@ -10873,7 +10873,7 @@
 			    (ADVP (ADV væl))
 			    (PP (P á)
 				(NP (NPR-D Sabbat$) (D-D $inum))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.668))
 
 ( (IP-MAT (CODE VS:XII_13M)
 	  (ADVP-TMP (ADV Tá))
@@ -10886,14 +10886,14 @@
 		      (NP-OB1 (N-A Hond)
 			      (NP-POS (PRO-A tína)))
 		      (RP út))
-	  (. !-!)))
+	  (. !-!)) (ID 1823.NTMATT.REL-BIB,.669))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (PRO-N hann))
 	  (ADJ-N strakti)
 	  (NP-OB1 (PRO-A hana))
 	  (RP út)
-	  (, ,-,)))
+	  (, ,-,)) (ID 1823.NTMATT.REL-BIB,.670))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (PRO-N hon))
@@ -10903,13 +10903,13 @@
 	  (CP-ADV (WADJP-1 0)
 		  (C sum)
 		  (IP-SUB (ADJP *T*-1)
-			  (NP-SBJ (D-N hin) (OTHER-N onnur) (N-N Hond$) (D-N $in))))))
+			  (NP-SBJ (D-N hin) (OTHER-N onnur) (N-N Hond$) (D-N $in))))) (ID 1823.NTMATT.REL-BIB,.671))
 
 ( (IP-MAT (CODE VS:XII_14M)
 	  (CONJ Men)
 	  (NP-SBJ (NPRS-N Farisear$) (D-N $nir))
 	  (VBDI gingu)
-	  (RP út)))
+	  (RP út)) (ID 1823.NTMATT.REL-BIB,.672))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -10928,7 +10928,7 @@
 			    (MD fáa)
 			    (VBN forkomið)
 			    (NP-OB1 (PRO-D honum))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.673))
 
 ( (IP-MAT (CODE VS:XII_15M)
 	  (CONJ Men)
@@ -10944,7 +10944,7 @@
 	  (VBDI flutti)
 	  (NP-SBJ (PRO-N hann))
 	  (ADVP-DIR (ADV haðani))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.674))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (N-N mongd)
@@ -10952,14 +10952,14 @@
 		      (NP (NPR-D Fólki))))
 	  (VBDI fylgdi)
 	  (NP-OB1 (PRO-D honum))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.675))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (PRO-N hann))
 	  (DODI gjördi)
 	  (IP-SMC (NP-SBJ (PRO-A tey) (Q-A Öll))
 		  (ADJP (ADJ-A heilbrigð)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.676))
 
 ( (IP-MAT (CODE VS:XII_16M)
 	  (CONJ Og)
@@ -11031,7 +11031,7 @@
 											   (NP-POS (PRO-A mína)))
 										   (PP (P í)
 										       (NP-RSP (PRO-A hann))))))))))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.677))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (PRO-N hann))
@@ -11039,7 +11039,7 @@
 	      (VB forkynna)
 	      (NP-OB2 (NS-D Heidningu$) (D-D $num))
 	      (NP-OB1 (N-A Rætt))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.678))
 
 ( (IP-MAT-SPE (IP-MAT-SPE-1 (CODE VS:XII_19M)
 			    (NP-SBJ (PRO-N Hann))
@@ -11049,7 +11049,7 @@
 	      (, ,-,)
 	      (CONJP (CONJ og)
 		     (IP-MAT-SPE=1 (NEG ikki) (VB rópa)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.679))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ-1 (ES tað))
@@ -11061,7 +11061,7 @@
 		      (NP-POS (PRO-G hansara)))
 	      (PP (P á)
 		  (NP (NS-D Geilum)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.680))
 
 ( (IP-MAT-SPE (CODE VS:XII_20M)
 	      (IP-MAT-SPE-1 (NP-SBJ (PRO-N Hann))
@@ -11091,7 +11091,7 @@
 							       (NP-OB1 (NPR-A Rætt$) (D-A $ina))
 							       (PP (RP út)
 								   (P til)
-								   (NP (N-A Sigur))))))))))
+								   (NP (N-A Sigur))))))))) (ID 1823.NTMATT.REL-BIB,.681))
 
 ( (IP-MAT-SPE (CODE VS:XII_21M)
 	      (CONJ Og)
@@ -11101,7 +11101,7 @@
 	      (PP (P á)
 		  (NP (N-A Navn)
 		      (NP-POS (PRO-G hansara))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.682))
 
 ( (IP-MAT (CODE VS:XII_22M)
 	  (ADVP-TMP (ADV Tá))
@@ -11118,7 +11118,7 @@
 		    (IP-SUB-SPE (NP-SBJ *T*-2)
 				(BEDI var)
 				(ADJP (ADJ-N blindur) (CONJ og) (ADJ-N dummur))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.683))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (PRO-N hann))
@@ -11133,13 +11133,13 @@
 				      (CONJP (CONJ og)
 					     (NX (ADJ-N Dummi))))
 			      (VBDI (CONJ bæði) (VBDI talaði) (CONJ og) (VBDI hugdi)))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.684))
 
 ( (IP-MAT (CODE VS:XII_23M)
 	  (CONJ Og)
 	  (NP-SBJ (Q-N alt) (N-N Fólk$) (D-N $ið))
 	  (VBDI forfardaðist)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.685))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -11152,7 +11152,7 @@
 				  (NP-PRD (D-N tann)
 					  (NP-POS (NPR-G Dávu))
 					  (N-N sonur))))
-	  (. ?-?)))
+	  (. ?-?)) (ID 1823.NTMATT.REL-BIB,.686))
 
 ( (IP-MAT (CODE VS:XII_24M)
 	  (CONJ Men)
@@ -11180,7 +11180,7 @@
 				  (NP-PRN (NP-POS (NS-G devla))
 					  (N-A övarst$)
 					  (D-A $an))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.687))
 
 ( (IP-MAT (CODE VS:XII_25M)
 	  (CONJ Men)
@@ -11213,7 +11213,7 @@
 		      (, ,-,)
 		      (RDPI verður)
 		      (NP-PRD (N-N oyði)))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.688))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (NP (Q-N hvör) (ONE-N ein) (N-N staður))
@@ -11232,7 +11232,7 @@
 	      (MDPI kann)
 	      (NEG ikki)
 	      (VB bestanda)
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.689))
 
 ( (CP-QUE-SPE (CODE VS:XII_26M)
 	      (CP-QUE-ADV-SPE (WQ Hvis$)
@@ -11258,7 +11258,7 @@
 				  (NP-POS (PRO-G hansara)))
 			  (ADVP-TMP (ADV tá))
 			  (VB bestanda))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.690))
 
 ( (CP-QUE-SPE (CODE VS:XII_27M)
 	      (CONJ Og)
@@ -11280,7 +11280,7 @@
 				  (NP-POS (PRO-G Tykkara)))
 			  (NP-OB1 (PRO-A teir))
 			  (RP út))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.691))
 
 ( (IP-MAT (PP (P 0)
 	      (NP (PRO-D Tí)))
@@ -11289,7 +11289,7 @@
 	  (BE vera)
 	  (NP-PRD (NS-N Dómarar)
 		  (NP-POS (PRO-G Tykkara)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.692))
 
 ( (IP-MAT-SPE (CODE VS:XII_28M)
 	      (CONJ Men)
@@ -11310,7 +11310,7 @@
 		      (N-N Ríki))
 	      (VBN komið)
 	      (PP (P til)
-		  (NP (PRO-G Tykkara)))))
+		  (NP (PRO-G Tykkara)))) (ID 1823.NTMATT.REL-BIB,.693))
 
 ( (CP-QUE-SPE (CODE VS:XII_29M)
 	      (CONJ Ella)
@@ -11339,7 +11339,7 @@
 									   (VBPI bindur)
 									   (ADVP-TMP (ADVS fyrst))
 									   (NP-OB1 (N-A Roystmenn$) (D-A $ið))))))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.694))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV Tá))
 	      (MDPI kann)
@@ -11347,7 +11347,7 @@
 	      (VB plindra)
 	      (NP-OB1 (N-A Hús)
 		      (NP-POS (PRO-G hansara)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.695))
 
 ( (IP-MAT-SPE (CODE VS:XII_30M)
 	      (NP-SBJ (CP-FRL-SPE (WNP-1 (WPRO-N Hvör))
@@ -11362,7 +11362,7 @@
 	      (PP (P í$)
 		  (NP (N-D $móti)
 		      (NP-COM (PRO-D mær))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.696))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-LFD (CP-FRL-SPE (WNP (WPRO-N hvör$))
@@ -11378,7 +11378,7 @@
 	      (NP-SBJ-RSP (PRO-N hann))
 	      (VBPI spreiðir)
 	      (ADVP (ADV sundur))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.697))
 
 ( (IP-MAT-SPE (CODE VS:XII_31M)
 	      (PP (P 0)
@@ -11394,7 +11394,7 @@
 			  (MDPI skal)
 			  (VB forlátast)
 			  (NP-SBJ (NS-D menniskj$) (D-D $enum)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.698))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-OB1 (N-N spottan)
@@ -11405,7 +11405,7 @@
 	      (NEG ikki)
 	      (VB forlátast)
 	      (NP-SBJ (NS-D menniskj$) (D-D $enum))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.699))
 
 ( (IP-MAT-SPE (CODE VS:XII_32M)
 	      (CONJ Og)
@@ -11423,7 +11423,7 @@
 	      (MDPI skal)
 	      (VB forlátast)
 	      (NP-SBJ-RSP (PRO-D honum))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.700))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-LFD (Q-D hvörjum)
@@ -11449,7 +11449,7 @@
 			 (ADVP (ADVR heldur))
 			 (PP (P í)
 			     (NP (PRO-D tí) (VAG tilkomandi)))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.701))
 
 ( (IP-IMP-SPE (CODE VS:XII_33M)
 	      (IP-IMP-SPE (VBI Latið)
@@ -11481,7 +11481,7 @@
 								     (VBPI kennist)
 								     (PP (P av)
 									 (NP (NS-D Frukt$) (D-D $unum)))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.702))
 
 ( (CP-QUE-SPE (CODE VS:XII_34M)
 	      (NP-VOC (PRO-N Tit)
@@ -11511,7 +11511,7 @@
 							      (NP (N-D Hjarta$) (D-D $num)))))
 						  (VBPI talar)
 						  (NP-SBJ (N-N muður$) (D-N $in))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.703))
 
 ( (IP-MAT-SPE (CODE VS:XII_35M)
 	      (NP-SBJ (ONE-N Eitt) (ADJ-N gott) (N-N Menniskja))
@@ -11531,7 +11531,7 @@
 						  (NP (N-A Forráð)))
 					      (PP (P í)
 						  (NP (N-D Hjarta$) (D-D $num)))))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.704))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (ONE-N eitt) (ADJ-N ringt) (N-N menniskja))
@@ -11540,7 +11540,7 @@
 	      (NP-OB1 (ADJ-A ringa) (NS-A Luti))
 	      (PP (P úr)
 		  (NP (D-D tí) (ADJ-D ringa) (N-D Forráði)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.705))
 
 ( (IP-MAT-SPE (CODE VS:XII_36M)
 	      (CONJ Men)
@@ -11579,7 +11579,7 @@
 									  (NP-SBJ (PRO-N tú))
 									  (VB kennast)
 									  (ADJP-SPR (ADJ-N rættiligur))))))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.706))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (PP (P av)
@@ -11588,7 +11588,7 @@
 	      (MDPI skal)
 	      (NP-SBJ (PRO-N tú))
 	      (VB fordömast)
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.707))
 
 ( (IP-MAT (CODE VS:XII_38M)
 	  (ADVP-TMP (ADV Tá))
@@ -11598,7 +11598,7 @@
 		      (NP (NP (D-D teim) (ADJ-D Skriftklóku))
 			  (CONJP (CONJ og)
 				 (NP (NPRS-D Farisear$) (D-D $num))))))
-	  (, ,-,)))
+	  (, ,-,)) (ID 1823.NTMATT.REL-BIB,.708))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -11614,12 +11614,12 @@
 				  (NP-OB1 (ONE-A eitt) (N-A Tekin))
 				  (PP (P frá)
 				      (NP (PRO-D tær)))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.709))
 
 ( (IP-MAT (CODE VS:XII_39M)
 	  (CONJ Men)
 	  (NP-SBJ (PRO-N hann))
-	  (VBDI svaraði)))
+	  (VBDI svaraði)) (ID 1823.NTMATT.REL-BIB,.710))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -11633,7 +11633,7 @@
 			      (D-N $ið))
 		      (VBPI krevur)
 		      (NP-OB1 (N-A Tekin)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.711))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-OB1 (Q-N einki)
@@ -11677,7 +11677,7 @@
 						  (VAN goymdur)
 						  (PP (P undir)
 						      (NP (NS-D Foldum)))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.712))
 
 ( (IP-MAT (CODE VS:XII_41M)
 	  (IP-MAT-SPE-1 (NP-SBJ (NP-POS (NPR-G Ninivu))
@@ -11705,7 +11705,7 @@
 								   (PP (P av)
 								       (NP (N-D Prædiku)
 									   (NP-POS (NPR-G Jónassa))))))))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.713))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (IP-IMP-SPE-PRN (VBI sí))
@@ -11718,7 +11718,7 @@
 				      (C 0)
 				      (IP-SUB-SPE (NP-PRD *T*-1)
 						  (NP-SBJ (NPR-N Jónas))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.714))
 
 ( (IP-MAT-SPE (CODE VS:XII_42M)
 	      (IP-MAT-SPE-1 (NP-SBJ (N-N Drotning$)
@@ -11753,7 +11753,7 @@
 										       (VB hoyra)
 										       (NP-OB1 (N-A Vísdóm)
 											       (NP-POS (NPR-G Salomons))))))))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.715))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (IP-IMP-SPE-PRN (VBI sí))
@@ -11766,7 +11766,7 @@
 				      (C 0)
 				      (IP-SUB-SPE (NP-PRD *T*-1)
 						  (NP-SBJ (NPR-N Salomon))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.716))
 
 ( (IP-MAT-SPE (CODE VS:XII_43M)
 	      (CONJ Men)
@@ -11787,19 +11787,19 @@
 	      (PP (P í$)
 		  (PP (P $gjögnum)
 		      (NP (ADJ-A turrar) (NS-A Staðir))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.717))
 
 ( (IP-MAT-SPE (NP-SBJ *con*)
 	      (VBPI sökir)
 	      (NP-OB1 (N-A Hvílu))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.718))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
 	      (VBPI finnur)
 	      (NP-OB1 (PRO-A hana))
 	      (NEG ikki)
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.719))
 
 ( (IP-MAT-SPE (CODE VS:XII_44M)
 	      (ADVP-TMP (ADV Tá))
@@ -11821,7 +11821,7 @@
 							  (PP (RP út)
 							      (P úr)
 							      (NP *T*-1)))))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.720))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (ADVP-TMP (ADV tá)
@@ -11836,14 +11836,14 @@
 	      (IP-SMC-SPE (CODE *XXX*)
 			  (NP-SBJ (PRO-A tað))
 			  (VAN-A (VAN-A oyðað) (, ,-,) (VAN-A feiað) (CONJ og) (VAN-A prýðað)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.721))
 
 ( (IP-MAT-SPE (CODE VS:XII_45M)
 	      (ADVP-TMP (ADV So))
 	      (VBPI fer)
 	      (NP-SBJ (PRO-N hann))
 	      (PP (P av$)
-		  (NP (N-D $stað)))))
+		  (NP (N-D $stað)))) (ID 1823.NTMATT.REL-BIB,.722))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
@@ -11867,7 +11867,7 @@
 							      (IP-SUB-SPE (ADJP *T*-3)
 									  (NP-SBJ (PRO-N hann)
 										  (NP-PRN (PRO-N sjálvur)))))))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.723))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (ADVP-TMP (ADV tá)
@@ -11882,7 +11882,7 @@
 	      (VBPI búgva)
 	      (NP-SBJ (PRO-N tær))
 	      (ADVP-LOC (ADV har))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.724))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (D-N tað) (ADJS-N Síðsta))
@@ -11896,7 +11896,7 @@
 				(C 0)
 				(IP-SUB-SPE (ADJP *T*-2)
 					    (NP-SBJ (D-N tað) (ADJS-N Fyrsta)))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.725))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV so))
 	      (MDPI skal)
@@ -11904,7 +11904,7 @@
 	      (ALSO eisini)
 	      (VB ganga)
 	      (NP-SBJ (D-D hesum) (ADJ-D ónda) (N-D Slagi))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.726))
 
 ( (IP-MAT (CODE VS:XII_46M)
 	  (CONJ Men)
@@ -11927,7 +11927,7 @@
 			     (NP-POS (PRO-G hansara)))))
 	  (PP (ADVP (ADV uttan$))
 	      (P $fyri))
-	  (, ,-,)))
+	  (, ,-,)) (ID 1823.NTMATT.REL-BIB,.727))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -11938,7 +11938,7 @@
 		      (NP-OB1 (PRO-A hann))
 		      (PP (P í)
 			  (NP (N-A Tal)))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.728))
 
 ( (IP-MAT (CODE VS:XII_47M)
 	  (ADVP-TMP (ADV Tá))
@@ -11957,7 +11957,7 @@
 		      (VBPI standa)
 		      (PP (ADVP (ADV uttan$))
 			  (P $fyri))
-		      (, ,-,))))
+		      (, ,-,))) (ID 1823.NTMATT.REL-BIB,.729))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
@@ -11968,12 +11968,12 @@
 			      (NP-OB1 (PRO-A teg))
 			      (PP (P til)
 				  (NP (N-G Máls)))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.730))
 
 ( (IP-MAT (CODE VS:XII_48M)
 	  (CONJ Men)
 	  (NP-SBJ (PRO-N hann))
-	  (VBDI svaraði)))
+	  (VBDI svaraði)) (ID 1823.NTMATT.REL-BIB,.731))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -11995,7 +11995,7 @@
 				  (BEPI er)
 				  (NP-SBJ (N-N Móðir)
 					  (NP-POS (PRO-N mín)))))
-	  (. ?-?)))
+	  (. ?-?)) (ID 1823.NTMATT.REL-BIB,.732))
 
 ( (CP-QUE-SPE (CONJ og)
 	      (WNP-1 (WPRO-N hvörjir))
@@ -12003,7 +12003,7 @@
 			  (BEPI eru)
 			  (NP-SBJ (NS-N Bröður)
 				  (NP-POS (PRO-N mínir))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.733))
 
 ( (IP-MAT (CODE VS:XII_49M)
 	  (CONJ Og)
@@ -12014,7 +12014,7 @@
 	  (RP út)
 	  (PP (P yvir)
 	      (NP (NS-A Disciplar)
-		  (NP-POS (PRO-A sínar))))))
+		  (NP-POS (PRO-A sínar))))) (ID 1823.NTMATT.REL-BIB,.734))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -12057,12 +12057,12 @@
 								  (NX (N-N Systir)))
 							   (CONJP (CONJ og)
 								  (NX (N-N Móðir)))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.735))
 
 ( (META (CODE <heading>)
 	(NP (D-N Tað) (ADJ-N 13da) (N-N Capitule))
 	(. ,-,)
-	(CODE </heading>)))
+	(CODE </heading>)) (ID 1823.NTMATT.REL-BIB,.736))
 
 ( (IP-MAT (CODE VS:XIII_1M)
 	  (NP-TMP (ADJ-A Sama) (N-A Dag$) (D-A $in))
@@ -12071,7 +12071,7 @@
 	  (PP (RP út)
 	      (P úr)
 	      (NP (N-D Hús$) (D-D $inum)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.737))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -12079,7 +12079,7 @@
 	  (NP-OB1 (PRO-A seg))
 	  (PP (P við)
 	      (NP (N-A Sjógv$) (D-A $in)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.738))
 
 ( (IP-MAT (CODE VS:XIII_2M)
 	  (CONJ og)
@@ -12101,14 +12101,14 @@
 				     (IP-SUB (NP-SBJ *con*)
 					     (VBDI setti)
 					     (NP-OB1 (PRO-A seg)))))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.739))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (Q-N alt) (N-N Fólk$) (D-N $ið))
 	  (VBDI stóð)
 	  (PP (P í)
 	      (NP (N-D Sjóvarmála$) (D-D $num)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.740))
 
 ( (IP-MAT (CODE VS:XIII_3M)
 	  (CONJ Og)
@@ -12119,7 +12119,7 @@
 	      (NP (PRO-G teirra)))
 	  (PP (P í)
 	      (NP (NS-D Líknilsum)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.741))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -12131,7 +12131,7 @@
 		      (VBDI fór)
 		      (RP út)
 		      (IP-INF-PRP-SPE (TO at) (VB sáa)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.742))
 
 ( (IP-MAT-SPE (CODE VS:XIII_4M)
 	      (CONJ Og)
@@ -12145,20 +12145,20 @@
 	      (NP-SBJ (Q-N Nakað))
 	      (PP (P í)
 		  (NP (N-A Göt$) (D-A $una)))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.743))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *exp*-1)
 	      (NP-1 (NS-N Fuglar))
 	      (VBDI komu)
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.744))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
 	      (VBDI ótu)
 	      (NP-OB1 (PRO-A tað))
 	      (RP upp)
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.745))
 
 ( (IP-MAT-SPE (CODE VS:XIII_5M)
 	      (CONJ Og)
@@ -12174,7 +12174,7 @@
 					      (NP-SBJ (Q-N mikil) (N-N Jörð))
 					      (PP (P á)
 						  (ADVP *T*-1))))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.746))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (PRO-N tað))
@@ -12188,7 +12188,7 @@
 						  (HVDI hevði)
 						  (NEG ikki)
 						  (NP-OB1 (ADJ-A djúpa) (N-A Jörð))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.747))
 
 ( (IP-MAT-SPE (CODE VS:XIII_6M)
 	      (CONJ Men)
@@ -12203,7 +12203,7 @@
 	      (VBDI skortnaði)
 	      (NP-SBJ (PRO-N tað))
 	      (ADVP-DIR (ADV burtur))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.748))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (PP (P 0)
@@ -12216,7 +12216,7 @@
 	      (, ,-,)
 	      (VBDI fölnaði)
 	      (NP-SBJ (PRO-N tað))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.749))
 
 ( (IP-MAT-SPE (CODE VS:XIII_7M)
 	      (CONJ Men)
@@ -12224,19 +12224,19 @@
 	      (VBDI fell)
 	      (PP (P millum)
 		  (NP (NS-A Tornar)))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.750))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (NS-N Tornar$) (D-N $nir))
 	      (VBDI vuksu)
 	      (RP upp)
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.751))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
 	      (VBDI kvaldu)
 	      (NP-OB1 (PRO-A tað))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.752))
 
 ( (IP-MAT-SPE (CODE VS:XIII_8M)
 	      (CONJ Men)
@@ -12244,13 +12244,13 @@
 	      (VBDI fell)
 	      (PP (P í)
 		  (NP (ADJ-A góða) (N-A Jörð)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.753))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
 	      (HVDI hevði)
 	      (NP-OB1 (ADJ-A góðan) (N-A Ávökstur))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.754))
 
 ( (IP-MAT-SPE (IP-MAT-SPE-1 (NP-SBJ (Q-N Nakað))
 			    (VBDI gavst)
@@ -12263,7 +12263,7 @@
 	      (CONJP (CONJ men)
 		     (IP-MAT-SPE=1 (NP-SBJ (Q-N Nakað))
 				   (NP-MSR (NUM-N tredivu) (ADJ-N Fold))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.755))
 
 ( (IP-MAT (CODE VS:XIII_9M)
 	  (NP-LFD (Q-N Hvör)
@@ -12280,14 +12280,14 @@
 								    (NP *T*-3)))))))
 	  (NP-SBJ-RSP (PRO-N hann))
 	  (VBPS hoyri)
-	  (. !-!)))
+	  (. !-!)) (ID 1823.NTMATT.REL-BIB,.756))
 
 ( (IP-MAT (CODE VS:XIII_10M)
 	  (NP-SBJ (NS-N Disciplar$) (D-N $nir))
 	  (VBDI gingu)
 	  (PP (P til)
 	      (NP (PRO-G hansara)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.757))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -12303,12 +12303,12 @@
 				      (NP (PRO-G teirra)))
 				  (PP (P í)
 				      (NP (NS-D Líknilsum)))))
-	  (. ?-?)))
+	  (. ?-?)) (ID 1823.NTMATT.REL-BIB,.758))
 
 ( (IP-MAT (CODE VS:XIII_11M)
 	  (CONJ Og)
 	  (NP-SBJ (PRO-N hann))
-	  (VBDI svaraði)))
+	  (VBDI svaraði)) (ID 1823.NTMATT.REL-BIB,.759))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -12326,7 +12326,7 @@
 					(NP-OB1 (NP-POS (NP-POS (NPR-G Himmiríkis))
 							(NPR-G Ríkis))
 						(NS-A Heimeligheitir))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.760))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-SBJ (PRO-D teimum))
@@ -12348,7 +12348,7 @@
 						  (NP-SBJ-RSP (PRO-D honum))
 						  (MDPI skal)
 						  (VB gevast)))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.761))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (PRO-N hann))
@@ -12356,7 +12356,7 @@
 	      (HV hava)
 	      (PP (P til)
 		  (NP (N-A Yvirflóð)))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.762))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-LFD (Q-D hvörjum)
@@ -12379,7 +12379,7 @@
 			    (IP-SUB-SPE (NP-OB1 *T*-3)
 					(NP-SBJ (PRO-N hann))
 					(HVPI hevur)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.763))
 
 ( (IP-MAT-SPE (CODE VS:XIII_13M)
 	      (PP (P Fyri)
@@ -12422,7 +12422,7 @@
 							     (VBPI forstanda)
 							     (NEG ikki)
 							     (ADVP (ADVR heldur)))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.764))
 
 ( (IP-MAT-SPE (CODE VS:XIII_14M)
 	      (CONJ Og)
@@ -12470,7 +12470,7 @@
 						  (BEPI er)
 						  (LBN blivið)
 						  (VAN forherðað)))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.765))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (PRO-N tey))
@@ -12478,7 +12478,7 @@
 	      (ADVP (ADV tungliga))
 	      (PP (P við)
 		  (NP (NS-D oyr$) (D-D $unum)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.766))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-OB1 (NP-POS (PRO-G teirra))
@@ -12521,7 +12521,7 @@
 											       (MDN fingið)
 											       (VBN lægt)
 											       (NP-OB1 (PRO-A tey))))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.767))
 
 ( (IP-MAT-SPE (CODE VS:XIII_16M)
 	      (IP-MAT-SPE-1 (CONJ Men)
@@ -12589,7 +12589,7 @@
 																				  (VBDI hoyrdu)
 																				  (NP-OB1 (PRO-A tað))
 																				  (NEG ikki))))))))))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.768))
 
 ( (IP-IMP-SPE (CODE VS:XIII_18M)
 	      (ADVP (ADV So))
@@ -12599,7 +12599,7 @@
 	      (NP-OB1 (N-A Líknilsi) (D-A hetta))
 	      (PP (P um)
 		  (NP (N-A sáðingamann$) (D-A $in)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.769))
 
 ( (IP-MAT-SPE (CODE VS:XIII_19M)
 	      (ADVP-TMP-LFD (ADV Nær$)
@@ -12623,7 +12623,7 @@
 	      (ADVP-TMP-RSP (ADV tá))
 	      (VBPI kemur)
 	      (NP-SBJ (D-N tann) (ADJ-N óndi))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.770))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
@@ -12640,7 +12640,7 @@
 					(PP (P í)
 					    (NP (N-A Hjarta)
 						(NP-POS (PRO-G hansara))))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.771))
 
 ( (IP-MAT-SPE (NP-SBJ (D-N hesin))
 	      (BEPI er)
@@ -12653,7 +12653,7 @@
 					      (BEPI er)
 					      (PP (P í)
 						  (NP (N-A Göt$) (D-A $una))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.772))
 
 ( (IP-MAT-SPE (CODE VS:XIII_20M)
 	      (CONJ Men)
@@ -12681,7 +12681,7 @@
 								 (ADVP-TMP (ADV straks))
 								 (PP (P við)
 								     (NP (N-D Gleði))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.773))
 
 ( (IP-MAT-SPE (CODE VS:XIII_21M)
 	      (CONJ Men)
@@ -12691,7 +12691,7 @@
 	      (NP-OB1 (NPR-A Rót))
 	      (PP (P í)
 		  (NP (PRO-D sær)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.774))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -12700,7 +12700,7 @@
 	  (RP við)
 	  (PP (P til)
 	      (NP (ONE-A eina) (N-A Tíð)))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.775))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (ADVP-TMP (ADV tá)
@@ -12717,7 +12717,7 @@
 	      (VBPI forargast)
 	      (NP-SBJ (PRO-N hann))
 	      (ADVP-TMP (ADV straks))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.776))
 
 ( (IP-MAT-SPE (CODE VS:XIII_22M)
 	      (CONJ Men)
@@ -12738,7 +12738,7 @@
 				  (IP-SUB-SPE (NP-SBJ *T*-2)
 					      (VBPI hoyrir)
 					      (NP-OB1 (N-A Orð$) (D-A $ið)))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.777))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (NP (N-N Gremj$)
@@ -12752,13 +12752,13 @@
 				     (NP (N-D Ríkdómi))))))
 	      (VBPI kvelur)
 	      (NP-OB1 (N-A Orð$) (D-A $ið))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.778))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (PRO-N tað))
 	      (RDPI verður)
 	      (NP-PRD (ONE-N ein) (N-N Ófrukt))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.779))
 
 ( (IP-MAT-SPE (CODE VS:XIII_23M)
 	      (CONJ Men)
@@ -12803,7 +12803,7 @@
 											     (CONJP (CONJ og)
 												    (IP-SUB-SPE=3 (PP (NP (ONE-D einum) (OTHER-D Öðrum)))
 														  (NP-MSR (NUM-N tredivu) (ADJ-N Fold))))))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.780))
 
 ( (IP-MAT (CODE VS:XIII_24M)
 	  (NP-OB1 (ONE-A Eitt) (OTHER-A annað) (N-A líknilsi))
@@ -12812,7 +12812,7 @@
 	  (PP (RP fram)
 	      (P fyri)
 	      (NP (PRO-A teir)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.781))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -12833,7 +12833,7 @@
 						      (PP (P í)
 							  (NP (N-A Akur)
 							      (NP-POS (PRO-A sín)))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.782))
 
 ( (IP-MAT-SPE (CODE VS:XIII_25M)
 	      (CONJ Men)
@@ -12849,7 +12849,7 @@
 	      (VBDI kom)
 	      (NP-SBJ (N-N Fíggindi)
 		      (NP-POS (PRO-G hansara)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.783))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
@@ -12857,14 +12857,14 @@
 	      (NP-OB1 (N-A Klintu))
 	      (PP (P millum)
 		  (NP (N-A Hveit$) (D-A $ina)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.784))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
 	      (VBDI fór)
 	      (NP-DIR (NP-POS (PRO-A sín))
 		      (N-A Kós))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.785))
 
 ( (IP-MAT-SPE (CODE VS:XIII_26M)
 	      (CONJ Men)
@@ -12886,7 +12886,7 @@
 			  (ALSO eisini)
 			  (PP (P til$)
 			      (NP (NS-G $sjóna))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.786))
 
 ( (IP-MAT-SPE (CODE VS:XIII_27M)
 	      (CONJ Men)
@@ -12894,7 +12894,7 @@
 		      (NS-N Tjenarar))
 	      (VBDI komu)
 	      (RP fram)
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.787))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -12911,7 +12911,7 @@
 				  (PP (P í)
 				      (NP (N-A Akur)
 					  (NP-POS (PRO-A tína))))))
-	  (. ?-?)))
+	  (. ?-?)) (ID 1823.NTMATT.REL-BIB,.788))
 
 ( (CP-QUE-SPE (WADVP-1 (WADV hvaðani))
 	      (IP-SUB-SPE (ADVP *T*-1)
@@ -12919,7 +12919,7 @@
 			  (NP-SBJ (PRO-N hon))
 			  (ADVP-TMP (ADV tá))
 			  (NP-OB1 (N-A klint$) (D-A $una)))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.789))
 
 ( (IP-MAT-SPE (CODE VS:XIII_28M)
 	      (NP-SBJ (PRO-N Hann))
@@ -12931,7 +12931,7 @@
 			  (HVPI hevur)
 			  (NP-SBJ (ONE-N eitt) (N-N Illmenni))
 			  (DON gjört))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.790))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV Tá))
 	      (VBDI sögdu)
@@ -12952,7 +12952,7 @@
 										   (NP-OB1 (PRO-A hana))
 										   (PP (ADVP (ADV burtur))
 										       (P úr))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.791))
 
 ( (IP-MAT-SPE (CODE VS:XIII_29M)
 	      (CONJ Men)
@@ -12981,7 +12981,7 @@
 										    (NP-OB1 (N-A Klint$) (D-A $una))
 										    (PP (ADVP (ADV burtur))
 											(P úr)))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.792))
 
 ( (IP-IMP-SPE (CODE VS:XIII_30M)
 	      (VBI Latið)
@@ -12991,7 +12991,7 @@
 			  (PP (RP inn$)
 			      (P $til)
 			      (NP (NPR-G Heystar))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.793))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (PP (P í)
@@ -13006,7 +13006,7 @@
 			  (ADVP-TMP (ADVS fyrst))
 			  (NP-OB1 (N-A Klint$) (D-A $una))
 			  (ADVP (ADV saman)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.794))
 
 ( (IP-IMP-SPE (CONJ og)
 	      (VBI bindið)
@@ -13017,7 +13017,7 @@
 	      (IP-INF-PRP-SPE (TO at)
 			      (VB brenna)
 			      (NP-OB1 (PRO-A hana)))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.795))
 
 ( (IP-IMP-SPE (CONJ men)
 	      (VBI samlið)
@@ -13025,7 +13025,7 @@
 	      (PP (P í)
 		  (NP (N-A Kornhús)
 		      (NP-POS (PRO-A mítt))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.796))
 
 ( (IP-MAT (CODE VS:XIII_31M)
 	  (ADVP-TMP (ADV Tá))
@@ -13035,7 +13035,7 @@
 	  (PP (RP fram)
 	      (P fyri)
 	      (NP (PRO-A teir)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.797))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -13060,7 +13060,7 @@
 									 (PP (P í)
 									     (NP (N-A Akur)
 										 (NP-POS (PRO-A sína))))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.798))
 
 ( (IP-MAT-SPE (CODE VS:XIII_32M)
 	      (NP-SBJ (D-N Hetta))
@@ -13072,7 +13072,7 @@
 				      (C 0)
 				      (IP-SUB-SPE (NP-PRD *T*-1)
 						  (NP-SBJ (Q-N öll) (OTHERS-N onnur) (NS-N Fræ))))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.799))
 
 ( (IP-MAT (CONJ men)
 	  (ADVP-TMP (ADV tá)
@@ -13089,7 +13089,7 @@
 	  (CODE *XXX*)
 	  (RP yvir$)
 	  (VBN $vaksið)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.800))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
@@ -13112,7 +13112,7 @@
 								     (D-D $num)
 								     (PP (P á)
 									 (NP (PRO-D tí))))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.801))
 
 ( (IP-MAT (CODE VS:XIII_33M)
 	  (NP-SBJ (PRO-N Hann))
@@ -13147,7 +13147,7 @@
 											 (IP-SUB-SPE (NP-SBJ (PRO-N tað))
 												     (VBDI súrnaði)
 												     (Q+ADJ-N altsamalt))))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.802))
 
 ( (IP-MAT (CODE VS:XIII_34M)
 	  (NP-OB1 (Q-A Alt) (D-A hetta))
@@ -13157,7 +13157,7 @@
 	      (NP (N-A Fólk$) (D-A $ið)))
 	  (PP (P í)
 	      (NP (NS-D Líknilsum)))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.803))
 
 ( (IP-MAT (CONJ og)
 	  (PP (P uttan)
@@ -13198,7 +13198,7 @@
 										   (RP upp)
 										   (PP (P í)
 										       (NP (NS-D Líknilsum))))))))))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.804))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N Eg))
 	      (MDPI vil)
@@ -13221,7 +13221,7 @@
 										  (VAN lögd)
 										  (PP (P til)
 										      (NP (NS-A Verð$) (D-A $ina)))))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.805))
 
 ( (IP-MAT (CODE VS:XIII_36M)
 	  (ADVP-TMP (ADV Tá))
@@ -13229,7 +13229,7 @@
 	  (NP-SBJ (NPR-N Jesus))
 	  (IP-INF (NP-SBJ (N-A Fólk$) (D-A $ið))
 		  (VB fara))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.806))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -13237,14 +13237,14 @@
 	  (PP (P til)
 	      (NP (N-A Hús)
 		  (NP-POS (PRO-A sítt))))
-	  (. ;-;)))
+	  (. ;-;)) (ID 1823.NTMATT.REL-BIB,.807))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (NS-N Disciplar)
 		  (NP-POS (PRO-G hansara)))
 	  (VBDI gingu)
 	  (PP (P fyri)
-	      (NP (PRO-A hann)))))
+	      (NP (PRO-A hann)))) (ID 1823.NTMATT.REL-BIB,.808))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -13260,13 +13260,13 @@
 				      (D-A $una)
 				      (PP (P í)
 					  (NP (N-D Akr$) (D-D $inum)))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.809))
 
 ( (IP-MAT (CODE VS:XIII_37M)
 	  (CONJ Men)
 	  (NP-SBJ (PRO-N hann))
 	  (VBDI svaraði)
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.810))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -13285,14 +13285,14 @@
 		      (BEPI er)
 		      (NP-PRD (NP-POS (N-G Menniskj$) (D-G $ans))
 			      (N-N Sonur)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.811))
 
 ( (IP-MAT-SPE (CODE VS:XIII_38M)
 	      (CONJ Men)
 	      (NP-SBJ (N-N Akur$) (D-N $in))
 	      (BEPI er)
 	      (NP-PRD (N-N Verð$) (D-N $in))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.812))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (D-N tað) (ADJ-N góða) (N-N Frækorn$) (D-N $ið))
@@ -13301,14 +13301,14 @@
 		      (D-N $ini)
 		      (PP (P í)
 			  (NP (N-D Rík$) (D-D $inum))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.813))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (N-N Klint$) (D-N $an))
 	      (BEPI er)
 	      (NP-PRD (NS-N Börn)
 		      (NP-POS (D-A hin) (ADJ-A Ónda)))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.814))
 
 ( (IP-MAT-SPE (CODE VS:XIII_39M)
 	      (CONJ og)
@@ -13322,20 +13322,20 @@
 	      (, ,-,)
 	      (BEPI er)
 	      (NP-PRD (NPR-N Devel$) (D-N $in))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.815))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (N-N Akurskurður$) (D-N $in))
 	      (BEPI er)
 	      (NP-PRD (NP-POS (N-G Verðs$) (D-G $ins))
 		      (N-N Endi))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.816))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (NS-N Akurfólk$) (D-N $ini))
 	      (BEPI eru)
 	      (NP-PRD (NS-N Einglar$) (D-N $nir))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.817))
 
 ( (QTP (CODE VS:XIII_40M)
        (PP (P 0)
@@ -13372,7 +13372,7 @@
 									     (RDPI verður)
 									     (PP (P á)
 										 (NP (D-D hesari) (N-D Verð$) (D-D $ini))))))))))
-       (. .-.)))
+       (. .-.)) (ID 1823.NTMATT.REL-BIB,.818))
 
 ( (IP-MAT-SPE (CODE VS:XIII_41M)
 	      (NP-SBJ (NP-POS (N-G Menniskj$) (D-G $ans))
@@ -13382,7 +13382,7 @@
 	      (RP út)
 	      (NP-OB1 (NS-A Einglar)
 		      (NP-POS (PRO-A sínar)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.819))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ (PRO-N teir))
@@ -13403,7 +13403,7 @@
 					     (IP-SUB-SPE (NP-SBJ *T*-1)
 							 (DOPI gera)
 							 (NP-OB1 (N-A Órætt)))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.820))
 
 ( (IP-MAT-SPE (CODE VS:XIII_42M)
 	      (CONJ Og)
@@ -13413,13 +13413,13 @@
 	      (NP-OB1 (PRO-A teir))
 	      (PP (P í)
 		  (NP (N-A Eld<dash/>Ovn$) (D-A $in)))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.821))
 
 ( (IP-MAT-SPE (ADVP-LOC (ADV har))
 	      (MDPI skal)
 	      (BE vera)
 	      (NP-SBJ (N-N Grátur) (CONJ og) (N-N Tannabit))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.822))
 
 ( (IP-MAT-SPE (CODE VS:XIII_43M)
 	      (ADVP-TMP (ADV Tá))
@@ -13434,7 +13434,7 @@
 		  (NP (N-D Ríki)
 		      (NP-POS (N-A Faðir)
 			      (NP-POS (PRO-G teirra)))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.823))
 
 ( (IP-MAT-SPE (NP-LFD (Q-N Hvör)
 		      (CP-REL-SPE (WNP-1 0)
@@ -13451,7 +13451,7 @@
 	      (, ,-,)
 	      (NP-SBJ-RSP (PRO-N hann))
 	      (VBPS hoyri)
-	      (. !-!)))
+	      (. !-!)) (ID 1823.NTMATT.REL-BIB,.824))
 
 ( (IP-MAT-SPE (CODE VS:XIII_44M)
 	      (ADVP (ADV Uppaftur))
@@ -13501,7 +13501,7 @@
 						     (IP-SUB-SPE (NP-SBJ *con*)
 								 (VBDI keypti)
 								 (NP-OB1 (N-A Akur$) (D-A $in))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.825))
 
 ( (IP-MAT-SPE (CODE VS:XIII_45M)
 	      (ADVP (ADV Uppaftur))
@@ -13520,7 +13520,7 @@
 						  (IP-INF-SPE (TO at)
 							      (VB fáa)
 							      (NP-OB1 (ADJ-A góðar) (NS-A Perlur))))))))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.826))
 
 ( (IP-MAT-SPE (CODE VS:XIII_46M)
 	      (CONJ og)
@@ -13541,7 +13541,7 @@
 	      (, ,-,)
 	      (VBDI fór)
 	      (NP-SBJ (PRO-N hann))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.827))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -13554,13 +13554,13 @@
 			      (IP-SUB-SPE (NP-OB1 *T*-1)
 					  (NP-SBJ (PRO-N hann))
 					  (VBDI átti))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.828))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
 	      (VBDI keypti)
 	      (NP-OB1 (D-A tað) (ADJ-A somu))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.829))
 
 ( (IP-MAT-SPE (CODE VS:XIII_47M)
 	      (ADVP (ADV Uppaftur))
@@ -13588,7 +13588,7 @@
 								 (NP-OB1 (N-A Fisk))
 								 (PP (P av)
 								     (NP (Q-D öllum) (NS-D Slögum)))))))))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.830))
 
 ( (IP-MAT-SPE (CODE VS:XIII_48M)
 	      (CONJ Men)
@@ -13606,11 +13606,11 @@
 	      (PP (RP upp)
 		  (P í)
 		  (NP (N-A Fjör$) (D-A $una)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.831))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
-	      (VBPI sita)))
+	      (VBPI sita)) (ID 1823.NTMATT.REL-BIB,.832))
 
 ( (IP-MAT-SPE (CONJ og)
 	      (NP-SBJ *con*)
@@ -13619,7 +13619,7 @@
 	      (PP (RP upp)
 		  (P í)
 		  (NP (NS-A Byttur)))
-	      (. ,-,)))
+	      (. ,-,)) (ID 1823.NTMATT.REL-BIB,.833))
 
 ( (IP-MAT-SPE (CONJ men)
 	      (NP-SBJ (D-N teir) (ADJ-N ringu))
@@ -13627,7 +13627,7 @@
 	      (NP-OB1 (PRO-A teir))
 	      (RP út)
 	      (ADVP-DIR (ADV aftur))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.834))
 
 ( (IP-MAT-SPE (CODE VS:XIII_49M)
 	      (ADVP (ADV Soleiðis))
@@ -13638,7 +13638,7 @@
 	      (PP (P við)
 		  (NP (NP-POS (N-G Verðs$) (D-G $ins))
 		      (N-A Enda)))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.835))
 
 ( (IP-MAT-SPE (IP-MAT-SPE-1 (NP-SBJ (NS-N Einglar$) (D-N $nir))
 			    (MDPI skulu)
@@ -13656,13 +13656,13 @@
 				   (NP-OB1 (PRO-A tey))
 				   (PP (P í)
 				       (NP (N-A Eld<dash/>Ovn$) (D-A $in)))))
-	      (. ;-;)))
+	      (. ;-;)) (ID 1823.NTMATT.REL-BIB,.836))
 
 ( (IP-MAT-SPE (ADVP-LOC (ADV har))
 	      (MDPI skal)
 	      (BE vera)
 	      (NP-SBJ (N-N Grátur) (CONJ og) (N-N Tannabit))
-	      (. .-.)))
+	      (. .-.)) (ID 1823.NTMATT.REL-BIB,.837))
 
 ( (IP-MAT (CODE VS:XIII_51M)
 	  (NP-SBJ (NPR-N Jesus))
@@ -13673,7 +13673,7 @@
 	  (CP-QUE-SPE (IP-SUB-SPE (VBDI forstóðu)
 				  (NP-SBJ (PRO-N Tit))
 				  (NP-OB1 (D-A hetta) (Q+ADJ-A altsamalt))))
-	  (. ?-?)))
+	  (. ?-?)) (ID 1823.NTMATT.REL-BIB,.838))
 
 ( (IP-MAT (NP-SBJ (PRO-N Teir))
 	  (VBDI sögdu)
@@ -13683,7 +13683,7 @@
 	  (QTP (INTJ ja)
 	       (, ,-,)
 	       (NP (NPR-N Harri)))
-	  (. !-!)))
+	  (. !-!)) (ID 1823.NTMATT.REL-BIB,.839))
 
 ( (IP-MAT (CODE VS:XIII_52M)
 	  (CONJ Men)
@@ -13735,7 +13735,7 @@
 																		(NP *T*-5))))))))
 										    (, ,-,)
 										    (NP-OB1 (ADJ-A Nýtt) (CONJ og) (ADJ-A Gamalt)))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.840))
 
 ( (IP-MAT (CODE VS:XIII_53M)
 	  (CONJ Og)
@@ -13759,7 +13759,7 @@
 				(VBDI dró)
 				(ADVP-DIR (ADV burtur))
 				(ADVP-DIR (ADV haðani))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.841))
 
 ( (IP-MAT (CODE VS:XIII_54M)
 	  (CONJ Og)
@@ -13768,7 +13768,7 @@
 	  (PP (P í)
 	      (NP (N-A Föðipláss)
 		  (NP-POS (PRO-A sítt))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.842))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -13777,12 +13777,12 @@
 	  (PP (P í)
 	      (NP (NS-D Synagógum)
 		  (NP-POS (PRO-G teirra))))
-	  (. ,-,)))
+	  (. ,-,)) (ID 1823.NTMATT.REL-BIB,.843))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ (PRO-N tey))
 	  (VBDI undraðust)
-	  (ADVP (ADV stórliga))))
+	  (ADVP (ADV stórliga))) (ID 1823.NTMATT.REL-BIB,.844))
 
 ( (IP-MAT (CONJ og)
 	  (NP-SBJ *con*)
@@ -13795,7 +13795,7 @@
 				  (NP-OB1 (NP (ADJ-A sovorðnan) (N-A Vísdóm))
 					  (CONJP (CONJ og)
 						 (NP (D-A hesa) (ADJ-A mætu) (NS-A Gjörningar))))))
-	  (. ?-?)))
+	  (. ?-?)) (ID 1823.NTMATT.REL-BIB,.845))
 
 ( (CP-QUE-SPE (CODE VS:XIII_55M)
 	      (IP-SUB-SPE (BEPI Er)
@@ -13803,7 +13803,7 @@
 			  (NEG ikki)
 			  (NP-PRD (N-N Sonur)
 				  (NP-POS (N-G Timburmann$) (D-G $ins))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.846))
 
 ( (CP-QUE-SPE (IP-SUB-SPE (IP-SUB-SPE-1 (VBPI Eitur)
 					(NEG ikki)
@@ -13815,7 +13815,7 @@
 				 (IP-SUB-SPE=1 (NP-SBJ (NS-N Beiggjar)
 						       (NP-POS (PRO-G hansara)))
 					       (NP-PRD (NPR-N Jákup) (CONJ og) (NPR-N Jósef) (CONJ og) (NPR-N Símun) (CONJ og) (NPR-N Júdas))))
-			  (. ?-?))))
+			  (. ?-?))) (ID 1823.NTMATT.REL-BIB,.847))
 
 ( (CP-QUE-SPE (CODE VS:XIII_56M)
 	      (CONJ Og)
@@ -13826,7 +13826,7 @@
 				  (NP-POS (PRO-G hansara)))
 			  (PP (P hjá)
 			      (NP (PRO-D okkum))))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.848))
 
 ( (CP-QUE-SPE (WADVP-1 (WADV Hvaðani))
 	      (IP-SUB-SPE (ADVP *T*-1)
@@ -13834,7 +13834,7 @@
 			  (NP-SBJ (D-N hesin))
 			  (ADVP-TMP (ADV tá))
 			  (NP-OB1 (D-A hetta) (Q-A alt)))
-	      (. ?-?)))
+	      (. ?-?)) (ID 1823.NTMATT.REL-BIB,.849))
 
 ( (IP-MAT (CODE VS:XIII_57M)
 	  (CONJ Og)
@@ -13842,7 +13842,7 @@
 	  (VBDI forargaðust)
 	  (PP (P á)
 	      (NP (PRO-A hann)))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.850))
 
 ( (IP-MAT (CONJ Men)
 	  (NP-SBJ (NPR-N Jesus))
@@ -13861,7 +13861,7 @@
 				     (PP (P í)
 					 (NP (N-D Húsi)
 					     (NP-POS (PRO-D sínum))))))))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.851))
 
 ( (IP-MAT (CODE VS:XIII_58M)
 	  (CONJ Og)
@@ -13874,4 +13874,5 @@
 	  (NEG ikki)
 	  (ADVP-LOC (ADV har))
 	  (NP-OB1 (Q-A mangar) (ADJ-A mætar) (NS-A Gjörningar))
-	  (. .-.)))
+	  (. .-.)) (ID 1823.NTMATT.REL-BIB,.852))
+
