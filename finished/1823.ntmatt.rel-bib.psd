@@ -1727,9 +1727,8 @@
   (ID 1823.NTMATT.REL-BIB,.111))
 
 ( (IP-MAT (CONJ og)
-	  (CODE *TTT*)
 	  (PP (P til)
-	      (NP (N-G Matna)))
+	      (NP (N-G Matnar)))
 	  (HVDI hevði)
 	  (NP-SBJ (PRO-N hann))
 	  (NP-OB1 (NP (NS-A Grashoppar))
