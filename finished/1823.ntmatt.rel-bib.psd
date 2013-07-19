@@ -1,4 +1,3 @@
-
 ( (META (CODE <heading>)
 	(NP (NPR-N Evangelium)
 	    (NP-POS (NPR-G Sankta) (NPR-G Mathæussa)))
@@ -2673,7 +2672,7 @@
 	  (NP-OB1 (NUM-A tveir)
 		  (NS-A Beiggjar)
 		  (, ,-,)
-		  (NP-PRN (NP (NPR-A Símin)
+		  (NP-PRN (NP (NPR-A Símun)
 			      (, ,-,)
 			      (CP-REL (WNP-2 0)
 				      (C sum)
