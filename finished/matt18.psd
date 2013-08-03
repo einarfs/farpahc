@@ -641,7 +641,7 @@
 									(VB biðja)
 									(, ,-,)
 									(PP (P um)
-									    (CP-FRL-SPE (WNP-2 (WPRO-A hvat) (N-A Lut))
+									    (CP-FRL-SPE (WNP-2 (WD-A hvat) (N-A Lut))
 											(IP-SUB-SPE (CODE *XXX*)
 												    (NP-PRD *T*-2)
 												    (ADVP (ADV enn))
