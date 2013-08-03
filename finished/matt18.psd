@@ -642,6 +642,7 @@
 									(, ,-,)
 									(PP (P um)
 									    (CP-FRL-SPE (WNP-2 (WD-A hvat) (N-A Lut))
+											(C 0)
 											(IP-SUB-SPE (CODE *XXX*)
 												    (NP-PRD *T*-2)
 												    (ADVP (ADV enn))
