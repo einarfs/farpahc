@@ -37,8 +37,9 @@ mv -f $FILE.out $FILE
 python3 "scripts/rm-lemmata.py" $FILE > $FILE.out
 mv -f $FILE.out $FILE
 
+python scripts/removeindex.py $FILE > $FILE.out
+mv -f $FILE.out $FILE
+
 mv -f $FILE $2
 
 grep -a12 "WARNING" problemfile.txt
-
-python scripts/removeindex.py raw_corpus/farpahc01.psd > test.txt
