@@ -41,3 +41,4 @@ mv -f $FILE $2
 
 grep -a12 "WARNING" problemfile.txt
 
+python scripts/removeindex.py raw_corpus/farpahc01.psd > test.txt
