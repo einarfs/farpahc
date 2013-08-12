@@ -4,7 +4,7 @@
 directory = 'trainingcorpus/'
 cprefix = 'far_'
 
-inputfile = open('testinput1.psd','r').read()
+inputfile = open('raw_corpus/farpahc01.psd','r').read()
 tokens = inputfile.split('\n\n')
 
 for splitset in range(0,10):
