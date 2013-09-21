@@ -12,7 +12,7 @@ time_report="grammars/far"${split}"time.txt"
 echo $training_file
 
 # train parser
-java -Xmx2048M -cp ../../BerkeleyParser-1.7.jar edu.berkeley.nlp.PCFGLA.GrammarTrainer -path $training_file -out $grammar_file -treebank SINGLEFILE > $trainingreport
+java -Xmx2048M -cp ../../BerkeleyParser-1.7.jar edu.berkeley.nlp.PCFGLA.GrammarTrainer -path $training_file -out $grammar_file -treebank SINGLEFILE > $training_report
 
 end=$(date +%s)
 diff=$(( $end - $start ))
