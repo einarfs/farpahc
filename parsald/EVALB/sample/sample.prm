@@ -50,6 +50,8 @@ DELETE_LABEL ;
 DELETE_LABEL ``
 DELETE_LABEL ''
 
+##ignore list does not contain ? or ?-? because these are not tags
+
 ##------------------------------------------##
 ## Delete labels for length calculation     ##
 ##    list of labels to be ignored for      ##
