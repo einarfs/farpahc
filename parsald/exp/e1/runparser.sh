@@ -9,7 +9,7 @@ grammar_file="grammars/far"${split}".gr"
 input_file="corpus/far_split"${split}"testing.txt"
 output_file=$"output/far_split"${split}"machineparsed.psd"
 
-# train parser
+# run parser
 java -jar ../../BerkeleyParser-1.7.jar -gr $grammar_file -inputFile $input_file -outputFile $output_file
 
 end=$(date +%s)
