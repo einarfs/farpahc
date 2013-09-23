@@ -1,0 +1,6 @@
+farpahc01.psd and icepahc09.psd should not contain:
+-- indexes `-' and `='
+-- 0
+-- empty categories: *con*, *exp*, *arb*, *exp*
+-- traces: *T* and *ICH*
+-- lemmas
