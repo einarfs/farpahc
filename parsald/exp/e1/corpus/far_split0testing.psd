@@ -1,20 +1,20 @@
-( (META (NP (NPR*N Evangelium)
+(TOP (META (NP (NPR*N Evangelium)
 	    (NP*POS (NPR*G Sankta) (NPR*G Mathæussa)))
 	(. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (NPR*N Aminadab))
 	  (VBDI átti)
 	  (NP*OB1 (NPR*A Násson))
 	  (. ;)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (NPR*N Asa))
 	  (VBDI átti)
 	  (NP*OB1 (NPR*A Jósafat))
 	  (. ;)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (PP (P eftir)
 	      (NP (D*A tann) (ADJ*A Babylóniska) (N*A Útlagnan)))
 	  (VBDI átti)
@@ -22,13 +22,13 @@
 	  (NP*OB1 (NPR*A Salathiel))
 	  (. ;)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (NPR*N Matthan))
 	  (VBDI átti)
 	  (NP*OB1 (NPR*A Jákup))
 	  (. ;)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (NP*SBJ (PRO*N tú))
 	      (MDPI skal)
 	      (VB nevna)
@@ -48,7 +48,7 @@
 							  (NP*POS (PRO*G teirra))))))))
 	      (. .)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (ADVP*TMP*LFD (ADV tá$)
 			(CP*REL (C $ið)
 				(IP*SUB (NP*SBJ (NPR*N Heródis)
@@ -66,7 +66,7 @@
 				 (NP (PRO*D honum))))))
 	  (. ;)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (IP*IMP*PRN (VBI sí))
 	  (, ,)
 	  (NP*SBJ (N*N Stjörn$)
@@ -100,13 +100,13 @@
 								       (BEDI var))))))))))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI segði)
 	  (, :)
 	  (IP*IMP*SPE (VBI Statt) (RP upp))
 	  (. ,)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI læt)
 	  (IP*INF (VB sláa)
 		  (PP (P í$)
@@ -144,7 +144,7 @@
 						      (NP (D*D teim) (ADJ*D Vísu)))))))))
 	  (. .)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (ADVP*TMP (ADV tá$)
 		    (CP*REL (C $ið)
 			    (IP*SUB (NP*SBJ (PRO*N hann))
@@ -170,7 +170,7 @@
 		      (ADVP*LOC (ADV har))))
 	  (. ;)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (NPR*N Jóhannes))
 	  (HVDI hevði)
 	  (NP*OB1 (NP (N*A Klædnað)
@@ -185,7 +185,7 @@
 					 (NS*A Lendar))))))
 	  (. ;)))
 
-( (IP*MAT*SPE (NP*SBJ (PRO*N Eg))
+(TOP (IP*MAT*SPE (NP*SBJ (PRO*N Eg))
 	      (VBPI dópi)
 	      (ADVP (ADV væl))
 	      (NP*OB1 (PRO*A Tykkum))
@@ -195,14 +195,14 @@
 		  (NP (N*A Batning)))
 	      (. ,)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (NP*SBJ (PRO*N Tú))
 	      (VBPI kemur)
 	      (PP (P til)
 		  (NP (PRO*G míns)))
 	      (. !-!)))
 
-( (IP*MAT (ADVP*TMP (ADV Tá))
+(TOP (IP*MAT (ADVP*TMP (ADV Tá))
 	  (LBDI bleiv)
 	  (NP*SBJ (NPR*N Jesus))
 	  (VAN fördur)
@@ -217,7 +217,7 @@
 			     (NP (NPR*D Devl$) (D*D $inum))))
 	  (. .)))
 
-( (IP*MAT (ADVP*TMP (ADV Tá))
+(TOP (IP*MAT (ADVP*TMP (ADV Tá))
 	  (VBDI segði)
 	  (NP*SBJ (NPR*N Jesus))
 	  (PP (P við)
@@ -238,9 +238,9 @@
 						  (NP*POS (PRO*A tín))))))
 	  (. .)))
 
-( (IP*MAT (CONJ og) (VBDI kom)))
+(TOP (IP*MAT (CONJ og) (VBDI kom)))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (CP*ADV (C sum)
 		  (IP*SUB (NP*SBJ (PRO*N hann))
 			  (VBDI gekk)
@@ -276,14 +276,14 @@
 				  (NP*POS (PRO*A sína)))))
 	  (. ;)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (PRO*N hann))
 	  (DODI gjördi)
 	  (IP*SMC (NP*SBJ (PRO*A tey))
 		  (ADJP (ADJ*A heilbrigð)))
 	  (. .)))
 
-( (IP*MAT*SPE (ADJP (ADJ*N Sálir))
+(TOP (IP*MAT*SPE (ADJP (ADJ*N Sálir))
 	      (BEPI eru)
 	      (NP*SBJ (PRO*N tey)
 		      (, ,)
@@ -298,13 +298,13 @@
 						  (VB mettast)))))
 	      (. .)))
 
-( (IP*MAT*SPE (NP*SBJ (PRO*N Tit))
+(TOP (IP*MAT*SPE (NP*SBJ (PRO*N Tit))
 	      (BEPI eru)
 	      (NP*PRD (NP*POS (N*A Verð$) (D*A $ina))
 		      (N*N Ljós))
 	      (. ;)))
 
-( (IP*MAT*SPE (NP*SBJ (PRO*N Tit))
+(TOP (IP*MAT*SPE (NP*SBJ (PRO*N Tit))
 	      (HVPI hava)
 	      (VBN hoyrt)
 	      (, ,)
@@ -322,7 +322,7 @@
 						      (NP (N*A $hel))))))
 	      (. ,)))
 
-( (IP*IMP*SPE (BEI Ver)
+(TOP (IP*IMP*SPE (BEI Ver)
 	      (ADVP*TMP (ADV skjótt))
 	      (ADJP (ADJ*N góðsligur))
 	      (PP (NP (N*D móti)
@@ -360,7 +360,7 @@
 							     (NP (N*A Fongsil)))))))
 	      (. .)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (NP*LFD (CP*FRL*SPE (WNP (WPRO*N hvör))
 				  (C ið)
 				  (IP*SUB*SPE (VBPI tekur)
@@ -373,7 +373,7 @@
 	      (NP*OB1 (N*A Hor))
 	      (. .)))
 
-( (IP*MAT*SPE (CONJ Og)
+(TOP (IP*MAT*SPE (CONJ Og)
 	      (CP*ADV*SPE (IP*SUB*SPE (IP*SUB*SPE (MDPI vil)
 						    (NP*SBJ (Q*N nakar))
 						    (VB fara)
@@ -394,7 +394,7 @@
 			  (RP við))
 	      (. .)))
 
-( (CP*QUE*SPE (CONJ Og)
+(TOP (CP*QUE*SPE (CONJ Og)
 	      (PP (P um)
 		  (CP*ADV*SPE (IP*SUB*SPE (NP*SBJ (PRO*N Tit))
 					  (VBPI heilsa)
@@ -408,7 +408,7 @@
 			  (ADVP*TMP (ADV tá)))
 	      (. ?-?)))
 
-( (IP*IMP*SPE (CONJ Men)
+(TOP (IP*IMP*SPE (CONJ Men)
 	      (ADVP*TMP (ADV nær$)
 			(CP*REL*SPE (C $ið)
 				    (IP*SUB*SPE (NP*SBJ (PRO*N tú))
@@ -422,7 +422,7 @@
 		      (NP*POS (PRO*A títt))))
 	      (. ,)))
 
-( (IP*IMP*SPE (CONJ Og)
+(TOP (IP*IMP*SPE (CONJ Og)
 	      (VBI forlát)
 	      (NP*OB2 (PRO*D okkum))
 	      (NP*OB1 (NP*POS (PRO*G okkara))
@@ -435,7 +435,7 @@
 					      (NP*POS (PRO*G okkara)))))
 	      (. !-!)))
 
-( (IP*MAT*SPE (CONJ men)
+(TOP (IP*MAT*SPE (CONJ men)
 	      (NP*SBJ (NP (N*N Faðir)
 			  (NP*POS (PRO*N tín))
 			  (, ,)
@@ -459,7 +459,7 @@
 	      (ADVP (ADV opinberliga))
 	      (. .)))
 
-( (CP*QUE*SPE (IP*SUB*SPE (IP*SUB*SPE (BEPI Er)
+(TOP (CP*QUE*SPE (IP*SUB*SPE (IP*SUB*SPE (BEPI Er)
 					(NEG ikki)
 					(NP*SBJ (N*N Lív$) (D*N $ið))
 					(ADJP (QR*N Meiri)
@@ -473,12 +473,12 @@
 							 (CP*CMP*SPE (IP*SUB*SPE (NP*SBJ (NS*N Klæð$) (D*N $ini)))))))))
 	      (. ?-?)))
 
-( (IP*MAT*SPE (NP*SBJ (PRO*D tær))
+(TOP (IP*MAT*SPE (NP*SBJ (PRO*D tær))
 	      (VBPI arbeiða)
 	      (NEG ikki)
 	      (. ,)))
 
-( (IP*IMP*SPE (VBI Dömið)
+(TOP (IP*IMP*SPE (VBI Dömið)
 	      (NEG ikki)
 	      (, ,)
 	      (CP*ADV*SPE (C at)
@@ -513,13 +513,13 @@
 								     (ADVP*TMP (ADV aftur))))))))
 	      (. .)))
 
-( (IP*MAT*SPE (ADVP*TMP (ADV so))
+(TOP (IP*MAT*SPE (ADVP*TMP (ADV so))
 	      (MDPI skal)
 	      (VB gevast)
 	      (NP*SBJ (PRO*D Tykkum))
 	      (. ;)))
 
-( (QTP (PP (NP (PRO*D Tí$)
+(TOP (QTP (PP (NP (PRO*D Tí$)
 	       (CP*THT*SPE*PRN (IP*IMP*SPE (ADVP*TMP (ADV $tá))
 					   (, ,)
 					   (NP*LFD (Q*A Alt)
@@ -551,7 +551,7 @@
 											      (NP (NS*N Profet$) (D*N $unar))))))))))))
        (. .)))
 
-( (IP*MAT*SPE (IP*MAT*SPE (NP*SBJ (Q*N Hvört)
+(TOP (IP*MAT*SPE (IP*MAT*SPE (NP*SBJ (Q*N Hvört)
 				    (N*N Træ)
 				    (, ,)
 				    (CP*REL*SPE (C sum)
@@ -568,12 +568,12 @@
 				       (NP (N*A Eld$) (D*A $in)))))
 	      (. .)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (NP (N*N Vanlóp))
 	      (VBDI komu)
 	      (. ,)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (NP*SBJ (N*N Fall$)
 		      (D*N $ið)
 		      (NP*POS (PRO*G tess)))
@@ -581,11 +581,11 @@
 	      (ADJP (ADJ*N stórt))
 	      (. .)))
 
-( (IP*IMP*SPE (BEI ver)
+(TOP (IP*IMP*SPE (BEI ver)
 	      (ADJP (ADJ*N reinur))
 	      (. !-!)))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (NP*SBJ (NPR*N Jesus))
 	  (VBDI segði)
 	  (PP (P við)
@@ -600,7 +600,7 @@
 						       (ADJP (ADJ*A heilbrigðan))))))
 	  (. .)))
 
-( (IP*MAT*SPE (CONJ Men)
+(TOP (IP*MAT*SPE (CONJ Men)
 	      (NP*SBJ (PRO*N Eg))
 	      (VBPI sigi)
 	      (NP*OB2 (PRO*D Tykkum))
@@ -623,12 +623,12 @@
 								   (NPR*D Ríki)))))))
 	      (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (PRO*N hon))
 	  (VBDI stóð)
 	  (RP upp)))
 
-( (IP*MAT (CONJ men)
+(TOP (IP*MAT (CONJ men)
 	  (NP*SBJ (NP*POS (N*G Menniskja$) (D*G $ns))
 		  (N*N Sonur))
 	  (HVPI hevur)
@@ -644,7 +644,7 @@
 					  (PP (ADV aftur$) (P $at)))))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI sögdu)
 	  (, :)
 	  (IP*IMP*SPE (NP*VOC (NPR*N Harri))
@@ -653,18 +653,18 @@
 		      (NP*OB1 (PRO*D okkum)))
 	  (. !-!)))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (IP*IMP*PRN (VBI sí))
 	  (, ,)
 	  (NP*SBJ (PRO*N teir))
 	  (VBDI róptu)
 	  (. ,)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (NS*N Hirðar$) (D*N $nir))
 	  (VBDI fluttu)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (ADVP*TMP (ADV tá$)
 		    (CP*REL (C $ið)
 			    (IP*SUB (NP*SBJ (NPR*N Jesus))
@@ -684,7 +684,7 @@
 		      (ADJP (ADJ*N frímóðigur)))
 	  (. ,)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (ADVP*TMP (ADV tá)
 		    (CP*REL (C ið)
 			    (IP*SUB (NP*SBJ (N*N Fólk$) (D*N $ið))
@@ -696,7 +696,7 @@
 	  (NP*OB1 (PRO*A seg))
 	  (. ,)))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (ADVP*TMP (ADV tá$)
 		    (CP*REL (C $ið)
 			    (IP*SUB (NP*SBJ (NPRS*N Farisear$) (D*N $nir))
@@ -718,13 +718,13 @@
 				      (NP (NS*D Tollarum) (CONJ og) (NS*D Syndarum)))))
 	  (. ?-?)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (ADVP*TMP (ADV tá))
 	      (MDPI skula)
 	      (NP*SBJ (PRO*N teir))
 	      (VB fasta)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI segði)
 	  (, :)
 	  (IP*MAT*SPE (NP*SBJ (N*N Dóttir)
@@ -734,14 +734,14 @@
 		      (ADJP (ADJ*N deyð)))
 	  (. ;)))
 
-( (IP*MAT*SPE (NP*SBJ (N*N Trúgv)
+(TOP (IP*MAT*SPE (NP*SBJ (N*N Trúgv)
 		      (NP*POS (PRO*N tín)))
 	      (HVPI hevur)
 	      (VBN frelst)
 	      (NP*OB1 (PRO*A teg))
 	      (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (NPR*N Jesus))
 	  (VBPI sigur)
 	  (PP (P við)
@@ -756,13 +756,13 @@
 							  (NP*OB1 (D*A hetta))))))
 	  (. ?-?)))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (NP*SBJ (N*N Fólk$) (D*N $ið))
 	  (VBDI undraði)
 	  (NP*OB1 (PRO*A seg))
 	  (. ,)))
 
-( (IP*IMP*SPE (VBI Biðið)
+(TOP (IP*IMP*SPE (VBI Biðið)
 	      (PP (NP (PRO*D tí)))
 	      (NP*OB2 (NP*POS (N*G Vinnings))
 		      (N*A Ognarmann$)
@@ -777,7 +777,7 @@
 					      (NP*POS (PRO*A Sín))))))
 	      (. .)))
 
-( (IP*IMP*SPE (CONJ og)
+(TOP (IP*IMP*SPE (CONJ og)
 	      (VBI gangið)
 	      (NEG ikki)
 	      (PP (RP inn)
@@ -786,7 +786,7 @@
 		      (N*A Stað)))
 	      (. .)))
 
-( (IP*MAT*SPE (IP*MAT*SPE (NP*SBJ (PRO*N Tit))
+(TOP (IP*MAT*SPE (IP*MAT*SPE (NP*SBJ (PRO*N Tit))
 			    (MDPI skulu)
 			    (NEG ikki)
 			    (HV hava)
@@ -829,7 +829,7 @@
 									     (ADJ*N verdur))))))))
 	      (. .)))
 
-( (IP*IMP*SPE (IP*IMP*SPE (BEI verið)
+(TOP (IP*IMP*SPE (IP*IMP*SPE (BEI verið)
 			    (PP (NP (PRO*D tí)))
 			    (ADJP (ADJ*N snúgvnir))
 			    (CP*ADV*SPE (C sum)
@@ -841,7 +841,7 @@
 					       (IP*SUB*SPE (NP*SBJ (NS*N Dúgvur))))))
 	      (. .)))
 
-( (IP*MAT (NP*SBJ (PRO*N Tað))
+(TOP (IP*MAT (NP*SBJ (PRO*N Tað))
 	  (BEPI er)
 	  (NP*PRD (NP*MSR (Q*N Nógv$))
 		  (Q*N $mikið))
@@ -862,12 +862,12 @@
 											     (NP*POS (PRO*G hansara)))))))))
 	  (. ;)))
 
-( (IP*IMP*SPE (VBI Óttist)
+(TOP (IP*IMP*SPE (VBI Óttist)
 	      (PP (NP (PRO*D tí)))
 	      (NEG ikki)
 	      (. ;)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (NP*SBJ (Q*N hvör)
 		      (, ,)
 		      (CP*REL*SPE (C sum)
@@ -883,7 +883,7 @@
 	      (NP*OB1 (PRO*A tað))
 	      (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI lat)
 	  (IP*INF (VB siga)
 		  (PP (P við)
@@ -897,14 +897,14 @@
 							      (IP*SUB*SPE (VB koma) (MDDS skyldi)))))))
 	  (. ,)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (NP*SBJ (NPR*N Evangelium))
 	      (VBPI prædikast)
 	      (PP (P fyri)
 		  (NP (ADJ*D Fátækum)))
 	      (. ;)))
 
-( (IP*MAT*SPE (CONJ men)
+(TOP (IP*MAT*SPE (CONJ men)
 	      (NP*SBJ (D*N tann)
 		      (QS*N minsti)
 		      (PP (P í)
@@ -916,7 +916,7 @@
 			(CP*CMP*SPE (IP*SUB*SPE (NP*SBJ (PRO*N hann))))))
 	      (. .)))
 
-( (QTP (PP (NP (PRO*D Tí)
+(TOP (QTP (PP (NP (PRO*D Tí)
 	       (CP*THT*SPE*PRN (IP*SUB*SPE (NP*SBJ (NPR*N Jóhannes))
 					   (VBDI kom)
 					   (, ,)
@@ -924,14 +924,14 @@
 							 (IP*SUB*SPE (VBDI (CONJ hvörki) (VBDI át) (CONJ ella) (VBDI drakk))))))))
        (. ,)))
 
-( (IP*MAT (PP (P Um)
+(TOP (IP*MAT (PP (P Um)
 	      (NP (D*A tað) (ADJ*A somu) (N*A Tíð)))
 	  (VBDI breyt)
 	  (NP*SBJ (NPR*N Jesus))
 	  (RP út)
 	  (. ,)))
 
-( (IP*MAT*SPE (ADVP (ADV so))
+(TOP (IP*MAT*SPE (ADVP (ADV so))
 	      (MDPI skulu)
 	      (NP*SBJ (PRO*N Tit))
 	      (VB finna)
@@ -953,14 +953,14 @@
 								     (ADJP (ADJ*N löt))))))))
 	      (. .)))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (NP*SBJ (PRO*N hann))
 	  (VBDI gekk)
 	  (RP fram)
 	  (ADVP*DIR (ADV haðani))
 	  (. ,)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (PRO*N hon))
 	  (LBDI bleiv)
 	  (ADJP (ADJ*N frísk))
@@ -968,7 +968,7 @@
 	  (CP*ADV (C sum)
 		  (IP*SUB (NP*SBJ (D*N hin) (OTHER*N onnur) (N*N Hond$) (D*N $in))))))
 
-( (IP*MAT*SPE (IP*MAT*SPE (NP*SBJ (PRO*N Hann))
+(TOP (IP*MAT*SPE (IP*MAT*SPE (NP*SBJ (PRO*N Hann))
 			    (MDPI skal)
 			    (NEG ikki)
 			    (VB bróta)
@@ -994,7 +994,7 @@
 								   (P til)
 								   (NP (N*A Sigur))))))))))
 
-( (CP*QUE*SPE (CONJ Og)
+(TOP (CP*QUE*SPE (CONJ Og)
 	      (PP (P um)
 		  (CP*ADV*SPE (IP*SUB*SPE (NP*SBJ (PRO*N Eg))
 					  (VBPI drívi)
@@ -1013,7 +1013,7 @@
 			  (RP út))
 	      (. ?-?)))
 
-( (IP*MAT*SPE (CONJ men)
+(TOP (IP*MAT*SPE (CONJ men)
 	      (NP*LFD (Q*D hvörjum)
 		      (CP*REL*SPE (C ið)
 				  (IP*SUB*SPE (VBPI talar)
@@ -1037,7 +1037,7 @@
 			     (NP (PRO*D tí) (VAG tilkomandi)))))
 	      (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI segði)
 	  (PP (P við)
 	      (NP (PRO*A teir)))
@@ -1050,7 +1050,7 @@
 		      (NP*OB1 (N*A Tekin)))
 	  (. ,)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (ADVP*TMP (ADV tá)
 			(CP*REL*SPE (C ið)
 				    (IP*SUB*SPE (NP*SBJ (PRO*N hann))
@@ -1062,11 +1062,11 @@
 			  (VAN*A (VAN*A oyðað) (, ,) (VAN*A feiað) (CONJ og) (VAN*A prýðað)))
 	      (. .)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (PRO*N hann))
 	  (VBDI svaraði)))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (NP*SBJ (PRO*N hann))
 	  (VBDI talaði)
 	  (NP*OB1 (Q*A mangt))
@@ -1076,13 +1076,13 @@
 	      (NP (NS*D Líknilsum)))
 	  (. ,)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (NP*SBJ (NS*N Tornar$) (D*N $nir))
 	      (VBDI vuksu)
 	      (RP upp)
 	      (. ,)))
 
-( (IP*MAT*SPE (CONJ men)
+(TOP (IP*MAT*SPE (CONJ men)
 	      (NP*SBJ (PRO*D teimum))
 	      (BEPI er)
 	      (NP*OB1 (PRO*N tað))
@@ -1099,7 +1099,7 @@
 						  (VB gevast)))))
 	      (. ,)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (VBPI rívur)
 	      (NP*OB1 (PRO*A tað))
 	      (ADVP*DIR (ADV burtur))
@@ -1112,7 +1112,7 @@
 						(NP*POS (PRO*G hansara))))))
 	      (. ;)))
 
-( (IP*MAT (NP*OB1 (ONE*A Eitt) (OTHER*A annað) (N*A líknilsi))
+(TOP (IP*MAT (NP*OB1 (ONE*A Eitt) (OTHER*A annað) (N*A líknilsi))
 	  (VBDI rak)
 	  (NP*SBJ (PRO*N hann))
 	  (PP (RP fram)
@@ -1120,7 +1120,7 @@
 	      (NP (PRO*A teir)))
 	  (. ,)))
 
-( (IP*MAT*SPE (ADVP*TMP (ADV Tá))
+(TOP (IP*MAT*SPE (ADVP*TMP (ADV Tá))
 	      (VBDI sögdu)
 	      (NP*SBJ (NS*N Tjenar$) (D*N $nir))
 	      (PP (P við)
@@ -1141,7 +1141,7 @@
 										       (P úr))))))))
 	      (. .)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (LBPI blívur)
 	      (PP (P til)
 		  (NP (ONE*A eitt) (N*A Træ)))
@@ -1162,7 +1162,7 @@
 									 (NP (PRO*D tí))))))))))
 	      (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI segði)
 	  (PP (P við)
 	      (NP (PRO*A teir)))
@@ -1178,7 +1178,7 @@
 			      (N*N Sonur)))
 	  (. .)))
 
-( (IP*MAT*SPE (CONJ Og)
+(TOP (IP*MAT*SPE (CONJ Og)
 	      (NP*SBJ (PRO*N teir))
 	      (MDPI skulu)
 	      (VB kasta)
@@ -1187,7 +1187,7 @@
 		  (NP (N*A Eld<dash/>Ovn$) (D*A $in)))
 	      (. ;)))
 
-( (IP*MAT*SPE (CONJ Men)
+(TOP (IP*MAT*SPE (CONJ Men)
 	      (ADVP*TMP (ADV tá)
 			(CP*REL*SPE (C ið)
 				    (IP*SUB*SPE (NP*SBJ (PRO*N hon))
@@ -1202,7 +1202,7 @@
 		  (NP (N*A Fjör$) (D*A $una)))
 	      (. ,)))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (NP*SBJ (PRO*N tað))
 	  (VBDI bar)
 	  (ADVP*TMP (ADV tá))
@@ -1222,7 +1222,7 @@
 				(ADVP*DIR (ADV haðani))))
 	  (. .)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (NPR*N Jesus))
 	  (VBDI segði)
 	  (PP (P við)
@@ -1241,7 +1241,7 @@
 					     (NP*POS (PRO*D sínum))))))))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (ONE*N eitt) (N*N skýggj))
 	  (VBDI tók)
 	  (NP*OB1 (PRO*A hann))
@@ -1251,13 +1251,13 @@
 		  (NP*POS (PRO*G teirra))))
 	  (. .)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (NP*SBJ (PRO*N hann))
 	      (VBDI stoyttist)
 	      (PP (P eftir)
 		  (NP (N*D hövd$) (D*D $inum)))))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (NP*SBJ (PRO*N teir))
 	  (VBDI kastaðu)
 	  (NP*OB1 (N*A lut))
@@ -1265,7 +1265,7 @@
 	      (NP (PRO*A teir)))
 	  (. ,)))
 
-( (IP*MAT (ADVP*TMP (ADV Tá)
+(TOP (IP*MAT (ADVP*TMP (ADV Tá)
 		    (CP*REL (C ið)
 			    (IP*SUB (ADVP*TMP (ADV nú))
 				    (NP*SBJ (D*N hetta) (N*N ljóð$) (D*N $ið))
@@ -1276,11 +1276,11 @@
 	  (ADVP (ADV saman))
 	  (. ,)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (OTHERS*N aðrir))
 	  (VBDI spottaðu)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (NP*SBJ (NS*N ungmenni)
 		      (NP*POS (PRO*G tykkara)))
 	      (MDPI skulu)
@@ -1288,14 +1288,14 @@
 	      (NP*OB1 (NS*A sjónir))
 	      (. ,)))
 
-( (IP*MAT*SPE (PP (ADVP (ADV Har$))
+(TOP (IP*MAT*SPE (PP (ADVP (ADV Har$))
 		  (P $fyri))
 	      (VBDI gleddist)
 	      (NP*SBJ (N*N hjarta)
 		      (NP*POS (PRO*N mítt)))
 	      (, ,)))
 
-( (IP*MAT*SPE (CONJ men)
+(TOP (IP*MAT*SPE (CONJ men)
 	      (NP*SBJ (PRO*N hann))
 	      (VBPI sigur)
 	      (NP*PRN (PRO*N sjálvur))
@@ -1327,7 +1327,7 @@
 	      (. .)
 	      (" ")))
 
-( (IP*MAT (NP*SBJ (PRO*N Tey)
+(TOP (IP*MAT (NP*SBJ (PRO*N Tey)
 		  (, ,)
 		  (CP*REL (C sum)
 			  (IP*SUB*SPE (ADVP*TMP (ADV nú))
@@ -1340,14 +1340,14 @@
 	  (VAN doypt)
 	  (. ,)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI brutu)
 	  (NP*OB1 (N*A breyð$) (D*A $ið))
 	  (ADVP*LOC (ADV heima))
 	  (PP (P við)
 	      (NP (N*A hús)))))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI segði)
 	  (, :)
 	  (" ")
@@ -1358,15 +1358,15 @@
 	  (. !-!)
 	  (" ")))
 
-( (IP*MAT (CONJ og) (VBDI stóð)))
+(TOP (IP*MAT (CONJ og) (VBDI stóð)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (PRO*N tey))
 	  (BEDI vóru)
 	  (ADJP (ADV heilt) (ADJ*N óttafull))
 	  (. .)))
 
-( (IP*MAT*SPE (CONJ Og)
+(TOP (IP*MAT*SPE (CONJ Og)
 	      (ADVP*TMP (ADV nú))
 	      (VBPI veit)
 	      (NP*SBJ (PRO*N eg))
@@ -1386,7 +1386,7 @@
 										(NP*POS (PRO*G tykkara)))))))))
 	      (. .)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	    (PP (P meðan)
 		(CP*ADV (IP*SUB (NP*SBJ (PRO*N teir))
 				(VBDI talaðu)
@@ -1425,7 +1425,7 @@
 									       (NP (ADJ*D deyðum))))))))))))
 	    (. .)))
 
-( (IP*MAT*SPE (CONJ Og)
+(TOP (IP*MAT*SPE (CONJ Og)
 	      (NEG ikki)
 	      (BEPI er)
 	      (NP*SBJ (N*N frelsa))
@@ -1454,13 +1454,13 @@
 	      (. .)
 	      (" ")))
 
-( (IP*MAT (ADVP*TMP (ADV So))
+(TOP (IP*MAT (ADVP*TMP (ADV So))
 	  (VBDI kallaðu)
 	  (NP*SBJ (PRO*N teir))
 	  (NP*OB1 (PRO*A teir))
 	  (RP inn)))
 
-( (QTP (NP (PRO*N tú)
+(TOP (QTP (NP (PRO*N tú)
 	   (CP*REL*SPE (C sum)
 		       (IP*SUB*SPE (PP (P við)
 				       (NP (ADJ*D heilagum) (N*D anda)))
@@ -1489,7 +1489,7 @@
 										  (NP (N*D ráði))))))))))
        (. ?-?)))
 
-( (IP*MAT (CONJ men)
+(TOP (IP*MAT (CONJ men)
 	  (NP*SBJ (Q*N alt))
 	  (BEDI var)
 	  (NP*PRD (N*N samogn))
@@ -1497,7 +1497,7 @@
 	      (NP (PRO*D teimum)))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI legði)
 	  (PP (P fyri)
 	      (NP (NS*A fötur$)
@@ -1506,18 +1506,18 @@
 		      (NP (NS*D ápostlu$) (D*D $num)))))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI vældu)
 	  (PP (P um)
 	      (NP (PRO*A hann)))))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI gav)
 	  (RP upp)
 	  (NP*OB1 (N*A and$) (D*A $an))
 	  (. ;)))
 
-( (IP*MAT (INTJ Ja)
+(TOP (IP*MAT (INTJ Ja)
 	  (, ,)
 	  (PP*LFD (P um)
 		  (CP*ADV (IP*SUB (NP*SBJ (PRO*N tað))
@@ -1537,9 +1537,9 @@
 	  (ADVP (ADV saman))
 	  (. ,)))
 
-( (IP*IMP*SPE (CONJ og) (VBI stígið) (RP fram)))
+(TOP (IP*IMP*SPE (CONJ og) (VBI stígið) (RP fram)))
 
-( (IP*MAT*SPE (CONJ men)
+(TOP (IP*MAT*SPE (CONJ men)
 	      (ADVP*TMP (ADV tá)
 			(CP*REL*SPE (C ið)
 				    (IP*SUB*SPE (NP*SBJ (PRO*N vit))
@@ -1553,7 +1553,7 @@
 	      (. .)
 	      (" ")))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI segði)
 	  (, :)
 	  (" ")
@@ -1568,7 +1568,7 @@
 				      (NP (D*D hesum) (N*D navni)))))
 	  (. ,)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (PP (P í)
 	      (NP (N*D ráð$) (D*D $inum)))
 	  (VBDI reistist)
@@ -1591,7 +1591,7 @@
 					      (NP (Q*D öllum) (N*D fólk$) (D*D $inum)))))))
 	  (. ,)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (NP*SBJ (Q*N allir)
 		      (PRO*N teir)
 		      (, ,)
@@ -1608,7 +1608,7 @@
 			  (NP (OTHER*D öðrum))))
 	      (. .)))
 
-( (IP*MAT (NP*SBJ (PRO*N Teir))
+(TOP (IP*MAT (NP*SBJ (PRO*N Teir))
 	  (VBDI fóru)
 	  (ADVP*TMP (ADV tá))
 	  (ADVP*DIR (ADV burtur))
@@ -1632,7 +1632,7 @@
 								      (N*A skuld))))))))))
 	  (. ;)))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (NP*SBJ (PRO*N tey))
 	  (VBDI leiddu)
 	  (NP*OB1 (PRO*A teir))
@@ -1641,7 +1641,7 @@
 	      (NP (NS*A ápostlar$) (D*A $nar)))
 	  (. ,)))
 
-( (IP*MAT (ADVP*TMP (ADV Tá))
+(TOP (IP*MAT (ADVP*TMP (ADV Tá))
 	  (VBDI fingu)
 	  (NP*SBJ (PRO*N teir))
 	  (ADVP (ADV loyniliga))
@@ -1665,7 +1665,7 @@
 	  (. .)
 	  (" ")))
 
-( (IP*MAT*SPE (NP*SBJ (NP*POS (N*G Dýrdar$) (D*G $innar))
+(TOP (IP*MAT*SPE (NP*SBJ (NP*POS (N*G Dýrdar$) (D*G $innar))
 		      (NPR*N Guð))
 	      (VBPI birtist)
 	      (PP (P fyri)
@@ -1687,7 +1687,7 @@
 										    (NP (NPR*D Káran))))))))))
 	      (. ,)))
 
-( (IP*MAT*SPE (CONJ Og)
+(TOP (IP*MAT*SPE (CONJ Og)
 	      (NP*OB1 (N*A fólk$)
 		      (D*A $ið)
 		      (CP*REL*SPE (C sum)
@@ -1704,7 +1704,7 @@
 			      (NP*SBJ (NPR*N Guð)))
 	      (. .)))
 
-( (IP*MAT*SPE (CONJ Men)
+(TOP (IP*MAT*SPE (CONJ Men)
 	      (NP*SBJ (NP (N*N hungur)))
 	      (VBDI kom)
 	      (PP (P um)
@@ -1716,7 +1716,7 @@
 		       (NP (ADJ*N stór) (N*N trongd)))
 	      (. ,)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (VBDI tók)
 	      (RP til)
 	      (PP (P í)
@@ -1738,7 +1738,7 @@
 									(NP (NPR*A Jósef))))))))
 	      (. .)))
 
-( (IP*MAT*SPE (CONJ Men)
+(TOP (IP*MAT*SPE (CONJ Men)
 	      (ADVP*TMP (ADV tá)
 			(CP*REL*SPE (C ið)
 				    (IP*SUB*SPE (NP*SBJ (PRO*N hann))
@@ -1760,7 +1760,7 @@
 						(NS*A menn))))
 	      (. .)))
 
-( (IP*MAT*SPE (CONJ Men)
+(TOP (IP*MAT*SPE (CONJ Men)
 	      (NP*SBJ (D*N tann)
 		      (, ,)
 		      (CP*REL*SPE (C sum)
@@ -1773,13 +1773,13 @@
 	      (PP (P frá)
 		  (NP (PRO*D sær)))))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (VBDI tordi)
 	      (NEG ikki)
 	      (IP*INF*SPE (TO at) (VB hyggja) (RP at))
 	      (. .)))
 
-( (IP*MAT*SPE (NP*SBJ (D*N Hetta))
+(TOP (IP*MAT*SPE (NP*SBJ (D*N Hetta))
 	      (BEPI er)
 	      (NP*PRD (D*N tann)
 		      (, ,)
@@ -1816,7 +1816,7 @@
 											      (NP*OB2 (PRO*D okkum)))))))))))
 	      (. .)))
 
-( (CP*QUE*SPE (" ")
+(TOP (CP*QUE*SPE (" ")
 	      (IP*SUB*SPE (VBDI Fördu)
 			  (NP*SBJ (PRO*N tit))
 			  (NP*OB2 (PRO*D mær))
@@ -1833,14 +1833,14 @@
 			      (NP (N*D oyðimörk$) (D*D $ini))))
 	      (. ?-?)))
 
-( (IP*MAT*SPE (" ")
+(TOP (IP*MAT*SPE (" ")
 	      (NP*SBJ (NPR*N Himmal$) (D*N $in))
 	      (BEPI er)
 	      (NP*PRD (N*N hásæti)
 		      (NP*POS (PRO*N mítt)))
 	      (. ,)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (PRO*N teir))
 	  (VBDI bitu)
 	  (PP (P á)
@@ -1849,20 +1849,20 @@
 		  (NP*COM (PRO*D honum))))
 	  (. .)))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (NP*SBJ (PRO*N teir))
 	  (VBDI steinaðu)
 	  (NP*OB1 (NPR*A Stefan))
 	  (. ;)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI hildu)
 	  (NP*OB1 (Q*A mikla) (N*A harmaklagu))
 	  (PP (P yvir)
 	      (NP (PRO*D honum)))
 	  (. .)))
 
-( (IP*MAT (NP*SBJ (PRO*N teir))
+(TOP (IP*MAT (NP*SBJ (PRO*N teir))
 	  (VBDI fóru)
 	  (RP út)
 	  (PP (P úr)
@@ -1873,7 +1873,7 @@
 		      (NP (ADJ*D harðari) (N*D rödd))))
 	  (. ,)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*PRN (NPR*N Símun))
 	  (VBDI trúði)
 	  (ALSO eisini)
@@ -1881,7 +1881,7 @@
 	  (RP við)
 	  (. ,)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI segði)
 	  (, :)
 	  (" ")
@@ -1907,19 +1907,19 @@
 	  (. !-!)
 	  (" ")))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI segði)
 	  (, :)
 	  (" ")
 	  (IP*IMP*SPE (VBI Statt) (RP upp))))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI las)
 	  (NP*OB1 (NPR*A Jesaja)
 		  (NP*PRN (N*A profet)))
 	  (. .)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (ADVP*LFD (ADVR eins)
 			(PP (P og)
 			    (CP*CMP*SPE (IP*SUB*SPE (NP*SBJ (N*N lamb))
@@ -1941,31 +1941,31 @@
 		      (NP*POS (PRO*A sín)))
 	      (. .)))
 
-( (CP*QUE*SPE (WNP (WPRO*N hvat))
+(TOP (CP*QUE*SPE (WNP (WPRO*N hvat))
 	      (IP*SUB*SPE (VBPI forðar)
 			  (NP*OB2 (PRO*D mær))
 			  (IP*INF*SPE (TO at) (RD verða) (VAN doyptur)))
 	      (. ?-?)
 	      (" ")))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (PRO*N hann))
 	  (VBDI ferðaðist)
 	  (RP um)))
 
-( (IP*IMP*SPE (CONJ og)
+(TOP (IP*IMP*SPE (CONJ og)
 	      (VBI far)
 	      (RP inn)
 	      (PP (P í)
 		  (NP (N*A stað$) (D*A $in)))
 	      (. ,)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (PRO*N hann))
 	  (VBDI (CONJ hvörki) (VBDI át) (CONJ ella) (VBDI drakk))
 	  (. .)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (NPR*N Harr$) (D*N $in))
 	  (VBDI segði)
 	  (PP (P við)
@@ -2017,16 +2017,16 @@
 	  (. .)
 	  (" ")))
 
-( (IP*MAT (CONJ og) (VBDI styrknaði) (. .)))
+(TOP (IP*MAT (CONJ og) (VBDI styrknaði) (. .)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (NS*N lærusveinar$) (D*N $nir))
 	  (VBDI tóku)
 	  (NP*OB1 (PRO*A hann))
 	  (PP (P á)
 	      (NP (N*D náttartíð)))))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (PRO*N teir))
 	  (HVDI hövdu)
 	  (PP (P í)
@@ -2038,7 +2038,7 @@
 		      (NP (NS*D dögum))))
 	  (. .)))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (NP*SBJ (NPR*N Pætur))
 	  (VBDI segði)
 	  (PP (P við)
@@ -2053,7 +2053,7 @@
 				  (ADJP (ADJ*A frískan))))
 	  (. ;)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI lögdu)
 	  (NP*OB1 (PRO*A hana))
 	  (ADV niðan)
@@ -2061,19 +2061,19 @@
 	      (NP (N*A loftstov$) (D*A $una)))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI helt)
 	  (NP*OB1 (N*A bön))
 	  (. ;)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (Q*N mong))
 	  (VBDI trúðu)
 	  (PP (P á)
 	      (NP (NPR*A Harr$) (D*A $an)))
 	  (. .)))
 
-( (IP*IMP*SPE (CONJ og)
+(TOP (IP*IMP*SPE (CONJ og)
 	      (HVI hav)
 	      (NP*OB1 (N*A boð))
 	      (PP (P eftir)
@@ -2089,7 +2089,7 @@
 						      (NP*PRN (NPR*N Pætur))))))))
 	      (. ;)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (PP (P á)
 	      (NP (PRO*D honum)))
 	  (BEDI vóru)
@@ -2105,12 +2105,12 @@
 			     (NS*N fuglar))))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (PRO*N teir))
 	  (VBPI rópaðu)
 	  (RP inn)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (PRO*N teir))
 	  (VBDI sögdu)
 	  (, :)
@@ -2158,13 +2158,13 @@
 	  (. .)
 	  (" ")))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI fell)
 	  (PP (NP (PRO*D honum))
 	      (P til)
 	      (NP (NS*G fóta)))))
 
-( (IP*MAT*SPE (ADVP*TMP (ADV Nú))
+(TOP (IP*MAT*SPE (ADVP*TMP (ADV Nú))
 	      (VBPI spyrji)
 	      (NP*SBJ (PRO*N eg))
 	      (, ,)
@@ -2179,7 +2179,7 @@
 	      (. .)
 	      (" ")))
 
-( (IP*MAT*SPE (ADVP*TMP (ADV Nú))
+(TOP (IP*MAT*SPE (ADVP*TMP (ADV Nú))
 	      (BEPI eru)
 	      (NP*SBJ (PRO*N vit))
 	      (ADVP*TMP (ADV tá))
@@ -2205,7 +2205,7 @@
 	      (. .)
 	      (" ")))
 
-( (IP*MAT (PP (P Meðan)
+(TOP (IP*MAT (PP (P Meðan)
 	      (CP*ADV (IP*SUB (NP*SBJ (NPR*N Pætur))
 			      (ADVP*TMP (ADV enn))
 			      (VBDI talaði)
@@ -2222,16 +2222,16 @@
 				  (NP*OB1 (N*A orð$) (D*A $ið))))))
 	  (. .)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (NPR*N Pætur))
 	  (VBDI tók)
 	  (ADVP (ADV undir))))
 
-( (IP*IMP*SPE (VBI (VBI drep) (CONJ og) (VBI et))
+(TOP (IP*IMP*SPE (VBI (VBI drep) (CONJ og) (VBI et))
 	      (. !-!)
 	      (" ")))
 
-( (IP*IMP*SPE (CONJ og)
+(TOP (IP*IMP*SPE (CONJ og)
 	      (VBI heimta)
 	      (NP*OB1 (NPR*A Símun)
 		      (, ,)
@@ -2244,7 +2244,7 @@
 						      (NP*PRN (NPR*N Pætur)))))))
 	      (. ;)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI talaðu)
 	  (NEG ikki)
 	  (NP*OB1 (N*A orð$) (D*A $ið))
@@ -2256,7 +2256,7 @@
 			  (NP (NPRS*G Jödar))))))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (ONE*N ein) (ADJ*N stórur) (N*N skari))
 	  (RDDI varð)
 	  (VAN fördur)
@@ -2264,7 +2264,7 @@
 	      (NP (NPR*G Harr$) (D*G $ans)))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (PRO*N teir))
 	  (VBDI sendu)
 	  (NP*PRN (NPR*N Barnabas) (CONJ og) (NPR*N Saul))
@@ -2274,7 +2274,7 @@
 	      (NP (D*A hinar) (ADJS*A elstu)))
 	  (. .)))
 
-( (IP*MAT (CONJ men)
+(TOP (IP*MAT (CONJ men)
 	  (NP*SBJ (N*N bön))
 	  (RDDI varð)
 	  (VAN biðin)
@@ -2288,7 +2288,7 @@
 	      (NP (PRO*D honum)))
 	  (. .)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (N*N eingil$) (D*N $in))
 	  (VBDI segði)
 	  (PP (P við)
@@ -2299,7 +2299,7 @@
 		      (NP*OB1 (PRO*A teg)))
 	  (. ,)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (PRO*N tað))
 	  (VBDI lætst)
 	  (RP upp)
@@ -2310,7 +2310,7 @@
 	      (NP (PRO*D teimum)))
 	  (. ,)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (PRO*N tey))
 	  (VBDI sögdu)
 	  (PP (P við)
@@ -2324,21 +2324,21 @@
 	  (. !-!)
 	  (" ")))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI fór)
 	  (ADVP*DIR (ADV burtur))
 	  (PP (P í)
 	      (NP (OTHER*A annan) (N*A stað)))
 	  (. .)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*TMP (ONE*A ein) (ADJ*A dagstevndan) (N*A dag))
 	  (VBDI klæddist)
 	  (NP*SBJ (NPR*N Heródes))
 	  (PP (P í)
 	      (NP (N*A kongaskrúð)))))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI tóku)
 	  (PP (P við)
 	      (NP (PRO*D sær)))
@@ -2352,7 +2352,7 @@
 					  (NP*PRN (NPR*N Markus)))))))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (PRO*N teir))
 	  (HVDI hövdu)
 	  (ALSO eisini)
@@ -2362,7 +2362,7 @@
 	      (NP (N*G hjálpar)))
 	  (. .)))
 
-( (IP*MAT*SPE (CONJ Og)
+(TOP (IP*MAT*SPE (CONJ Og)
 	      (ADVP*TMP (ADV nú))
 	      (, ,)
 	      (IP*IMP*SPE*PRN (VBI sí))
@@ -2374,13 +2374,13 @@
 		  (NP (PRO*D tær)))
 	      (. ,)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (NPR*N Jóhannes))
 	  (VBDI skildist)
 	  (PP (P frá)
 	      (NP (PRO*D teimum)))))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI mælti)
 	  (, :)
 	  (" ")
@@ -2398,7 +2398,7 @@
 		      (RP á))
 	  (. !-!)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (ADVP*TMP (ADV tá)
 		    (CP*REL (C ið)
 			    (IP*SUB (NP*SBJ (PRO*N hann))
@@ -2445,7 +2445,7 @@
 	  (. .)
 	  (" ")))
 
-( (IP*MAT*SPE (CONJ Men)
+(TOP (IP*MAT*SPE (CONJ Men)
 	      (NP*SBJ (NPR*N Guð))
 	      (VBDI reisti)
 	      (NP*OB1 (PRO*A hann))
@@ -2454,15 +2454,15 @@
 		  (NP (ADJ*D deyðum)))
 	      (. ;)))
 
-( (IP*IMP*SPE (CONJ og) (VBI undrist)))
+(TOP (IP*IMP*SPE (CONJ og) (VBI undrist)))
 
-( (IP*MAT (ADVP*TMP (ADV Tá))
+(TOP (IP*MAT (ADVP*TMP (ADV Tá))
 	  (VBDI tóku)
 	  (NP*SBJ (NPR*N Paulus) (CONJ og) (NPR*N Barnabas))
 	  (PP (P til)
 	      (NP (NS*G orða)))))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (PRO*N teir))
 	  (VBDI ristu)
 	  (NP*OB1 (N*A dust$)
@@ -2473,7 +2473,7 @@
 	  (PP (NP (N*D móti)
 		  (NP*COM (PRO*D teimum))))))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (ADVP*TMP*LFD (ADV tá)
 			(CP*REL (C ið)
 				(IP*SUB (ADVP*TMP (ADV nú))
@@ -2526,7 +2526,7 @@
 							   (NP (NS*A vegir))))))))))
 	  (. ;)))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (NP*SBJ (N*N prestur$)
 		  (D*N $in)
 		  (PP (P fyri)
@@ -2546,7 +2546,7 @@
 	  (PP (P at)
 	      (NP (NS*D portr$) (D*D $unum)))))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (PRO*N teir))
 	  (VBDI fingu)
 	  (NP*OB1 (N*A fólk$) (D*A $ið))
@@ -2557,7 +2557,7 @@
 			  (NP (PRO*D sær)))))
 	  (. ,)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI sögdu)
 	  (NP*OB2 (PRO*D teimum))
 	  (, ,)
@@ -2574,7 +2574,7 @@
 				      (NP (Q*A mangar) (NS*A trongdir))))))
 	  (. .)))
 
-( (IP*MAT*SPE (" ")
+(TOP (IP*MAT*SPE (" ")
 	      (PP*LFD (P Um)
 		      (CP*ADV*SPE (IP*SUB*SPE (NP*SBJ (PRO*N tit))
 					      (NEG ikki)
@@ -2593,7 +2593,7 @@
 	      (. .)
 	      (" ")))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (NP (NS*N ápostlar$) (D*N $nir))
 		  (CONJP (CONJ og)
 			 (NP (D*N hinir) (ADJS*N elstu))))
@@ -2605,7 +2605,7 @@
 			  (NP (D*A hetta) (N*A mál))))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI segði)
 	  (, :)
 	  (" ")
@@ -2618,26 +2618,26 @@
 		      (NP*OB1 (PRO*A meg)))
 	  (. !-!)))
 
-( (IP*MAT*SPE (NP*SBJ (PRO*N Vit))
+(TOP (IP*MAT*SPE (NP*SBJ (PRO*N Vit))
 	      (HVPI hava)
 	      (PP (NP (PRO*D tí)))
 	      (VBN sent)
 	      (NP*OB1 (NPR*A Judas) (CONJ og) (NPR*A Silas))
 	      (. ,)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI styrktu)
 	  (NP*OB1 (PRO*A teir))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (NPR*N Barnabas))
 	  (VBDI tók)
 	  (NP*OB1 (NPR*A Markus))
 	  (PP (P við)
 	      (NP (PRO*D sær)))))
 
-( (IP*MAT (NP*OB1 (PRO*A Hann))
+(TOP (IP*MAT (NP*OB1 (PRO*A Hann))
 	  (MDDI vildi)
 	  (NP*SBJ (NPR*N Paulus))
 	  (HV hava)
@@ -2648,14 +2648,14 @@
 	      (NP (PRO*D sær)))
 	  (. ,)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI komu)
 	  (ADVP*DIR (ADV oman))
 	  (PP (P til)
 	      (NP (NPR*G Troas)))
 	  (. .)))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (NP*TMP (NPR*A hvíludag$) (D*A $in))
 	  (VBDI fóru)
 	  (NP*OB1 (PRO*N vit))
@@ -2679,11 +2679,11 @@
 						  (BE vera)))))))
 	  (. ,)))
 
-( (IP*MAT (NP*SBJ (PRO*N Hon))
+(TOP (IP*MAT (NP*SBJ (PRO*N Hon))
 	  (VBDI elti)
 	  (NP*OB1 (NPR*A Paulus) (CONJ og) (PRO*A okkum))))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI drógu)
 	  (NP*OB1 (PRO*A teir))
 	  (RP fram)
@@ -2693,7 +2693,7 @@
 	      (NP (NS*A yvirmenn$) (D*A $inar)))
 	  (. .)))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (ADVP*TMP (ADV tá)
 		    (CP*REL (C ið)
 			    (IP*SUB (NP*SBJ (PRO*N hann))
@@ -2707,7 +2707,7 @@
 	  (PP (P í)
 	      (NP (D*A hitt) (ADJR*A innara) (N*A fangahús$) (D*A $ið)))))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI ætlaði)
 	  (IP*INF (TO at)
 		  (VB drepa)
@@ -2726,7 +2726,7 @@
 						      (VBN rýmdir)))))))
 	  (. .)))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (NP*SBJ (PRO*N teir))
 	  (VBI talaðu)
 	  (NP*OB1 (NP*POS (NPR*G Harr$) (D*G $ans))
@@ -2741,7 +2741,7 @@
 				     (NP*POS (PRO*G hansara))))))))
 	  (. .)))
 
-( (IP*MAT*SPE (" ")
+(TOP (IP*MAT*SPE (" ")
 	      (NP*SBJ (NS*N Stýrismenn$) (D*N $inir))
 	      (HVPI hava)
 	      (VBN sent)
@@ -2756,11 +2756,11 @@
 						  (ADJP*SPR (ADJ*N leysir))))))
 	      (. ;)))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (NP*SBJ (PRO*N teir))
 	  (VBDI komu)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI greiddi)
 	  (PP (P fyri)
 	      (NP (PRO*D teimum)))
@@ -2796,7 +2796,7 @@
 	  (. .)
 	  (" ")))
 
-( (IP*MAT*SPE (CONJ Og)
+(TOP (IP*MAT*SPE (CONJ Og)
 	      (NP*SBJ (NPR*N Jason))
 	      (HVPI hevur)
 	      (VBN tikið)
@@ -2804,7 +2804,7 @@
 		      (NP*COM (PRO*D teimum))))
 	      (, ,)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (ADVP*TMP (ADV tá)
 		    (CP*REL (C ið)
 			    (IP*SUB (NP*SBJ (NPRS*N Jödar$)
@@ -2829,13 +2829,13 @@
 	  (VBDI komu)
 	  (NP*SBJ (PRO*N teir))))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (OTHERS*N aðrir))
 	  (VBDI hildu)
 	  (RP fyri)
 	  (. :)))
 
-( (IP*MAT*SPE (NP*SBJ (NPR*N Guð)
+(TOP (IP*MAT*SPE (NP*SBJ (NPR*N Guð)
 		      (, ,)
 		      (CP*REL*SPE (C sum)
 				  (IP*SUB*SPE (DODI gjördi)
@@ -2864,7 +2864,7 @@
 			       (NP (NS*D hondum))))))
 	      (. ;)))
 
-( (IP*MAT (PP (NP (PRO*G teirra))
+(TOP (IP*MAT (PP (NP (PRO*G teirra))
 	      (P millum))
 	  (BEDI var)
 	  (ALSO eisini)
@@ -2891,7 +2891,7 @@
 				 (NP (PRO*D teimum))))))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (N*N myrkr$) (D*N $ið))
 	  (VBDI tók)
 	  (NEG ikki)
@@ -2899,14 +2899,14 @@
 	      (NP (PRO*D tí)))
 	  (. .)))
 
-( (IP*MAT (NP*SBJ (PRO*N Hann))
+(TOP (IP*MAT (NP*SBJ (PRO*N Hann))
 	  (VBDI kom)
 	  (PP (P til)
 	      (NP (NP*POS (PRO*A sítt))
 		  (ADJ*A egna)))
 	  (. ,)))
 
-( (FRAG (CONJ og)
+(TOP (FRAG (CONJ og)
 	(NP (PRO*N tað))
 	(NP (N*N náði))
 	(PP (ADV oman)
@@ -2922,7 +2922,7 @@
 					(NP (NPR*D Mósesi)))))))
 	(, ,)))
 
-( (IP*MAT (NP*SBJ (PRO*N Hann))
+(TOP (IP*MAT (NP*SBJ (PRO*N Hann))
 	  (VBPI sigur)
 	  (, :)
 	  (" ")
@@ -2933,15 +2933,15 @@
 	  (. .)
 	  (" ")))
 
-( (IP*MAT (NP*SBJ (NPR*N Jóhannes))
+(TOP (IP*MAT (NP*SBJ (NPR*N Jóhannes))
 	  (VBDI svaraði)
 	  (NP*OB2 (PRO*D teimum))))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (NP*SBJ (NPR*N Jóhannes))
 	  (VBDI vitnaði)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (PRO*N teir))
 	  (VBDI fóru)
 	  (PP (ADV aftan)
@@ -2949,7 +2949,7 @@
 	      (NP (NPR*A Jesus)))
 	  (. .)))
 
-( (IP*MAT (NP*SBJ (NPR*N Andrias)
+(TOP (IP*MAT (NP*SBJ (NPR*N Andrias)
 		  (, ,)
 		  (NP*PRN (N*N bróðir)
 			  (NP*POS (NPR*A Símun) (NPR*G Pæturs))))
@@ -2972,7 +2972,7 @@
 							 (NP*OB1 (PRO*D honum)))))))))
 	  (. .)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (NPR*N Filippus))
 	  (BEDI var)
 	  (PP (P úr)
@@ -2983,7 +2983,7 @@
 				  (NP*PRN (NPR*G Andriasar) (CONJ og) (NPR*G Pæturs))))))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI segði)
 	  (PP (P við)
 	      (NP (PRO*A hann)))
@@ -3008,7 +3008,7 @@
 	  (. .)
 	  (" ")))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (ADVP*TMP (ADV tá)
 		    (CP*REL (C ið)
 			    (IP*SUB (ADVP*LOC (ADV har))
@@ -3028,13 +3028,13 @@
 	  (. .)
 	  (" ")))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (NP*SBJ (PRO*N teir))
 	  (VBDI bóru)
 	  (NP*OB2 (PRO*D honum))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (NPR*N Jesus))
 	  (VBDI fór)
 	  (ADVP*DIR (ADV niðan))
@@ -3042,7 +3042,7 @@
 	      (NP (NPR*G Jerúsalem)))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI sögdu)
 	  (PP (P við)
 	      (NP (PRO*A hann)))
@@ -3061,7 +3061,7 @@
 	  (. ?-?)
 	  (" ")))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (NPR*N Jesus)
 		  (NP*PRN (PRO*N sjálvur)))
 	  (VBDI leit)
@@ -3078,7 +3078,7 @@
 				      (NP*OB1 (Q*A allar))))))
 	  (. ,)))
 
-( (IP*MAT*SPE (NP*SBJ (PRO*N Tað)
+(TOP (IP*MAT*SPE (NP*SBJ (PRO*N Tað)
 		      (, ,)
 		      (CP*REL*SPE (C sum)
 				  (IP*SUB*SPE (BEPI er)
@@ -3090,7 +3090,7 @@
 	      (NP*PRD (N*N hold))
 	      (. ,)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI segði)
 	  (PP (P við)
 	      (NP (PRO*A hann)))
@@ -3103,7 +3103,7 @@
 			  (NP (NPR*D Ísrael))))
 	  (. ,)))
 
-( (IP*MAT*SPE (CONJ Men)
+(TOP (IP*MAT*SPE (CONJ Men)
 	      (NP*SBJ (D*N hesin))
 	      (BEPI er)
 	      (NP*PRD (N*N dómur$) (D*N $in))
@@ -3115,13 +3115,13 @@
 					    (PP (P í)
 						(NP (N*A heim$) (D*A $in)))))))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (NP*SBJ (PRO*N teir))
 	  (VBDI komu)
 	  (PP (P til)
 	      (NP (NPR*G Jóhannesar)))))
 
-( (IP*MAT*SPE (IP*MAT*SPE (NP*SBJ (PRO*N Hann))
+(TOP (IP*MAT*SPE (IP*MAT*SPE (NP*SBJ (PRO*N Hann))
 			    (VBPI eigur)
 			    (IP*INF*SPE (TO at) (VB vaksa)))
 	      (, ,)
@@ -3130,7 +3130,7 @@
 				   (IP*INF*SPE (TO at) (VB minka))))
 	      (. .)))
 
-( (IP*MAT*SPE (NP*SBJ (D*N Tann)
+(TOP (IP*MAT*SPE (NP*SBJ (D*N Tann)
 		      (, ,)
 		      (CP*REL*SPE (C sum)
 				  (IP*SUB*SPE (VBPI trýr)
@@ -3141,7 +3141,7 @@
 	      (NP*OB1 (ADJ*A ævigt) (N*A lív))
 	      (. ;)))
 
-( (IP*MAT (NP*SBJ (ONE*N Ein)
+(TOP (IP*MAT (NP*SBJ (ONE*N Ein)
 		  (N*N kona)
 		  (PP (P úr)
 		      (NP (NPR*D Sámáriu))))
@@ -3153,10 +3153,10 @@
 		      (NP*OB1 (N*A vatn)))
 	  (. .)))
 
-( (IP*MAT (NP*SBJ (NPR*N Jesus))
+(TOP (IP*MAT (NP*SBJ (NPR*N Jesus))
 	  (VBDI svaraði)))
 
-( (IP*MAT (NP*SBJ (NPR*N Jesus))
+(TOP (IP*MAT (NP*SBJ (NPR*N Jesus))
 	  (VBPI sigur)
 	  (PP (P við)
 	      (NP (PRO*A hana)))
@@ -3178,7 +3178,7 @@
 							  (NP*OB1 (NUM*A fimm) (NS*A menn))))))
 		      (. ,))))
 
-( (IP*MAT*SPE (CONJ Men)
+(TOP (IP*MAT*SPE (CONJ Men)
 	      (NP*SBJ (D*N tann) (N*N stund))
 	      (VBPI kemur)
 	      (, ,)
@@ -3208,7 +3208,7 @@
 									  (VBPI sökir)))))))
 	      (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI fór)
 	  (PP (P av$)
 	      (NP (N*D $stað)))
@@ -3216,7 +3216,7 @@
 	  (PP (P í)
 	      (NP (N*A bygd$) (D*A $ina)))))
 
-( (IP*MAT (NP*SBJ (NPR*N Jesus))
+(TOP (IP*MAT (NP*SBJ (NPR*N Jesus))
 	  (VBPI sigur)
 	  (PP (P við)
 	      (NP (PRO*A teir)))
@@ -3241,7 +3241,7 @@
 							     (NP*POS (PRO*G hansara)))))))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (PRO*N tit))
 	  (BEPI eru)
 	  (VBN komnir)
@@ -3252,7 +3252,7 @@
 	  (. .)
 	  (" ")))
 
-( (IP*MAT (ADVP*TMP (ADV Tá)
+(TOP (IP*MAT (ADVP*TMP (ADV Tá)
 		    (CP*REL (C ið)
 			    (IP*SUB (NP*SBJ (PRO*N hann))
 				    (VBDI hoyrdi)
@@ -3271,7 +3271,7 @@
 	  (PP (P til)
 	      (NP (PRO*G hansara)))))
 
-( (IP*MAT (ADVP*TMP (ADV Tá))
+(TOP (IP*MAT (ADVP*TMP (ADV Tá))
 	  (VBDI spurdi)
 	  (NP*SBJ (PRO*N hann))
 	  (NP*OB1 (PRO*A teir))
@@ -3289,7 +3289,7 @@
 						(NP (PRO*D honum))))))))
 	  (. .)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (ADVP*LOC (ADV har))
 	  (BEDI var)
 	  (NP (ONE*N ein)
@@ -3304,14 +3304,14 @@
 					(NS*A ár))))))
 	  (. .)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (ES tað))
 	  (BEDI var)
 	  (NP (NPR*N hvíludagur))
 	  (NP*TMP (D*A tann) (N*A dag$) (D*A $in))
 	  (. .)))
 
-( (IP*MAT*SPE (VBI synda)
+(TOP (IP*MAT*SPE (VBI synda)
 	      (NEG ikki)
 	      (NP*MSR (ADVR longur))
 	      (, ,)
@@ -3325,7 +3325,7 @@
 	      (. .)
 	      (" ")))
 
-( (IP*MAT*SPE (CONJ men)
+(TOP (IP*MAT*SPE (CONJ men)
 	      (NP*SBJ (PRO*N hann))
 	      (HVPI hevur)
 	      (VBN givið)
@@ -3347,7 +3347,7 @@
 										(NP*OB1 (N*A faðir$) (D*A $in)))))))))
 	      (. .)))
 
-( (IP*MAT*SPE (NP*SBJ (PRO*N Eg))
+(TOP (IP*MAT*SPE (NP*SBJ (PRO*N Eg))
 	      (MDPI kann)
 	      (NP*OB1 (NP*MSR (Q*G als))
 		      (Q*A einki))
@@ -3357,7 +3357,7 @@
 		      (NP*PRN (PRO*D sjálvum))))
 	      (. ;)))
 
-( (IP*MAT*SPE (NP*SBJ (PRO*N Hann))
+(TOP (IP*MAT*SPE (NP*SBJ (PRO*N Hann))
 	      (BEDI var)
 	      (NP*PRD (D*N hin)
 		      (ADJP (VAG brennandi) (CONJ og) (VAG skínandi))
@@ -3365,7 +3365,7 @@
 		      (D*N $an))
 	      (. ,)))
 
-( (IP*MAT*SPE (CONJ men)
+(TOP (IP*MAT*SPE (CONJ men)
 	      (NP*SBJ (PRO*N eg))
 	      (VBPI kenni)
 	      (NP*OB2 (PRO*D tykkum))
@@ -3380,14 +3380,14 @@
 					  (NP (PRO*D tykkum)))))
 	      (. .)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (NPR*N Jesus))
 	  (VBDI fór)
 	  (ADVP*DIR (ADV niðan))
 	  (PP (P á)
 	      (NP (N*A fjall$) (D*A $ið)))))
 
-( (IP*MAT (ADVP*TMP (ADV Tá))
+(TOP (IP*MAT (ADVP*TMP (ADV Tá))
 	  (VBDI settust)
 	  (NP*SBJ (NS*N kallmenn$) (D*N $inir))
 	  (RP niður)
@@ -3398,7 +3398,7 @@
 			(NP (N*D tali))))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI ætlaðu)
 	  (IP*INF (TO at)
 		  (VB fara)
@@ -3409,7 +3409,7 @@
 		      (NP (NPR*G Kapernaum))))
 	  (. .)))
 
-( (IP*MAT (NP*TMP (N*A Dag$) (D*A $in) (ADV eftir))
+(TOP (IP*MAT (NP*TMP (N*A Dag$) (D*A $in) (ADV eftir))
 	  (VBDI sá)
 	  (NP*SBJ (N*N mannamúgv$)
 		  (D*N $an)
@@ -3452,7 +3452,7 @@
 					 (ADJP*SPR (ADJ*N einsamallir))))))
 	  (. ;)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI segði)
 	  (PP (P við)
 	      (NP (PRO*A teir)))
@@ -3476,7 +3476,7 @@
 	  (. .)
 	  (" ")))
 
-( (IP*MAT*SPE (CONJ Men)
+(TOP (IP*MAT*SPE (CONJ Men)
 	      (NP*SBJ (PRO*N eg))
 	      (HVPI havi)
 	      (VBN sagt)
@@ -3493,7 +3493,7 @@
 							 (NEG ikki)))))
 	      (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI segði)
 	  (PP (P við)
 	      (NP (PRO*A teir)))
@@ -3505,9 +3505,9 @@
 			  (P millum)))
 	  (. !-!)))
 
-( (IP*MAT*SPE (CONJ og) (VBDI doyðu) (. .)))
+(TOP (IP*MAT*SPE (CONJ og) (VBDI doyðu) (. .)))
 
-( (IP*MAT*SPE (IP*MAT*SPE (NP*LFD (D*N Tann)
+(TOP (IP*MAT*SPE (IP*MAT*SPE (NP*LFD (D*N Tann)
 				    (, ,)
 				    (CP*REL*SPE (C sum)
 						(IP*SUB*SPE (IP*SUB*SPE (VBPI etur)
@@ -3529,7 +3529,7 @@
 				       (NP (PRO*D honum)))))
 	      (. .)))
 
-( (QTP (WNP (WPRO*N Hvat))
+(TOP (QTP (WNP (WPRO*N Hvat))
        (ADVP*TMP (ADV tá))
        (, ,)
        (PP (P um)
@@ -3548,7 +3548,7 @@
 											     (ADVP*TMP (ADVR áður))))))))))
        (. ?-?)))
 
-( (IP*MAT (NP*SBJ (NPR*N Jesus))
+(TOP (IP*MAT (NP*SBJ (NPR*N Jesus))
 	  (VBDI segði)
 	  (ADVP*TMP (ADV tá))
 	  (PP (P við)
@@ -3563,7 +3563,7 @@
 	  (. ?-?)
 	  (" ")))
 
-( (IP*MAT (ADVP*TMP (ADV Tá))
+(TOP (IP*MAT (ADVP*TMP (ADV Tá))
 	  (VBDI sögdu)
 	  (NP*SBJ (NS*N bröður)
 		  (NP*POS (PRO*G hansara)))
@@ -3575,18 +3575,18 @@
 		      (ADVP*DIR (ADV burtur))
 		      (ADVP*DIR (ADV hiðani)))))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (RDDI varð)
 	  (BAG verandi)
 	  (PP (P í)
 	      (NP (NPR*D Galileu)))
 	  (. .)))
 
-( (IP*MAT (NP*SBJ (NPRS*N Jödar$) (D*N $nir))
+(TOP (IP*MAT (NP*SBJ (NPRS*N Jödar$) (D*N $nir))
 	  (VBDI undraðust)
 	  (ADVP*TMP (ADV nú))))
 
-( (CP*QUE*SPE (WADVP (WADV Hví))
+(TOP (CP*QUE*SPE (WADVP (WADV Hví))
 	      (IP*SUB*SPE (VBPI royna)
 			  (NP*SBJ (PRO*N tit))
 			  (IP*INF*SPE (TO at)
@@ -3597,13 +3597,13 @@
 	      (. ?-?)
 	      (" ")))
 
-( (IP*IMP*SPE (VBI Dömið)
+(TOP (IP*IMP*SPE (VBI Dömið)
 	      (NEG ikki)
 	      (PP (P eftir)
 		  (NP (N*D útsjónd)))
 	      (. ,)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (VBPI vita)
 	      (, ,)
 	      (CP*QUE*SPE (WADVP (WADV hvaðan))
@@ -3611,7 +3611,7 @@
 				      (BEPI eri)))
 	      (. ;)))
 
-( (IP*MAT (NP*SBJ (NPRS*N Farisearar$) (D*N $nir))
+(TOP (IP*MAT (NP*SBJ (NPRS*N Farisearar$) (D*N $nir))
 	  (VBDI hoyrdu)
 	  (, ,)
 	  (CP*THT (C at)
@@ -3622,7 +3622,7 @@
 			      (NP (PRO*A hann)))))
 	  (. ;)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*TMP (ADJS*A síðsta)
 		  (N*A dag$)
 		  (D*A $in)
@@ -3636,7 +3636,7 @@
 	  (NP*SBJ (NPR*N Jesus))
 	  (ADVP*LOC (ADV har))))
 
-( (IP*MAT (ADVP*TMP (ADV Nú))
+(TOP (IP*MAT (ADVP*TMP (ADV Nú))
 	  (BEDI var)
 	  (NP (N*N ósemja))
 	  (PP (P millum)
@@ -3645,10 +3645,10 @@
 	      (NP (PRO*A hann)))
 	  (. ,)))
 
-( (IP*MAT (NP*SBJ (PRO*N Teir))
+(TOP (IP*MAT (NP*SBJ (PRO*N Teir))
 	  (VBDI svaraðu)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (NP (D*N hinir) (ADJ*N skriftlærdu))
 		  (CONJP (CONJ og)
 			 (NP (NPRS*N Farisearar$) (D*N $nir))))
@@ -3664,25 +3664,25 @@
 				      (NP (N*D hordómi)))))))
 	  (. ,)))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (NP*SBJ (PRO*N hann))
 	  (VBDI lútaði)
 	  (NP*OB1 (PRO*A seg))
 	  (ADVP*TMP (ADV aftur))
 	  (RP niður)))
 
-( (IP*IMP*SPE (VBI synda)
+(TOP (IP*IMP*SPE (VBI synda)
 	      (NEG ikki)
 	      (NP*MSR (ADVR longur))
 	      (. !-!)
 	      (" ")))
 
-( (IP*MAT*SPE (NP*SBJ (PRO*N eg))
+(TOP (IP*MAT*SPE (NP*SBJ (PRO*N eg))
 	      (VBPI dömi)
 	      (NP*OB1 (Q*A ongan))
 	      (. ;)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (Q*N eingin))
 	  (VBDI legði)
 	  (NP*OB1 (N*A hond))
@@ -3699,7 +3699,7 @@
 				      (VBN komin)))))
 	  (. .)))
 
-( (IP*MAT*SPE (PP (NP (PRO*D Tí)))
+(TOP (IP*MAT*SPE (PP (NP (PRO*D Tí)))
 	      (VBDI segði)
 	      (NP*SBJ (PRO*N eg))
 	      (PP (P við)
@@ -3740,7 +3740,7 @@
 	      (. .)
 	      (" ")))
 
-( (IP*MAT (ADVP*TMP (ADV Tá)
+(TOP (IP*MAT (ADVP*TMP (ADV Tá)
 		    (CP*REL (C ið)
 			    (IP*SUB (NP*SBJ (PRO*N hann))
 				    (VBDI talaði)
@@ -3752,7 +3752,7 @@
 	      (NP (PRO*A hann)))
 	  (. .)))
 
-( (IP*MAT*SPE (PP*LFD (P Um)
+(TOP (IP*MAT*SPE (PP*LFD (P Um)
 		      (CP*ADV*SPE (IP*SUB*SPE (PP (NP (PRO*D tí)))
 					      (NP*SBJ (N*N sonur$) (D*N $in))
 					      (VBPI fríar)
@@ -3767,7 +3767,7 @@
 	      (ADJP (ADJ*N frælsir))
 	      (. .)))
 
-( (IP*MAT*SPE (NP*SBJ (PRO*N Tit))
+(TOP (IP*MAT*SPE (NP*SBJ (PRO*N Tit))
 	      (DOPI gera)
 	      (NP*OB1 (NS*A gerningar)
 		      (NP*POS (N*G faðirs)
@@ -3775,7 +3775,7 @@
 	      (. .)
 	      (" ")))
 
-( (IP*MAT*SPE (ADVP*TMP (ADV tá)
+(TOP (IP*MAT*SPE (ADVP*TMP (ADV tá)
 			(CP*REL*SPE (C ið)
 				    (IP*SUB*SPE (NP*SBJ (PRO*N hann))
 						(VBPI talar)
@@ -3798,13 +3798,13 @@
 									 (NP (N*D lygn$) (D*D $ini))))))))))
 	      (. .)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (NP*SBJ (PRO*N tit))
 	      (VBPI vanæra)
 	      (NP*OB1 (PRO*A meg))
 	      (. .)))
 
-( (IP*MAT (NP*SBJ (NPR*N Jesus))
+(TOP (IP*MAT (NP*SBJ (NPR*N Jesus))
 	  (VBDI svaraði)
 	  (, :)
 	  (" ")
@@ -3821,7 +3821,7 @@
 		      (NP*PRD (Q*N einki)))
 	  (. ;)))
 
-( (IP*MAT (ADVP*TMP (ADV Tá))
+(TOP (IP*MAT (ADVP*TMP (ADV Tá))
 	  (VBDI sögdu)
 	  (NP*SBJ (NPRS*N Jödar$) (D*N $nir))
 	  (PP (P við)
@@ -3836,7 +3836,7 @@
 			    (ADJ*N gamal)))
 	  (. ,)))
 
-( (IP*MAT*SPE (CONJ men)
+(TOP (IP*MAT*SPE (CONJ men)
 	      (NP*SBJ (D*N hetta))
 	      (BEPI er)
 	      (VAN hent)
@@ -3853,13 +3853,13 @@
 						      (NP (PRO*D honum)))))))
 	      (. .)))
 
-( (IP*MAT (NP*SBJ (PRO*N Hann))
+(TOP (IP*MAT (NP*SBJ (PRO*N Hann))
 	  (VBDI fór)
 	  (ADVP*TMP (ADV tá))
 	  (PP (P av$)
 	      (NP (N*D $stað)))))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (VBDI smurdi)
 	      (NP*OB1 (PRO*A hana))
 	      (PP (RP upp)
@@ -3869,13 +3869,13 @@
 		      (PP (P á)
 			  (NP (PRO*D mær)))))))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (NP*SBJ (PRO*N eg))
 	      (VBDI tváaði)
 	      (NP*OB1 (PRO*D mær))
 	      (. ,)))
 
-( (CP*QUE*SPE (WADVP (WADV Hvussu))
+(TOP (CP*QUE*SPE (WADVP (WADV Hvussu))
 	      (IP*SUB*SPE (HVPI hevur)
 			  (NP*SBJ (PRO*N hann))
 			  (ADVP*TMP (ADV tá))
@@ -3885,13 +3885,13 @@
 	      (. ?-?)
 	      (" ")))
 
-( (IP*IMP*SPE (VBI spyrjið)
+(TOP (IP*IMP*SPE (VBI spyrjið)
 	      (NP*OB1 (PRO*A hann)
 		      (NP*PRN (PRO*A sjálvan)))
 	      (. .)
 	      (" ")))
 
-( (CP*QUE*SPE (WADVP (WADV Hví))
+(TOP (CP*QUE*SPE (WADVP (WADV Hví))
 	      (IP*SUB*SPE (MDPI vilja)
 			  (NP*SBJ (PRO*N tit))
 			  (ADVP*TMP (ADV nú))
@@ -3900,7 +3900,7 @@
 			  (ADVP*TMP (ADV aftur)))
 	      (. ?-?)))
 
-( (IP*MAT*SPE (NP*SBJ (PRO*N Vit))
+(TOP (IP*MAT*SPE (NP*SBJ (PRO*N Vit))
 	      (VBPI vita)
 	      (, ,)
 	      (CP*THT*SPE (C at)
@@ -3910,17 +3910,17 @@
 				      (NP*OB1 (NS*A syndarar))))
 	      (. ;)))
 
-( (IP*MAT (NP*SBJ (PRO*N Hann))
+(TOP (IP*MAT (NP*SBJ (PRO*N Hann))
 	  (VBDI svaraði)))
 
-( (IP*MAT*SPE (NP*SBJ (N*N synd)
+(TOP (IP*MAT*SPE (NP*SBJ (N*N synd)
 		      (NP*POS (PRO*G tykkara)))
 	      (RDPI verður)
 	      (BAG verandi)
 	      (. .)
 	      (" ")))
 
-( (IP*MAT*SPE (CONJ men)
+(TOP (IP*MAT*SPE (CONJ men)
 	      (MDPI vilja)
 	      (ADVP (ADVR heldur))
 	      (VB flýggja)
@@ -3940,7 +3940,7 @@
 	      (. .)
 	      (" ")))
 
-( (IP*MAT*SPE (NP*SBJ (PRO*N eg))
+(TOP (IP*MAT*SPE (NP*SBJ (PRO*N eg))
 	      (BEPI eri)
 	      (VBN komin)
 	      (PP (P til)
@@ -3956,7 +3956,7 @@
 								       (NP*OB1 (N*A yvirflóð))))))))
 	      (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (NP*POS (PRO*N mínir)))
 	  (VBPI kenna)
 	  (NP*OB1 (PRO*A meg))
@@ -3973,7 +3973,7 @@
 							       (NP*OB1 (PRO*A meg))))))))
 	  (. ;)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (NP*SBJ (PRO*N eg))
 	      (HVPI havi)
 	      (NP*OB1 (N*A vald))
@@ -3984,7 +3984,7 @@
 			      (ADVP*TMP (ADV aftur))))
 	      (. .)))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (NP*SBJ (NPR*N Jesus))
 	  (VBDI gekk)
 	  (PP (P um$)
@@ -3997,13 +3997,13 @@
 		  (NP*POS (NPR*G Sálomons))))
 	  (. .)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (NP*SBJ (PRO*N teir))
 	      (VBPI fylgja)
 	      (NP*OB1 (PRO*D mær))
 	      (. ,)))
 
-( (CP*QUE*SPE (WPP (P fyri)
+(TOP (CP*QUE*SPE (WPP (P fyri)
 		     (WNP (WPRO*A hvönn)
 			  (PP (P av)
 			      (NP (D*D hesum) (NS*D gerningum)))))
@@ -4013,14 +4013,14 @@
 	      (. ?-?)
 	      (" ")))
 
-( (IP*MAT (CONJ Og)
+(TOP (IP*MAT (CONJ Og)
 	  (NP*SBJ (Q*N mangir))
 	  (VBDI komu)
 	  (PP (P til)
 	      (NP (PRO*G hansara)))
 	  (. ,)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (NPR*N Jesus))
 	  (VBDI elskaði)
 	  (NP*OB1 (NP (NPR*A Martu))
@@ -4031,7 +4031,7 @@
 			 (NP (NPR*A Lázarus))))
 	  (. .)))
 
-( (IP*MAT*SPE (CONJ men)
+(TOP (IP*MAT*SPE (CONJ men)
 	      (NP*SBJ (PRO*N eg))
 	      (VBPS fari)
 	      (ADVP*TMP (ADV nú))
@@ -4041,7 +4041,7 @@
 	      (. .)
 	      (" ")))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (Q*N mangir)
 		  (PP (P av)
 		      (NP (NPRS*D Jödu$) (D*D $num))))
@@ -4056,13 +4056,13 @@
 			      (NP (N*A bróður$) (D*A $in))))
 	  (. .)))
 
-( (CP*QUE*SPE (IP*SUB*SPE (VBPI trýrt)
+(TOP (CP*QUE*SPE (IP*SUB*SPE (VBPI trýrt)
 			  (NP*SBJ (PRO*N tú))
 			  (NP*OB1 (D*D hesum)))
 	      (. ?-?)
 	      (" ")))
 
-( (IP*MAT (ADVP*TMP (ADV Tá)
+(TOP (IP*MAT (ADVP*TMP (ADV Tá)
 		    (CP*REL (C ið)
 			    (IP*SUB (ADVP*TMP (ADV nú))
 				    (NP*SBJ (NPRS*N Jödar$)
@@ -4110,7 +4110,7 @@
 								  (ADVP*LOC (ADV har)))))))))
 	  (. .)))
 
-( (IP*MAT (NP*SBJ (NPR*N Jesus))
+(TOP (IP*MAT (NP*SBJ (NPR*N Jesus))
 	  (RDDI varð)
 	  (ADVP*TMP (ADV tá))
 	  (ADVP*TMP (ADV aftur))
@@ -4119,7 +4119,7 @@
 	      (NP (PRO*D sær)
 		  (NP*PRN (PRO*D sjálvum))))))
 
-( (IP*MAT*SPE (NP*SBJ (PRO*N Eg))
+(TOP (IP*MAT*SPE (NP*SBJ (PRO*N Eg))
 	      (VBDI visti)
 	      (ADVP (ADV fullvæl))
 	      (, ,)
@@ -4130,7 +4130,7 @@
 				      (NP*OB1 (PRO*A meg))))
 	      (. ;)))
 
-( (IP*MAT (NP*SBJ (NP (NS*N Hövuðsprestar$) (D*N $nir))
+(TOP (IP*MAT (NP*SBJ (NP (NS*N Hövuðsprestar$) (D*N $nir))
 		  (CONJP (CONJ og)
 			 (NP (NPRS*N Farisearar$) (D*N $nir))))
 	  (VBDI savnaðu)
@@ -4138,7 +4138,7 @@
 	  (NP*OB1 (N*A ráð$) (D*A $ið))
 	  (ADVP (ADV saman))))
 
-( (IP*MAT (CONJ men)
+(TOP (IP*MAT (CONJ men)
 	  (VBDI fór)
 	  (PP (P av$)
 	      (NP (N*D $stað)))
@@ -4159,14 +4159,14 @@
 				  (NP*PRD (NPR*N Efraim))))))
 	  (. ,)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (NPR*N Marta))
 	  (VBDI gekk)
 	  (PP (P fyri)
 	      (NP (NS*D borðum)))
 	  (. ,)))
 
-( (IP*MAT*SPE (NP*SBJ (PRO*N Hon))
+(TOP (IP*MAT*SPE (NP*SBJ (PRO*N Hon))
 	      (HVPI hevur)
 	      (VBN goymt)
 	      (NP*OB1 (D*A hetta))
@@ -4192,14 +4192,14 @@
 	      (. .)
 	      (" ")))
 
-( (IP*MAT*SPE (PP (P á)
+(TOP (IP*MAT*SPE (PP (P á)
 		  (NP (N*D asnafyli)))
 	      (NP*SBJ (PRO*N hann))
 	      (VBPI situr)
 	      (. !-!)
 	      (" ")))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI sögdu)
 	  (, :)
 	  (" ")
@@ -4215,7 +4215,7 @@
 	  (. .)
 	  (" ")))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (NP*SBJ (D*N tann)
 		      (, ,)
 		      (CP*REL*SPE (C sum)
@@ -4232,7 +4232,7 @@
 		  (NP (ADJ*A ævigt) (N*A lív)))
 	      (. .)))
 
-( (IP*MAT*SPE (" ")
+(TOP (IP*MAT*SPE (" ")
 	      (IP*MAT*SPE (CONJ Bæði)
 			  (HVPI havi)
 			  (NP*SBJ (PRO*N eg))
@@ -4248,7 +4248,7 @@
 	      (. !-!)
 	      (" ")))
 
-( (CP*QUE*SPE (CONJ og)
+(TOP (CP*QUE*SPE (CONJ og)
 	      (WADVP (WADV hvussu))
 	      (IP*SUB*SPE (MDPI kanst)
 			  (NP*SBJ (PRO*N tú))
@@ -4261,7 +4261,7 @@
 						  (IP*INF*SPE (TO at) (RD verða) (VAN upphevjaður)))))
 	      (. ?-?)))
 
-( (CP*QUE*SPE (" ")
+(TOP (CP*QUE*SPE (" ")
 	      (NP*VOC (NPR*N Harri))
 	      (, ,)
 	      (WNP (WPRO*N hvör))
@@ -4275,7 +4275,7 @@
 							      (NP (PRO*D okkum)))))))
 	      (. ?-?)))
 
-( (IP*MAT*SPE (CONJ Og)
+(TOP (IP*MAT*SPE (CONJ Og)
 	      (PP*LFD (P um)
 		      (CP*ADV*SPE (IP*SUB*SPE (IP*SUB*SPE (NP*SBJ (Q*N onkur))
 							  (VBPI hoyrir)
@@ -4309,13 +4309,13 @@
 											 (NP*OB1 (NS*A heim$) (D*A $in)))))))))
 	      (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBPI leggur)
 	  (NP*OB1 (NS*D yvirklæð$) (D*D $ini))
 	  (PP (P av)
 	      (NP (PRO*D sær)))))
 
-( (IP*MAT (NP*SBJ (NPR*N Pætur))
+(TOP (IP*MAT (NP*SBJ (NPR*N Pætur))
 	  (VBPI sigur)
 	  (PP (P við)
 	      (NP (PRO*A hann)))
@@ -4332,7 +4332,7 @@
 	  (. !-!)
 	  (" ")))
 
-( (IP*MAT*SPE (ADVP*TMP*LFD (ADV Tá)
+(TOP (IP*MAT*SPE (ADVP*TMP*LFD (ADV Tá)
 			    (CP*REL*SPE (C ið)
 					(IP*SUB*SPE (ADVP*TMP (ADV nú))
 						    (NP*SBJ (PRO*N eg)
@@ -4380,7 +4380,7 @@
 						  (DO gera)))))
 	      (. .)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (NP*SBJ (D*N tann)
 		      (, ,)
 		      (CP*REL*SPE (C sum)
@@ -4400,7 +4400,7 @@
 	      (. .)
 	      (" ")))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBPI sigur)
 	  (PP (P við)
 	      (NP (PRO*A hann)))
@@ -4414,7 +4414,7 @@
 	  (. ?-?)
 	  (" ")))
 
-( (IP*MAT (ADVP*TMP (ADV Tá)
+(TOP (IP*MAT (ADVP*TMP (ADV Tá)
 		    (CP*REL (C ið)
 			    (IP*SUB (NP*SBJ (PRO*N hann))
 				    (ADVP*TMP (ADV nú))
@@ -4433,7 +4433,7 @@
 		      (VAN dýrmettur))
 	  (. ,)))
 
-( (IP*MAT*SPE (PP (P Á)
+(TOP (IP*MAT*SPE (PP (P Á)
 		  (NP (PRO*D tí)))
 	      (MDPI skulu)
 	      (NP*SBJ (Q*N allir))
@@ -4455,13 +4455,13 @@
 	      (. .)
 	      (" ")))
 
-( (IP*IMP*SPE (CONJ og)
+(TOP (IP*IMP*SPE (CONJ og)
 	      (VBI trúgvið)
 	      (PP (P á)
 		  (NP (PRO*A meg)))
 	      (. !-!)))
 
-( (IP*MAT*SPE (CP*ADV*SPE*LFD (IP*SUB*SPE (HVDI Hövdu)
+(TOP (IP*MAT*SPE (CP*ADV*SPE*LFD (IP*SUB*SPE (HVDI Hövdu)
 					  (NP*SBJ (PRO*N tit))
 					  (VBN kent)
 					  (NP*OB1 (PRO*A meg))))
@@ -4475,7 +4475,7 @@
 		      (NP*POS (PRO*A mín)))
 	      (. .)))
 
-( (IP*MAT*SPE (NP*LFD (D*A Tey)
+(TOP (IP*MAT*SPE (NP*LFD (D*A Tey)
 		      (NS*A orð)
 		      (, ,)
 		      (CP*REL*SPE (C sum)
@@ -4493,7 +4493,7 @@
 		      (NP*PRN (PRO*D sjálvum))))
 	      (. .)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (NP*SBJ (PRO*N hann))
 	      (MDPI skal)
 	      (VB geva)
@@ -4532,7 +4532,7 @@
 												       (NEG ikki))))))))))
 	      (. ;)))
 
-( (IP*MAT*SPE (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (IP*MAT*SPE (CONJ og)
 			    (NP*SBJ (PRO*N eg))
 			    (MDPI skal)
 			    (VB elska)
@@ -4545,7 +4545,7 @@
 	      (. .)
 	      (" ")))
 
-( (IP*MAT*SPE (NP*OB1 (N*A Frið))
+(TOP (IP*MAT*SPE (NP*OB1 (N*A Frið))
 	      (VBPI lati)
 	      (NP*SBJ (PRO*N eg))
 	      (ADVP (ADV eftir))
@@ -4553,7 +4553,7 @@
 		  (NP (PRO*D tykkum)))
 	      (. ,)))
 
-( (IP*IMP*SPE (CONJ men)
+(TOP (IP*IMP*SPE (CONJ men)
 	      (PP (P fyri)
 		  (CP*ADV*SPE (C at)
 			      (IP*SUB*SPE (NP*SBJ (N*N heimur$) (D*N $in))
@@ -4580,12 +4580,12 @@
 	      (RP upp)
 	      (. ,)))
 
-( (IP*MAT*SPE (NP*SBJ (PRO*N Eg))
+(TOP (IP*MAT*SPE (NP*SBJ (PRO*N Eg))
 	      (BEPI eri)
 	      (NP*PRD (N*N víntræ$) (D*N $ið))
 	      (. ,)))
 
-( (IP*MAT*SPE (PP (P Av)
+(TOP (IP*MAT*SPE (PP (P Av)
 		  (NP (D*D hesum)))
 	      (RDPI verður)
 	      (NP*SBJ (N*N faðir)
@@ -4605,14 +4605,14 @@
 								       (NP*POS (PRO*N mínir)))))))
 	      (. .)))
 
-( (IP*MAT*SPE (NEG Ikki)
+(TOP (IP*MAT*SPE (NEG Ikki)
 	      (NP*SBJ (PRO*N tit))
 	      (HVPI hava)
 	      (VBN útvalt)
 	      (NP*OB1 (PRO*A meg))
 	      (. ;)))
 
-( (IP*MAT*SPE (CONJ Men)
+(TOP (IP*MAT*SPE (CONJ Men)
 	      (NP*OB1 (Q*A alt) (D*A hetta))
 	      (MDPI skulu)
 	      (NP*SBJ (PRO*N teir))
@@ -4636,7 +4636,7 @@
 										  (NP*OB1 (PRO*A meg)))))))))
 	      (. .)))
 
-( (IP*MAT*SPE (" ")
+(TOP (IP*MAT*SPE (" ")
 	      (NP*OB1 (D*A Hetta))
 	      (HVPI havi)
 	      (NP*SBJ (PRO*N eg))
@@ -4653,7 +4653,7 @@
 					  (NP*OB1 (N*A meinboga)))))
 	      (. .)))
 
-( (IP*MAT*SPE (NP*OB1 (PRO*N Tað))
+(TOP (IP*MAT*SPE (NP*OB1 (PRO*N Tað))
 	      (BEPI er)
 	      (NP*SBJ (PRO*D tykkum))
 	      (PP (P at)
@@ -4689,11 +4689,11 @@
 									 (NP (PRO*G tykkara)))))))))
 	      (. .)))
 
-( (QTP (PP (P Um)
+(TOP (QTP (PP (P Um)
 	   (NP (Q*A lítla) (N*A stund)))
        (, ,)))
 
-( (IP*MAT (NP*SBJ (NPR*N Jesus))
+(TOP (IP*MAT (NP*SBJ (NPR*N Jesus))
 	  (VBDI visti)
 	  (, ,)
 	  (CP*THT (C at)
@@ -4704,7 +4704,7 @@
 				  (NP*OB1 (PRO*A hann)))))
 	  (. ,)))
 
-( (IP*MAT*SPE (CONJ men)
+(TOP (IP*MAT*SPE (CONJ men)
 	      (ADVP*TMP (ADV tá)
 			(CP*REL*SPE (C ið)
 				    (IP*SUB*SPE (NP*SBJ (PRO*N hon))
@@ -4732,7 +4732,7 @@
 						      (NP (N*A heim$) (D*A $in))))))))
 	      (. .)))
 
-( (IP*MAT*SPE (NP*OB1 (D*A Hetta))
+(TOP (IP*MAT*SPE (NP*OB1 (D*A Hetta))
 	      (HVPI havi)
 	      (NP*SBJ (PRO*N eg))
 	      (VBN talað)
@@ -4742,7 +4742,7 @@
 		  (NP (NS*D líknilsum)))
 	      (. .)))
 
-( (IP*MAT (ADVP*TMP (ADV Nú))
+(TOP (IP*MAT (ADVP*TMP (ADV Nú))
 	  (VBPI vita)
 	  (NP*SBJ (PRO*N vit))
 	  (, ,)
@@ -4763,7 +4763,7 @@
 									     (NP*OB2 (PRO*A teg))))))))
 	  (. ;)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (PRO*N hann))
 	  (VBDI lyfti)
 	  (RP upp)
@@ -4772,7 +4772,7 @@
 	  (PP (P til)
 	      (NP (N*A himmal$) (D*A $in)))))
 
-( (IP*MAT*SPE (ADVP*TMP (ADV Nú))
+(TOP (IP*MAT*SPE (ADVP*TMP (ADV Nú))
 	      (VBPI vita)
 	      (NP*SBJ (PRO*N teir))
 	      (, ,)
@@ -4805,7 +4805,7 @@
 						  (NP*OB2 (PRO*D teimum))))))
 	      (. ,)))
 
-( (IP*MAT*SPE (CONJ Men)
+(TOP (IP*MAT*SPE (CONJ Men)
 	      (ADVP*TMP (ADV nú))
 	      (VBPI komi)
 	      (NP*SBJ (PRO*N eg))
@@ -4813,7 +4813,7 @@
 		  (NP (PRO*G tín)))
 	      (. ;)))
 
-( (IP*MAT*SPE (CONJ Men)
+(TOP (IP*MAT*SPE (CONJ Men)
 	      (NP*SBJ (PRO*N eg))
 	      (VBPI biði)
 	      (NEG ikki)
@@ -4879,7 +4879,7 @@
 															  (NP*OB1 (PRO*A meg))))))))))))
 	      (. .)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (ALSO eisini)
 		  (NPR*N Judas)
 		  (, ,)
@@ -4903,7 +4903,7 @@
 					      (NP*POS (PRO*D sínum))))))))
 	  (. .)))
 
-( (IP*MAT (NP*SBJ (PRO*N Hann))
+(TOP (IP*MAT (NP*SBJ (PRO*N Hann))
 	  (VBDI spurdi)
 	  (NP*OB2 (PRO*A teir))
 	  (ADVP*TMP (ADV tá))
@@ -4917,7 +4917,7 @@
 	  (. ?-?)
 	  (" ")))
 
-( (IP*MAT (NP*SBJ (NP (NS*N Vaktarmenn$) (D*N $inir))
+(TOP (IP*MAT (NP*SBJ (NP (NS*N Vaktarmenn$) (D*N $inir))
 		  (CONJP (CONJ og)
 			 (NP (N*N hövuðsmaður$) (D*N $in)))
 		  (CONJP (CONJ og)
@@ -4929,13 +4929,13 @@
 	  (ADVP*TMP (ADV nú))
 	  (NP*OB1 (NPR*A Jesus))))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI fördi)
 	  (NP*OB1 (NPR*A Pætur))
 	  (RP inn)
 	  (. .)))
 
-( (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (CONJ og)
 	      (PP (P í)
 		  (NP (NS*D loyndum)))
 	      (HVPI havi)
@@ -4944,19 +4944,19 @@
 	      (VBN talað)
 	      (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI vermdi)
 	  (NP*OB1 (PRO*A seg))
 	  (. .)))
 
-( (IP*MAT (NP*SBJ (NPR*N Pilatus))
+(TOP (IP*MAT (NP*SBJ (NPR*N Pilatus))
 	  (VBDI fór)
 	  (ADVP*TMP (ADV tá))
 	  (PP (RP út)
 	      (P til)
 	      (NP (PRO*G teirra)))))
 
-( (IP*MAT (NP*SBJ (NPR*N Jesus))
+(TOP (IP*MAT (NP*SBJ (NPR*N Jesus))
 	  (VBDI svaraði)
 	  (, :)
 	  (" ")
@@ -4968,18 +4968,18 @@
 					  (NP*PRN (PRO*D sjálvum))))))
 	  (. ,)))
 
-( (IP*MAT*SPE (NP*SBJ (PRO*N eg))
+(TOP (IP*MAT*SPE (NP*SBJ (PRO*N eg))
 	      (BEPI eri)
 	      (NP*PRD (N*N kongur))
 	      (. .)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*SBJ (NPR*G Barabbas))
 	  (BEDI var)
 	  (NP*PRD (N*N ránsmaður))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBPI sigur)
 	  (PP (P við)
 	      (NP (PRO*A teir)))
@@ -5011,7 +5011,7 @@
 	  (. .)
 	  (" ")))
 
-( (IP*MAT (ADVP*TMP (ADV Tá)
+(TOP (IP*MAT (ADVP*TMP (ADV Tá)
 		    (CP*REL (C ið)
 			    (IP*SUB (ADVP*TMP (ADV nú))
 				    (NP*SBJ (NPR*N Pilatus))
@@ -5024,7 +5024,7 @@
 	      (NP (PRO*A hann)))
 	  (. ;)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI sögdu)
 	  (, :)
 	  (" ")
@@ -5041,7 +5041,7 @@
 			      (NP*POS (N*G keisara$) (D*G $ns))))
 	  (. .)))
 
-( (IP*MAT (ADVP*TMP (ADV Tá))
+(TOP (IP*MAT (ADVP*TMP (ADV Tá))
 	  (VBDI gav)
 	  (NP*SBJ (PRO*N hann))
 	  (NP*OB1 (PRO*A hann))
@@ -5056,7 +5056,7 @@
 			  (VAN krossfestur)))
 	  (. .)))
 
-( (IP*MAT (NP*SBJ (NPR*N Pilatus))
+(TOP (IP*MAT (NP*SBJ (NPR*N Pilatus))
 	  (VBDI svaraði)
 	  (, :)
 	  (" ")
@@ -5073,7 +5073,7 @@
 	  (. .)
 	  (" ")))
 
-( (IP*MAT (ADVP*TMP (ADV Síðan))
+(TOP (IP*MAT (ADVP*TMP (ADV Síðan))
 	  (VBPI sigur)
 	  (NP*SBJ (PRO*N hann))
 	  (PP (P við)
@@ -5089,11 +5089,11 @@
 	  (. !-!)
 	  (" ")))
 
-( (IP*MAT (NP*SBJ (NPRS*N Hermenn$) (D*N $inir))
+(TOP (IP*MAT (NP*SBJ (NPRS*N Hermenn$) (D*N $inir))
 	  (VBDI fóru)
 	  (PP (NP (PRO*D tí)))))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI bað)
 	  (NP*OB2 (NPR*A Pilatus))
 	  (PP (P um)
@@ -5107,7 +5107,7 @@
 			      (RP niður))))
 	  (. .)))
 
-( (IP*MAT (CONJ Men)
+(TOP (IP*MAT (CONJ Men)
 	  (NP*TMP (ADJ*A fyrsta)
 		  (N*A dag$)
 		  (D*A $in)
@@ -5129,14 +5129,14 @@
 	      (NP (N*A gröv$) (D*A $ina)))
 	  (. ,)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI kom)
 	  (ADVP*TMP (ADVR fyrr))
 	  (PP (P at)
 	      (NP (N*D gröv$) (D*D $ini)))
 	  (. .)))
 
-( (IP*MAT (NP*SBJ (NS*N Lærusveinar$) (D*N $nir))
+(TOP (IP*MAT (NP*SBJ (NS*N Lærusveinar$) (D*N $nir))
 	  (VBDI fóru)
 	  (ADVP*TMP (ADV tá))
 	  (ADVP*DIR (ADV heim))
@@ -5146,7 +5146,7 @@
 		  (NP*PRN (PRO*G sjálvs))))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (PRO*N hon))
 	  (VBDI visti)
 	  (NEG ikki)
@@ -5157,7 +5157,7 @@
 			  (NP*PRD (NPR*N Jesus))))
 	  (. .)))
 
-( (IP*MAT (NP*SBJ (NPR*N Jesus))
+(TOP (IP*MAT (NP*SBJ (NPR*N Jesus))
 	  (VBPI sigur)
 	  (PP (P við)
 	      (NP (PRO*A hana)))
@@ -5180,7 +5180,7 @@
 							      (NP (N*A faðir$) (D*A $in))))))))
 	  (. ;)))
 
-( (IP*MAT (NP*SBJ (NPR*N Jesus))
+(TOP (IP*MAT (NP*SBJ (NPR*N Jesus))
 	  (VBDI segði)
 	  (ADVP*TMP (ADV tá))
 	  (ADVP*TMP (ADV aftur))
@@ -5194,7 +5194,7 @@
 			  (NP (PRO*D tykkum))))
 	  (. !-!)))
 
-( (IP*MAT (NP*SBJ (NPR*N Jesus))
+(TOP (IP*MAT (NP*SBJ (NPR*N Jesus))
 	  (VBPI kemur)
 	  (, ,)
 	  (PP (P meðan)
@@ -5203,7 +5203,7 @@
 			      (VAN læstar))))
 	  (. ,)))
 
-( (IP*MAT (NP*SBJ (NPR*N Jesus))
+(TOP (IP*MAT (NP*SBJ (NPR*N Jesus))
 	  (VBPI sigur)
 	  (PP (P við)
 	      (NP (PRO*A hann)))
@@ -5222,13 +5222,13 @@
 		      (VBN trúð))
 	  (. .)))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (VBDI fóru)
 	  (PP (P í)
 	      (NP (N*A bát$) (D*A $in)))
 	  (. .)))
 
-( (IP*MAT (ADVP*TMP (ADV Tá))
+(TOP (IP*MAT (ADVP*TMP (ADV Tá))
 	  (VBPI sigur)
 	  (NP*SBJ (D*N tann)
 		  (N*N lærusveinur$)
@@ -5248,7 +5248,7 @@
 	  (. .)
 	  (" ")))
 
-( (IP*MAT (NP*SBJ (NPR*N Jesus))
+(TOP (IP*MAT (NP*SBJ (NPR*N Jesus))
 	  (VBPI sigur)
 	  (PP (P við)
 	      (NP (PRO*A teir)))
@@ -5256,7 +5256,7 @@
 	  (" ")
 	  (IP*IMP*SPE (VBI Komið))))
 
-( (IP*MAT (NP*SBJ (PRO*N Hann))
+(TOP (IP*MAT (NP*SBJ (PRO*N Hann))
 	  (VBPI sigur)
 	  (ADVP*TMP (ADV aftur))
 	  (PP (P á)
@@ -5273,7 +5273,7 @@
 	  (. ?-?)
 	  (" ")))
 
-( (IP*MAT*SPE (IP*MAT*SPE (CONJ og)
+(TOP (IP*MAT*SPE (IP*MAT*SPE (CONJ og)
 			    (NP*SBJ (ONE*N ein) (OTHER*N annar))
 			    (MDPI skal)
 			    (VB gyrða)
@@ -5291,7 +5291,7 @@
 	      (. .)
 	      (" ")))
 
-( (IP*MAT (CONJ og)
+(TOP (IP*MAT (CONJ og)
 	  (NP*SBJ (PRO*N vit))
 	  (VBPI vita)
 	  (, ,)
@@ -5301,3 +5301,4 @@
 			  (BEPI er)
 			  (ADJP (ADJ*N sannur))))
 	  (. .)))
+
