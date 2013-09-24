@@ -1,0 +1,34 @@
+Sender: LSF System <hpcadmin@compute007>
+Subject: Job 17399: <./runparser.sh 5> Done
+
+Job <./runparser.sh 5> was submitted from host <halley> by user <antonki13> in cluster <halley_cluster1>.
+Job was executed on host(s) <compute007>, in queue <medium_priority>, as user <antonki13> in cluster <halley_cluster1>.
+</home/antonki13> was used as the home directory.
+</home/antonki13/farpahc/parsald/exp/ei1> was used as the working directory.
+Started at Tue Sep 24 06:11:51 2013
+Results reported at Tue Sep 24 06:11:52 2013
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./runparser.sh 5
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.17 sec.
+    Max Memory :         1 MB
+    Max Swap   :        30 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+IOException
+java.io.FileNotFoundException: grammars/far5.gr (No such file or directory)
+Failed to load grammar from filegrammars/far5.gr.
+Machine parsing of test chunk 5 in seconds: 1

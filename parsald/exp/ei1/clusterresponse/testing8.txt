@@ -1,0 +1,31 @@
+Sender: LSF System <hpcadmin@compute003>
+Subject: Job 17402: <./runparser.sh 8> Done
+
+Job <./runparser.sh 8> was submitted from host <halley> by user <antonki13> in cluster <halley_cluster1>.
+Job was executed on host(s) <compute003>, in queue <medium_priority>, as user <antonki13> in cluster <halley_cluster1>.
+</home/antonki13> was used as the home directory.
+</home/antonki13/farpahc/parsald/exp/ei1> was used as the working directory.
+Started at Tue Sep 24 06:12:10 2013
+Results reported at Tue Sep 24 06:22:49 2013
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./runparser.sh 8
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :    756.24 sec.
+    Max Memory :      5685 MB
+    Max Swap   :     14881 MB
+
+    Max Processes  :         4
+    Max Threads    :        32
+
+The output (if any) follows:
+
+Machine parsing of test chunk 8 in seconds: 639
