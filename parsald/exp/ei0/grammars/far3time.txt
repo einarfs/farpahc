@@ -1,0 +1,1 @@
+Training on split 3 in seconds: 5968

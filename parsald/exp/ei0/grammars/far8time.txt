@@ -1,0 +1,1 @@
+Training on split 8 in seconds: 6092

@@ -1,0 +1,1 @@
+Training on split 6 in seconds: 6642
