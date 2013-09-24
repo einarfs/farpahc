@@ -1,0 +1,1 @@
+Training on split 4 in seconds: 15169
