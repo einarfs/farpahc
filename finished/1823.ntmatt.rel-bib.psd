@@ -1,4 +1,3 @@
-
 ( (META (CODE <heading>)
 	(NP (NPR-N Evangelium)
 	    (NP-POS (NPR-G Sankta) (NPR-G Mathæussa)))
@@ -21329,7 +21328,7 @@
 		      (VBPI ferðast)
 		      (PP (RP upp)
 			  (P til)
-			  (NP (N-G Jerusalem))))
+			  (NP (NPR-G Jerusalem))))
 	  (. ,-,)))
 
 ( (IP-MAT-SPE (CONJ og)
