@@ -28975,7 +28975,7 @@
 		    (CP-REL (WADVP-1 0)
 			    (C ið)
 			    (IP-SUB (ADVP-TMP *T*-1)
-				    (NP-SBJ (NPR-G Pætur))
+				    (NP-SBJ (NPR-N Pætur))
 				    (VBDI vendi)
 				    (NP-OB1 (PRO-D sær))
 				    (RP við))))
