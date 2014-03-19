@@ -5,10 +5,10 @@
 split=$1
 start=$(date +%s)
 
-training_file="corpus/icepahc09.psd"
-grammar_file="grammars/icepahc09.gr"
-training_report="grammars/icepahc09report.txt"
-time_report="grammars/icetrainingtime.txt"
+training_file="corpus/icepahc300.psd"
+grammar_file="grammars/icepahc300k.gr"
+training_report="grammars/icepahc300report.txt"
+time_report="grammars/ice300trainingtime.txt"
 echo $training_file
 
 # train parser
