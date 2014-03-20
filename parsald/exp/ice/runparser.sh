@@ -5,8 +5,8 @@
 split=$1
 start=$(date +%s)
 
-grammar_file="grammars/far"${split}".gr"
-input_file="corpus/far_split"${split}"testing.txt"
+grammar_file="grammars/ice300k.gr"
+input_file="../ei1/corpus/far_split"${split}"testing.txt"
 output_file=$"output/far_split"${split}"machineparsed.psd"
 
 # run parser
