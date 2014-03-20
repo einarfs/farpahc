@@ -3,7 +3,7 @@
 for i in `seq 0 9`;
 do
   echo "Split"$i
-  python ../../tscripts/formatgold.py "corpus/far_split"$i"testing.psd" > "gold/far_split"$i"gold.psd"
+  python ../../tscripts/formatgold.py "../ei1/corpus/far_split"$i"testing.psd" > "gold/far_split"$i"gold.psd"
   ../../EVALB/evalb -p "../../EVALB/sample/sample.prm" "gold/far_split"$i"gold.psd" "output/far_split"$i"machineparsed.psd" > "eval/far"$i"eval.txt"
 done    
 
