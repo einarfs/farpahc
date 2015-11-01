@@ -9548,7 +9548,7 @@
 	  (, :-:)
 	  (" ")
 	  (CP-QUE-SPE (IP-IMP-SPE-PRN (VBI Sig)
-				      (NP-SBJ (PRO-D mær)))
+				      (NP-OB2 (PRO-D mær)))
 		      (, ,-,)
 		      (WPP (P um)
 			   (WNP (WPRO-A hvönn)))
