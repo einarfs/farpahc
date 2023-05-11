@@ -4,6 +4,9 @@ Copyright 2012 Einar Freyr Sigurðsson, Anton Karl Ingason, Joel C. Wallenberg, 
 Website: http://linguist.is/farpahc/
 Contact: einarfs@gmail.com
 
+FarPaHC 0.1 in Penn Treebank format can be downloaded here: [https://repository.clarin.is/repository/xmlui/handle/20.500.12537/92](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/92)
+A conversion of two out of three texts in FarPaHC 0.1 to the Universal Dependencies scheme is found here: [https://github.com/UniversalDependencies/UD_Faroese-FarPaHC/](https://github.com/UniversalDependencies/UD_Faroese-FarPaHC/)
+
 Faroese Parsed Historical Corpus (FarPaHC)
 is free software: you can redistribute it and/or modify
 it under the terms of the GNU Lesser General Public License as published by
